@@ -3,7 +3,7 @@
     {
       "id": "harry-potter-wand",
       "title": "Harry Potter Remote Control Wand",
-      "price": "₹10,602",
+      "price": "$52.11",
       "priceNote": "on Amazon.in",
       "tags": [
         "Quirky",
@@ -21,7 +21,7 @@
       "imgs": [
         "images/HPRemoteWand.jpg"
       ],
-      "url": "https://www.amazon.in/Harry-Potter-Remote-Control-Wand/dp/B00FXMDRZK/",
+      "url": "https://amzn.to/3Q8hmOl",
       "recommendation": {
         "subreddit": "r/harrypotter",
         "username": "Team Recommendation",
