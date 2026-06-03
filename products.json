@@ -1,0 +1,4230 @@
+{
+  "products": [
+    {
+      "id": "harry-potter-wand",
+      "title": "Harry Potter Remote Control Wand",
+      "price": "$52.11",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Tech"
+      ],
+      "giftFor": [
+        "brother",
+        "boyfriend",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🪄",
+      "imgs": [
+        "images/HPRemoteWand.jpg"
+      ],
+      "url": "https://amzn.to/3Q8hmOl",
+      "recommendation": {
+        "subreddit": "r/harrypotter",
+        "username": "Team Recommendation",
+        "timeAgo": "8mo ago",
+        "comment": "Got this for my brother and he won't stop flicking spells at the TV. 10/10 gift.",
+        "upvotes": "600",
+        "threadUrl": "https://www.reddit.com/r/harrypotter/"
+      },
+      "sortUpvotes": 600
+    },
+    {
+      "id": "divoom-ditoo",
+      "title": "Divoom Ditoo Pixel Bluetooth Speaker",
+      "price": "$71.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎮",
+      "imgs": [
+        "images/Divoom.jpg"
+      ],
+      "url": "https://amzn.to/4uIJ831",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "Team Recommendation",
+        "timeAgo": "6mo ago",
+        "comment": "Been using this little guy daily for 2 years. Still going strong and people love it.",
+        "upvotes": "347",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/"
+      },
+      "sortUpvotes": 347
+    },
+    {
+      "id": "divoom-timebox",
+      "title": "Divoom Timebox Pixel Clock Speaker",
+      "price": "$34.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "⏰",
+      "imgs": [
+        "https://m.media-amazon.com/images/I/71GpG9SUYFL._SL500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/P/B07H7L1PLD.01._SX450_SCLZZZZZZZ_.jpg"
+      ],
+      "url": "https://amzn.to/4o3yFNd",
+      "recommendation": {
+        "subreddit": "r/DeskSetup",
+        "username": "Team Recommendation",
+        "timeAgo": "4mo ago",
+        "comment": "Adds vibe to my desk and the alarm is way less annoying than phone ones.",
+        "upvotes": "212",
+        "threadUrl": "https://www.reddit.com/r/DeskSetup/"
+      },
+      "sortUpvotes": 212
+    },
+    {
+      "id": "twin-lens-camera",
+      "title": "Vintage Twin-Lens Digital Camera",
+      "price": "$35.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "sister",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "📷",
+      "imgs": [
+        "images/VintageCamera.jpg"
+      ],
+      "url": "https://amzn.to/49wRcv8",
+      "recommendation": {
+        "subreddit": "r/analog",
+        "username": "Team Recommendation",
+        "timeAgo": "3mo ago",
+        "comment": "Gifted to my partner who loves film aesthetics. Way cheaper than a real TLR.",
+        "upvotes": "189",
+        "threadUrl": "https://www.reddit.com/r/analog/"
+      },
+      "sortUpvotes": 189
+    },
+    {
+      "id": "aquaminder-bottle",
+      "title": "Aquaminder Smart Hydration Bottle",
+      "price": "$79.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "sister",
+        "mother",
+        "girlfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💧",
+      "imgs": [
+        "images/SmartBottle.jpg"
+      ],
+      "url": "https://amzn.to/4u4i3pJ",
+      "recommendation": {
+        "subreddit": "r/Hydrohomies",
+        "username": "Team Recommendation",
+        "timeAgo": "5mo ago",
+        "comment": "The glow reminder actually works. My water intake doubled, no joke.",
+        "upvotes": "200",
+        "threadUrl": "https://www.reddit.com/r/Hydrohomies/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "divoom-pixoo-64",
+      "title": "Divoom Pixoo-64 LED Art Display",
+      "price": "$129.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🖥️",
+      "imgs": [
+        "images/WIFIPixelFrame.jpg"
+      ],
+      "url": "https://amzn.to/4fSPB6M",
+      "recommendation": {
+        "subreddit": "r/battlestations",
+        "username": "Team Recommendation",
+        "timeAgo": "2mo ago",
+        "comment": "Centerpiece of my setup now. Everyone who visits asks where I got it.",
+        "upvotes": "231",
+        "threadUrl": "https://www.reddit.com/r/battlestations/"
+      },
+      "sortUpvotes": 231
+    },
+    {
+      "id": "divoom-pixoo-frame",
+      "title": "Divoom Pixoo Smart Pixel Art Frame",
+      "price": "$25.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎨",
+      "imgs": [
+        "https://m.media-amazon.com/images/I/71Gbi0aB1kL._SL500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/P/B07HHXWN3C.01._SX450_SCLZZZZZZZ_.jpg"
+      ],
+      "url": "https://amzn.to/4vrHwuB",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "7mo ago",
+        "comment": "Bought it for a friend who's into pixel art. Instant hit, super customizable.",
+        "upvotes": "134",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 134
+    },
+    {
+      "id": "headphone-cable",
+      "title": "Headphone Pattern Charging Cable",
+      "price": "₹349",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Tech"
+      ],
+      "giftFor": [
+        "brother",
+        "sister",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎧",
+      "imgs": [
+        "images/HeadphonePatternCharging.jpg"
+      ],
+      "url": "https://www.amazon.in/CoolGift-Mart-Headphone-Pattern-Charging/dp/B0DGKV973D/",
+      "recommendation": {
+        "subreddit": "r/secretsanta",
+        "username": "Team Recommendation",
+        "timeAgo": "5mo ago",
+        "comment": "Perfect cheap stocking stuffer. Looks way more expensive than it is.",
+        "upvotes": "98",
+        "threadUrl": "https://www.reddit.com/r/secretsanta/"
+      },
+      "sortUpvotes": 98
+    },
+    {
+      "id": "aquaminder-bluetooth",
+      "title": "Aquaminder Bluetooth Hydration Tracker",
+      "price": "₹$19.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "sister",
+        "girlfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🫗",
+      "imgs": [
+        "images/AquaminderBluetoothHydration.jpg"
+      ],
+      "url": "https://amzn.to/4o3xlcX",
+      "recommendation": {
+        "subreddit": "r/QuantifiedSelf",
+        "username": "Team Recommendation",
+        "timeAgo": "3mo ago",
+        "comment": "Love seeing my hydration trends. Gifted one to my data-obsessed sister too.",
+        "upvotes": "145",
+        "threadUrl": "https://www.reddit.com/r/QuantifiedSelf/"
+      },
+      "sortUpvotes": 145
+    },
+    {
+      "id": "tag8-wallet",
+      "title": "Tag8 Bluetooth Smart Wallet",
+      "price": "₹1,499",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "👜",
+      "imgs": [
+        "images/SmartWallet.jpg"
+      ],
+      "url": "https://www.amazon.in/tag8-Bluetooth-Handcrafted-Rich-Brown/dp/B0DBQ7L5TN/",
+      "recommendation": {
+        "subreddit": "r/EDC",
+        "username": "Team Recommendation",
+        "timeAgo": "6mo ago",
+        "comment": "Got this for my dad who loses his wallet weekly. Hasn't lost it since.",
+        "upvotes": "21",
+        "threadUrl": "https://www.reddit.com/r/EDC/"
+      },
+      "sortUpvotes": 21
+    },
+    {
+      "id": "rfid-wallet",
+      "title": "Minimalist RFID Blocking Wallet",
+      "price": "₹799",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💳",
+      "imgs": [
+        "images/RFIDWallet.jpg"
+      ],
+      "url": "https://www.amazon.in/Minimalist-Compact-Blocking-Aluminum-Leather/dp/B0DCRZ5P2H/",
+      "recommendation": {
+        "subreddit": "r/minimalism",
+        "username": "Team Recommendation",
+        "timeAgo": "4mo ago",
+        "comment": "Switched my dad from a bulky wallet to this. He thanks me every week now.",
+        "upvotes": "56",
+        "threadUrl": "https://www.reddit.com/r/minimalism/"
+      },
+      "sortUpvotes": 56
+    },
+    {
+      "id": "flipper-zero",
+      "title": "Flipper Zero — Hacker's Tamagotchi",
+      "price": "$199",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Quirky"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🐬",
+      "imgs": [
+        "images/FlipperZero.jpg"
+      ],
+      "url": "https://amzn.to/4vpLdRq",
+      "recommendation": {
+        "subreddit": "r/flipperzero",
+        "username": "Team Recommendation",
+        "timeAgo": "2mo ago",
+        "comment": "Best gift for the tech-curious person in your life. Endless rabbit holes.",
+        "upvotes": "321",
+        "threadUrl": "https://www.reddit.com/r/flipperzero/"
+      },
+      "sortUpvotes": 321
+    },
+    {
+      "id": "egg-cuber",
+      "title": "Egg Cuber — Square Eggs",
+      "price": "CA$12",
+      "priceNote": "on Amazon.ca",
+      "tags": [
+        "Quirky",
+        "Kitchen"
+      ],
+      "giftFor": [
+        "friend",
+        "best-friend",
+        "brother",
+        "sister",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🥚",
+      "imgs": [
+        "images/EggCuber.jpg"
+      ],
+      "url": "https://www.amazon.ca/HOME-APP-47773-Eddingtons-Egg-Cuber/dp/B001V89EYS",
+      "recommendation": {
+        "subreddit": "r/notinteresting",
+        "username": "Team Recommendation",
+        "timeAgo": "9mo ago",
+        "comment": "Gave it as a white elephant gift. It stole the whole show, oddly satisfying.",
+        "upvotes": "18",
+        "threadUrl": "https://www.reddit.com/r/notinteresting/"
+      },
+      "sortUpvotes": 18
+    },
+    {
+      "id": "herb-stripper",
+      "title": "Cell Phone Stand with Bluetooth Speaker",
+      "price": "$25.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Kitchen",
+        "Quirky"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "sister",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🌿",
+      "imgs": [
+        "https://m.media-amazon.com/images/I/81k4TeFWuZL._SL500_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/P/B08GC1G4Y9.01._SX450_SCLZZZZZZZ_.jpg"
+      ],
+      "url": "https://amzn.to/4dWJMCP",
+      "recommendation": {
+        "subreddit": "r/Cooking",
+        "username": "Team Recommendation",
+        "timeAgo": "5mo ago",
+        "comment": "Tiny tool, big quality-of-life boost. Everyone I've gifted it to uses it.",
+        "upvotes": "62",
+        "threadUrl": "https://www.reddit.com/r/Cooking/"
+      },
+      "sortUpvotes": 62
+    },
+    {
+      "id": "shiksell-retro-speaker",
+      "title": "Shiksell Retro Wireless Bluetooth Speaker",
+      "price": "₹1,299",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "sister",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📻",
+      "imgs": [
+        "images/ShiksellRetroWireless.jpg"
+      ],
+      "url": "https://www.amazon.in/SHIKSELL-Retro-Style-Wireless-Bluetooth-Ambience/dp/B0DHQJFTST/",
+      "recommendation": {
+        "subreddit": "r/CozyPlaces",
+        "username": "Team Recommendation",
+        "timeAgo": "3mo ago",
+        "comment": "The ambient glow makes my room so cozy. Sound is solid for the price too.",
+        "upvotes": "42",
+        "threadUrl": "https://www.reddit.com/r/CozyPlaces/"
+      },
+      "sortUpvotes": 42
+    },
+    {
+      "id": "h3-antenna-speaker",
+      "title": "Oncheer Portable Vintage Retro Bluetooth Speaker",
+      "price": "$14.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Quirky"
+      ],
+      "giftFor": [
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📡",
+      "imgs": [
+        "images/H3BluetoothSpeaker.jpg"
+      ],
+      "url": "https://amzn.to/4u4e8tf",
+      "recommendation": {
+        "subreddit": "r/BudgetAudiophile",
+        "username": "Team Recommendation",
+        "timeAgo": "2mo ago",
+        "comment": "Punches way above its price. Got two — one for me, one for my nephew.",
+        "upvotes": "128",
+        "threadUrl": "https://www.reddit.com/r/BudgetAudiophile/"
+      },
+      "sortUpvotes": 128
+    },
+    {
+      "id": "noizzybox-retro",
+      "title": "Noizzybox Retro Buddy Bluetooth Speaker",
+      "price": "₹1,499",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "sister",
+        "girlfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🔊",
+      "imgs": [
+        "images/NoizzyboxRetroBuddy.jpg"
+      ],
+      "url": "https://www.amazon.in/NB-NOIZZYBOX-Retro-Buddy-Bluetooth/dp/B0CK95QDXC/",
+      "recommendation": {
+        "subreddit": "r/gadgets",
+        "username": "Team Recommendation",
+        "timeAgo": "4mo ago",
+        "comment": "Cutest little speaker. Lives on my shelf and works better than it looks.",
+        "upvotes": "53",
+        "threadUrl": "https://www.reddit.com/r/gadgets/"
+      },
+      "sortUpvotes": 53
+    },
+    {
+      "id": "divoom-times-gate",
+      "title": "Divoom Times Gate Pixel Display Clock",
+      "price": "₹8,999",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🕹️",
+      "imgs": [
+        "images/DivoomTimesGate.jpg"
+      ],
+      "url": "https://www.amazon.in/Divoom-Times-Gate-App-Controlled-Forecast/dp/B0CQCGVL9K/",
+      "recommendation": {
+        "subreddit": "r/cyberpunk",
+        "username": "Team Recommendation",
+        "timeAgo": "1mo ago",
+        "comment": "Looks straight out of a sci-fi film. Best desk decor I've bought in years.",
+        "upvotes": "120",
+        "threadUrl": "https://www.reddit.com/r/cyberpunk/"
+      },
+      "sortUpvotes": 120
+    },
+    {
+      "id": "smart-curtain-led",
+      "title": "Smart Curtain LED Display Light",
+      "price": "₹2,499",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Home",
+        "Tech"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "sister",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "✨",
+      "imgs": [
+        "images/SmartCurtainLED.jpg"
+      ],
+      "url": "https://www.amazon.in/Curtain-Control-Display-Decorative-Festival/dp/B0GH6SC3HN/",
+      "recommendation": {
+        "subreddit": "r/HomeDecorating",
+        "username": "Team Recommendation",
+        "timeAgo": "2mo ago",
+        "comment": "Used it for a birthday and spelled out their name. Total showstopper.",
+        "upvotes": "64",
+        "threadUrl": "https://www.reddit.com/r/HomeDecorating/"
+      },
+      "sortUpvotes": 64
+    },
+    {
+      "id": "rgb-gaming-controller",
+      "title": "Wireless Gaming Controller with RGB Lights",
+      "price": "$19.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Gaming",
+        "Tech"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎮",
+      "imgs": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DRYKJ1PC.01._SX450_SCLZZZZZZZ_.jpg",
+        "https://m.media-amazon.com/images/P/B0DRYKJ1PC.01._SX450_.jpg"
+      ],
+      "url": "https://amzn.to/3PTTaPu",
+      "recommendation": {
+        "subreddit": "r/gaming",
+        "username": "Team Recommendation",
+        "timeAgo": "3mo ago",
+        "comment": "Solid budget controller. The RGB is a nice touch and the kid loves it.",
+        "upvotes": "89",
+        "threadUrl": "https://www.reddit.com/r/gaming/"
+      },
+      "sortUpvotes": 89
+    },
+    {
+      "id": "boost-smart-bottle",
+      "title": "BOOST Smart Water Bottle Tracker",
+      "price": "₹1,599",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "sister",
+        "girlfriend",
+        "mother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💧",
+      "imgs": [
+        "images/BOOSTSmartWater.jpg"
+      ],
+      "url": "https://www.amazon.in/BOOST-Smart-Bottle-Reminder-Tracker/dp/B0CGVC3D97/",
+      "recommendation": {
+        "subreddit": "r/getdisciplined",
+        "username": "Team Recommendation",
+        "timeAgo": "4mo ago",
+        "comment": "The glow reminder builds the habit better than any phone app I've tried.",
+        "upvotes": "78",
+        "threadUrl": "https://www.reddit.com/r/getdisciplined/"
+      },
+      "sortUpvotes": 78
+    },
+    {
+      "id": "ulanzi-pixel-clock",
+      "title": "ULANZI TC001 Smart Pixel Clock",
+      "price": "₹4,999",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "⏰",
+      "imgs": [
+        "images/ULANZITC001Smart.jpg"
+      ],
+      "url": "https://www.amazon.in/ULANZI-TC001-Smart-Social-Counter/dp/B0D9XS6F1Y/",
+      "recommendation": {
+        "subreddit": "r/homeautomation",
+        "username": "Team Recommendation",
+        "timeAgo": "1mo ago",
+        "comment": "Integrates with Home Assistant beautifully. The pixel display is gorgeous.",
+        "upvotes": "96",
+        "threadUrl": "https://www.reddit.com/r/homeautomation/"
+      },
+      "sortUpvotes": 96
+    },
+    {
+      "id": "stanley-tumbler",
+      "title": "Stanley Insulated Tumbler",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "father",
+        "mother",
+        "boyfriend",
+        "girlfriend",
+        "friend",
+        "brother",
+        "sister",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🥤",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Stanley+Insulated+Tumbler",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/KindVeterinarian3803",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "My Stanley is 20 years old and works like the day I bought it.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7wfwrk/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "owala-water-bottle",
+      "title": "Owala FreeSip Water Bottle",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "sister",
+        "girlfriend",
+        "friend",
+        "mother",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💧",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Owala+FreeSip+Water+Bottle",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/bigbeakbaby",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Got my husband an Owala and it's probably the only thing I've ever gotten him that he uses regularly!",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7pn5l8/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "darn-tough-socks",
+      "title": "Darn Tough Merino Wool Socks",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Outdoors"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "grandparents",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧦",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Darn+Tough+Merino+Wool+Socks",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/KindVeterinarian3803",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Something like 95% of the people who complete the Pacific Crest Trail are wearing Darn Toughs when they cross the finish line.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7wfrgg/"
+      },
+      "sortUpvotes": 3
+    },
+    {
+      "id": "leatherman-multitool",
+      "title": "Leatherman Multitool",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Outdoors"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🔧",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Leatherman+Multitool",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/Shell-Fire",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Most guys I know love those Leatherman multi tools.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7prdzy/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "saddleback-bifold-wallet",
+      "title": "Saddleback Leather Medium Bi-fold Wallet",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "father",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "👛",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Saddleback+Leather+Bifold+Wallet",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/koolaidismything",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "They are the real deal — $50–100 and lifetime warranty. Any guy will be pleased.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7p3qxi/"
+      },
+      "sortUpvotes": 3
+    },
+    {
+      "id": "spyderco-delica-4",
+      "title": "Spyderco Delica 4 Pocket Knife",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Outdoors",
+        "Tech"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🔪",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/Spyderco-004171-Delica-Stainless-C11Ps/dp/B000EX4ZPO/",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/ethanh333",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Spyderco Delica 4 knife — a classic everyday carry.",
+        "upvotes": "12",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7pds0h/"
+      },
+      "sortUpvotes": 12
+    },
+    {
+      "id": "birkenstocks",
+      "title": "Birkenstock Arizona Sandals",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "mother",
+        "sister",
+        "girlfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "👡",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Birkenstock+Arizona+Sandals",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/Ill_Contribution_762",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Birkenstocks. Always been a hit.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o8fik7r/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "bug-a-salt",
+      "title": "Bug-A-Salt Bug Killing Salt Gun",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Home"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧂",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Bug-A-Salt+Salt+Gun",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/akkakex",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Bug-A-Salt salt gun for shooting mosquitoes. A lot of fun and better than a fly swatter will ever be.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7u8glv/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "ez-duz-it-can-opener",
+      "title": "EZ-DUZ-IT Can Opener",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen"
+      ],
+      "giftFor": [
+        "mother",
+        "grandparents",
+        "friend",
+        "christmas"
+      ],
+      "emoji": "🥫",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=EZ-DUZ-IT+Can+Opener",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/KindVeterinarian3803",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "It works flawlessly, made in the USA, built to last a lifetime, every house needs one, and it's $15.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7wf0tz/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "skylight-frame",
+      "title": "Skylight Digital Picture Frame",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "best-friend",
+        "christmas",
+        "anniversary",
+        "birthday"
+      ],
+      "emoji": "🖼️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Skylight+Digital+Picture+Frame",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/livmilktea",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Skylight frame — a digital frame that shuffles through pictures you choose to display.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7qml8w/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "mitutoyo-caliper",
+      "title": "Mitutoyo Digimatic Caliper",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📏",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Mitutoyo+Digimatic+Caliper",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/t3chiman",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Mitutoyo Digimatic caliper. Measure anything to .001 inch precision, forever.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o7u99qb/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "ll-bean-tote",
+      "title": "L.L. Bean Boat & Tote Canvas Bag",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "mother",
+        "sister",
+        "girlfriend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "👜",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=L.L.+Bean+Boat+Tote+Canvas+Bag",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/jack_gott",
+        "timeAgo": "in r/BuyItForLife",
+        "comment": "Best gift I ever received is an LL Bean canvas tote bag, with my initials stitched on. I use it for everything.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o84h7pe/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "personalized-cutting-board",
+      "title": "Personalized Wooden Cutting Board",
+      "price": "$21.50",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Kitchen",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "mother",
+        "girlfriend",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🪵",
+      "imgs": [
+        "images/PersonalizedWoodenCutting.jpg"
+      ],
+      "url": "https://amzn.to/4dUlmcX",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/Alex00120021",
+        "timeAgo": "in r/Gifts",
+        "comment": "Personalized cutting board from Etsy with her family name carved in. She uses it all the time and it's held up really well. $55.",
+        "upvotes": "472",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/"
+      },
+      "sortUpvotes": 472
+    },
+    {
+      "id": "constellation-star-map",
+      "title": "Personalized Constellation Star Map Print",
+      "price": "13.98",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "girlfriend",
+        "father",
+        "mother",
+        "best-friend",
+        "anniversary",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "✨",
+      "imgs": [
+        "images/ConstellationStarMap.jpg"
+      ],
+      "url": "https://amzn.to/4dUOUam",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/Alex00120021",
+        "timeAgo": "in r/Gifts",
+        "comment": "Constellation map showing the night sky from the date he met my mom. He literally cried and hung it in his office. $65.",
+        "upvotes": "472",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/"
+      },
+      "sortUpvotes": 472
+    },
+    {
+      "id": "desk-plant-with-pot",
+      "title": "Indoor Desk Plant with Decorative Pot",
+      "price": "$13.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "sister",
+        "mother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🪴",
+      "imgs": [
+        "images/IndoorDeskPlant.jpg"
+      ],
+      "url": "https://amzn.to/49SbZJZ",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/Alex00120021",
+        "timeAgo": "in r/Gifts",
+        "comment": "Nice desk plant from The Sill plus a decorative pot. Still alive on her desk somehow. $40 combined.",
+        "upvotes": "472",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/"
+      },
+      "sortUpvotes": 472
+    },
+    {
+      "id": "water-bottle-charger-speaker",
+      "title": "Water Bottle with Built-in Phone Charger & Speaker",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Wellness"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💧",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Water+Bottle+Phone+Charger+Speaker",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/alpacaapicnic",
+        "timeAgo": "in r/Gifts",
+        "comment": "Stepdad is a workout fiend — got him a combo water bottle/phone charger/speaker and he uses it all the time.",
+        "upvotes": "51",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq3hdkl/"
+      },
+      "sortUpvotes": 51
+    },
+    {
+      "id": "personalized-christmas-ornament",
+      "title": "Personalized Christmas Ornament",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "best-friend",
+        "sister",
+        "mother",
+        "girlfriend",
+        "friend",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🎄",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.in/Curious-Button-Personalized-Christmas-Bauble/dp/B0G3GYKTFT/",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/alpacaapicnic",
+        "timeAgo": "in r/Gifts",
+        "comment": "Friends who love to do crosswords got married and changed their last name — got them a Christmas ornament shaped like a crossword with their old and new names.",
+        "upvotes": "51",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq3hdkl/"
+      },
+      "sortUpvotes": 51
+    },
+    {
+      "id": "elephant-friendship-ornament",
+      "title": "Elephant Friendship Ornament with Sentiment Card",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "best-friend",
+        "sister",
+        "friend",
+        "mother",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🐘",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Elephant+Friendship+Ornament+Thank+You+for+Being+My+Elephant",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/Agreeable_Gain6779",
+        "timeAgo": "in r/Gifts",
+        "comment": "Pretty elephant ornament with a letter about female elephants protecting each other. Ends with 'thank you for being my elephant'.",
+        "upvotes": "23",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq3nl8q/"
+      },
+      "sortUpvotes": 23
+    },
+    {
+      "id": "digital-photo-frame",
+      "title": "Digital Photo Frame with Wi-Fi",
+      "price": "$69.98",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "best-friend",
+        "anniversary",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🖼️",
+      "imgs": [
+        "images/DigitalPhotoFrame.jpg"
+      ],
+      "url": "https://www.amazon.com/Akimart-Digital-Auto-Rotate-Anywhere-Android/dp/B083SH697H/",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/spaceblanc",
+        "timeAgo": "in r/Gifts",
+        "comment": "I've had luck with personalized or upgrade-style gifts, like a digital photo frame loaded with family pics. Thoughtful almost always beats expensive.",
+        "upvotes": "4",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq5q1bp/"
+      },
+      "sortUpvotes": 4
+    },
+    {
+      "id": "constellation-travel-mug",
+      "title": "Insulated Travel Mug with Constellation Map",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen",
+        "Quirky"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "girlfriend",
+        "best-friend",
+        "anniversary",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "☕",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Insulated+Travel+Mug+Constellation+Map",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/Decent_Flow140",
+        "timeAgo": "in r/Gifts",
+        "comment": "My husband gave me a nice metal travel mug with the constellation map of our wedding night. I cried and still use it almost every day many years later.",
+        "upvotes": "7",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq645n0/"
+      },
+      "sortUpvotes": 7
+    },
+    {
+      "id": "shark-charcuterie-board",
+      "title": "Shark-Shaped 'Shark Coochie' Charcuterie Board",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen",
+        "Quirky"
+      ],
+      "giftFor": [
+        "sister",
+        "friend",
+        "best-friend",
+        "girlfriend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🦈",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Shark+Coochie+Charcuterie+Board",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/YouThinkYouKnowStuff",
+        "timeAgo": "in r/Gifts",
+        "comment": "Got my daughter a charcuterie board with a shark on it that says 'shark coochie'. She loves anything nautical and slightly saucy. Uses it all the time.",
+        "upvotes": "13",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq523e2/"
+      },
+      "sortUpvotes": 13
+    },
+    {
+      "id": "fahlo-tracking-bracelet",
+      "title": "Fahlo Animal Tracking Bracelet",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Quirky"
+      ],
+      "giftFor": [
+        "sister",
+        "best-friend",
+        "girlfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🐢",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Fahlo+Animal+Tracking+Bracelet",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/kslmp63",
+        "timeAgo": "in r/Gifts",
+        "comment": "Fahlo tracking bracelets. The person can pick an animal — sea turtles, sharks, gorillas — and get a bracelet or stuffed animal. Plus a poster of the moon phase on their child's birthday.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq6t3gt/"
+      },
+      "sortUpvotes": 3
+    },
+    {
+      "id": "rabbit-toast-tongs",
+      "title": "Wooden Rabbit Toast Tongs",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen",
+        "Quirky"
+      ],
+      "giftFor": [
+        "grandparents",
+        "mother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🐰",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Wooden+Rabbit+Toast+Tongs",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/Economy_Emotion_7251",
+        "timeAgo": "in r/Gifts",
+        "comment": "My grandma eats toast every single day and she loved the wooden toast tongs — she uses them every day.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq8ed7t/"
+      },
+      "sortUpvotes": 3
+    },
+    {
+      "id": "electric-kettle-gift",
+      "title": "Electric Kettle for Tea",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen",
+        "Home"
+      ],
+      "giftFor": [
+        "grandparents",
+        "mother",
+        "father",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🫖",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Electric+Kettle",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/Economy_Emotion_7251",
+        "timeAgo": "in r/Gifts",
+        "comment": "She was still making tea the old school way with a kettle. I got her an electric kettle and she uses it every single day.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq8ed7t/"
+      },
+      "sortUpvotes": 3
+    },
+    {
+      "id": "george-foreman-grill",
+      "title": "George Foreman Indoor Grill",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🥪",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=George+Foreman+Grill",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/WildBillNECPS",
+        "timeAgo": "in r/Gifts",
+        "comment": "Got my preteen son a George Foreman Grill. I couldn't believe how much he liked it. He makes sourdough grilled cheese, bacon, and such.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nq7kb3w/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "yeti-wine-tumbler-set",
+      "title": "Yeti Insulated Wine Tumbler Set",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Kitchen"
+      ],
+      "giftFor": [
+        "sister",
+        "best-friend",
+        "girlfriend",
+        "mother",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🍷",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Yeti+Wine+Tumbler+Set",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/MaryV2543",
+        "timeAgo": "in r/Gifts",
+        "comment": "Yeti wine cups were a hit with tweens and 20-somethings girls at our gift swap.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nqx2945/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "tortilla-blanket",
+      "title": "Giant Tortilla Wrap Blanket",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "brother",
+        "sister",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🌯",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Tortilla+Wrap+Blanket",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/smer85",
+        "timeAgo": "in r/Gifts",
+        "comment": "Tortilla blankets for every teenager on my list. I don't get it, but they freaking love making a burrito out of themselves.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1p2xc7k/gifts_i_gave_last_year_that_were_actually_hits/nqb0cpp/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "digital-picture-frame",
+      "title": "Digital Picture Frame",
+      "price": "$100.29",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "best-friend",
+        "anniversary",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🖼️",
+      "imgs": [
+        "images/DigitalPhotoFrame.jpg"
+      ],
+      "url": "https://amzn.to/4uF4gqL",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Dkinny23",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Ideas I've had so far include digital picture frame, coffee subscription, and heated blanket.",
+        "upvotes": "247",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/"
+      }
+    },
+    {
+      "id": "heated-blanket",
+      "title": "Heated Blanket",
+      "price": "$39.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Wellness"
+      ],
+      "giftFor": [
+        "mother",
+        "grandparents",
+        "girlfriend",
+        "sister",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🔥",
+      "imgs": [
+        "images/HeatedBlanket.jpg"
+      ],
+      "url": "https://amzn.to/4dHcPeP",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Dkinny23",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Ideas I've had so far include digital picture frame, coffee subscription, and heated blanket.",
+        "upvotes": "247",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/"
+      }
+    },
+    {
+      "id": "ultrasonic-jewellery-cleaner",
+      "title": "Ultrasonic Jewellery Cleaner",
+      "price": "$33.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Tech"
+      ],
+      "giftFor": [
+        "mother",
+        "sister",
+        "girlfriend",
+        "anniversary",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💍",
+      "imgs": [
+        "images/UltrasonicJewelleryCleaner.jpg"
+      ],
+      "url": "https://amzn.to/4dQF2P2",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/FunctionalHumanBeing",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Ultrasonic jewellery cleaner. My dad had an ultrasonic cleaner for glasses at his opticians and that worked like a charm.",
+        "upvotes": "286",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0eugwk/"
+      }
+    },
+    {
+      "id": "vacuum-sealer",
+      "title": "Vacuum Sealer for Food",
+      "price": "$32.39",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Kitchen",
+        "Home"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "friend",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🍱",
+      "imgs": [
+        "images/VacuumSealerfor.jpg"
+      ],
+      "url": "https://amzn.to/4uDFJCp",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Besnasty",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Vacuum sealer for food.",
+        "upvotes": "190",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0fs8bt/"
+      }
+    },
+    {
+      "id": "mug-warmer",
+      "title": "Mug Warmer",
+      "price": "$36.64",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Kitchen",
+        "Home"
+      ],
+      "giftFor": [
+        "father",
+        "mother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "☕",
+      "imgs": [
+        "images/MugWarmer.jpg"
+      ],
+      "url": "https://amzn.to/3RWDn33",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Sugarbumb",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Mug warmer.",
+        "upvotes": "197",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0ejjs5/"
+      }
+    },
+    {
+      "id": "stained-glass-suncatchers",
+      "title": "Stained Glass Suncatchers",
+      "price": "$22.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "mother",
+        "grandparents",
+        "best-friend",
+        "sister",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🌈",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4a8sFNd",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Odd_Beyond6809",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "For something unique under $50, how about stained glass suncatchers? They're a cool gift that people don't usually think to buy themselves!",
+        "upvotes": "124",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/mnjy4yo/"
+      }
+    },
+    {
+      "id": "heated-slippers",
+      "title": "Heated Slippers",
+      "price": "$29.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Wellness",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "girlfriend",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🥿",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4dDQCOI",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/fancybeadedplacemat",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Heated slippers.",
+        "upvotes": "102",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0f2ypo/"
+      }
+    },
+    {
+      "id": "towel-warmer",
+      "title": "Towel Warmer",
+      "price": "$99.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Wellness"
+      ],
+      "giftFor": [
+        "mother",
+        "girlfriend",
+        "sister",
+        "anniversary",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🛁",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4ubk6bQ",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Dobby-is-my-Hero",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Towel warmer.",
+        "upvotes": "96",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0eqq1k/"
+      }
+    },
+    {
+      "id": "rechargeable-hand-warmers",
+      "title": "Rechargeable Hand Warmers",
+      "price": "$16.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Outdoors",
+        "Tech"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🧤",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4v1EoWx",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Adjustabler",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "I gave a friend a set of rechargeable hand warmers once and he couldn't stop talking about how handy they were in winter.",
+        "upvotes": "71",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/nf74bxs/"
+      }
+    },
+    {
+      "id": "phone-battery-pack",
+      "title": "Cell Phone Rechargeable Battery Pack",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech"
+      ],
+      "giftFor": [
+        "friend",
+        "best-friend",
+        "brother",
+        "sister",
+        "father",
+        "mother",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🔋",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Power+Bank+Phone+Charger",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/ellegrow",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Cell phone rechargeable battery pack.",
+        "upvotes": "34",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0fb83b/"
+      }
+    },
+    {
+      "id": "rechargeable-neck-light",
+      "title": "Rechargeable Neck Light",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "father",
+        "grandparents",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💡",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Rechargeable+Neck+Reading+Light",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Kind-Ad-7382",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "If the person has a hobby that requires being able to see well, consider a neck light. It comes around each side of the neck, with small bright lights on each end.",
+        "upvotes": "11",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0gmg8p/"
+      }
+    },
+    {
+      "id": "car-battery-jump-starter",
+      "title": "Portable Car Battery Jump Starter",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Outdoors"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "grandparents",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🚗",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Portable+Car+Jump+Starter+Battery+Pack",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Phebose",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Battery pack jump starter is great. Can be used to jumpstart your own car and you feel like a hero when you jumpstart someone else's. Also can be used to charge your phone.",
+        "upvotes": "9",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0fbyv7/"
+      }
+    },
+    {
+      "id": "toaster-tongs",
+      "title": "Toaster Tongs",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen",
+        "Quirky"
+      ],
+      "giftFor": [
+        "mother",
+        "grandparents",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🍞",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Bamboo+Toaster+Tongs",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Bedeliaruns",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Toaster tongs.",
+        "upvotes": "8",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0esgzm/"
+      }
+    },
+    {
+      "id": "portable-phone-projector",
+      "title": "Portable Phone Projector",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📽️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Portable+Mini+Projector+Phone",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/CashEquity",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "One of the coolest under-$50 gifts I've given was a portable projector that connects to a phone. It wasn't super fancy but people loved using it for impromptu movie nights.",
+        "upvotes": "4",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/neuy7lw/"
+      }
+    },
+    {
+      "id": "heated-mattress-pad",
+      "title": "Heated Mattress Pad",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Home",
+        "Wellness"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "girlfriend",
+        "christmas",
+        "birthday",
+        "anniversary"
+      ],
+      "emoji": "🛏️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Heated+Mattress+Pad",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/Kind-Ad-7382",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Heated mattress pad! I love mine.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0gm02z/"
+      }
+    },
+    {
+      "id": "heated-throw-blanket",
+      "title": "Heated Throw Blanket",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Home",
+        "Wellness"
+      ],
+      "giftFor": [
+        "mother",
+        "grandparents",
+        "girlfriend",
+        "sister",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🛋️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Electric+Heated+Throw+Blanket",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/SnoopyisCute",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Heated throw is my go-to gift.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0f6e9i/"
+      }
+    },
+    {
+      "id": "insulated-pizza-delivery-bag",
+      "title": "Insulated Pizza Bag",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen",
+        "Quirky"
+      ],
+      "giftFor": [
+        "brother",
+        "father",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🍕",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Insulated+Pizza+Delivery+Bag",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/MissKisskoli",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "Pizza bag. We love ours. Keeps our pizzas warm when we place a pick up order!",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0ibtet/"
+      }
+    },
+    {
+      "id": "star-projector-light",
+      "title": "Star Projector Ceiling Light",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "sister",
+        "girlfriend",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "✨",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Star+Projector+Ceiling+Light",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/MoustacheDr",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "One of the coolest under-$50 gifts I've given was a projector light that throws stars on the ceiling.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/nf0mljd/"
+      }
+    },
+    {
+      "id": "digital-kitchen-scale",
+      "title": "Digital Kitchen Scale",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen"
+      ],
+      "giftFor": [
+        "mother",
+        "sister",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "⚖️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Digital+Kitchen+Scale",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/PrestigiousFan3122",
+        "timeAgo": "in r/GiftIdeas",
+        "comment": "I can't believe I lived many years without a kitchen scale. I don't even remember what prompted me to get one, but I did, and I use it all the time.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/nqc866q/"
+      }
+    },
+    {
+      "id": "littmann-stethoscope",
+      "title": "Littmann Classic II Stethoscope",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "sister",
+        "brother",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🩺",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Littmann+Classic+II+Stethoscope",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/Wayward-Soul",
+        "timeAgo": "in r/AskReddit",
+        "comment": "Littmann is generally considered a great choice, and if you shop around online you can get a standard (Classic II) steth in many colors for less than a hundred and usually you can add engraving.",
+        "upvotes": "36",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4oie6/"
+      }
+    },
+    {
+      "id": "nalgene-water-bottle",
+      "title": "Nalgene Water Bottle",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Outdoors",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💧",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Nalgene+Water+Bottle",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/Elyezabeth",
+        "timeAgo": "in r/AskReddit",
+        "comment": "A guy gave me a bright green Nalgene water bottle filled with jelly beans because he knew that was one of my favorite candies. I still use that water bottle all the time, so it was useful too.",
+        "upvotes": "41",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4unjj/"
+      }
+    },
+    {
+      "id": "swiss-army-knife",
+      "title": "Victorinox Swiss Army Knife",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Outdoors",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🔪",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Victorinox+Swiss+Army+Knife",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/strangermusic",
+        "timeAgo": "in r/AskReddit",
+        "comment": "A Swiss Army knife for my purse. It's one of the most practical things I've ever gotten. Anytime I need to open something, it makes me think of him.",
+        "upvotes": "13",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4x92e/"
+      }
+    },
+    {
+      "id": "programmable-crock-pot",
+      "title": "Programmable Slow Cooker (Crock Pot)",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Kitchen",
+        "Home"
+      ],
+      "giftFor": [
+        "mother",
+        "grandparents",
+        "best-friend",
+        "friend",
+        "christmas",
+        "birthday",
+        "anniversary"
+      ],
+      "emoji": "🍲",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Programmable+Slow+Cooker+Crock+Pot",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/QueenOfPurple",
+        "timeAgo": "in r/AskReddit",
+        "comment": "My college boyfriend gave me a fancy (programmable) crock pot. The relationship didn't last but that crock pot is still working!",
+        "upvotes": "10",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4vi14/"
+      }
+    },
+    {
+      "id": "goose-down-duvet",
+      "title": "Goose Down Duvet / Comforter",
+      "price": "$60.00",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "girlfriend",
+        "boyfriend",
+        "anniversary",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🛏️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4ucF226",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/katwasalreadytaken",
+        "timeAgo": "in r/AskReddit",
+        "comment": "My boyfriend had the best duvet in the world. It was goose down and new they cost 300 bucks or more. The day before I moved away to college he gave me his prized possession — the comforter. That was an amazing gift.",
+        "upvotes": "60",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4qcwn/"
+      }
+    },
+    {
+      "id": "framed-butterfly",
+      "title": "Framed Real Butterfly Specimen",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "sister",
+        "best-friend",
+        "mother",
+        "girlfriend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🦋",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Framed+Butterfly+Specimen+Shadow+Box",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/Thecrossfire22",
+        "timeAgo": "in r/AskReddit",
+        "comment": "A framed butterfly, when I had returned home after spending the most perfect 6 months in Australia where I met my then bf. He sent it with a note 'I hope I still give you butterflies'. It still sits on my windowsill.",
+        "upvotes": "32",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4w1qi/"
+      }
+    },
+    {
+      "id": "purple-cutlery-set",
+      "title": "Purple Silverware / Cutlery Set",
+      "price": "$35.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Kitchen",
+        "Home"
+      ],
+      "giftFor": [
+        "mother",
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🍴",
+      "imgs": [
+        "images/PurpleSilverware.jpg"
+      ],
+      "url": "https://amzn.to/4uE4f6x",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/EekaNumber3",
+        "timeAgo": "in r/AskReddit",
+        "comment": "This was my first Christmas in my new apartment and I had the typical hodge-podge of spare silverware, so he bought me a brand new purple silverware set! He said that he wanted to make my very first wish come true.",
+        "upvotes": "213",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4tax4/"
+      }
+    },
+    {
+      "id": "limited-edition-zelda-3ds",
+      "title": "Nintendo 3DS (Zelda Limited Edition)",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Gaming",
+        "Tech"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎮",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Nintendo+3DS+Zelda+Limited+Edition",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/Nikcara",
+        "timeAgo": "in r/AskReddit",
+        "comment": "I got my husband the limited edition Zelda 3DS for his birthday one year. He still loves that thing.",
+        "upvotes": "9",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4qkil/"
+      }
+    },
+    {
+      "id": "ty-beanie-baby",
+      "title": "Ty Beanie Baby Stitch",
+      "price": "$10.99",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧸",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4vpQs3y",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/pinkylemonade",
+        "timeAgo": "in r/AskReddit",
+        "comment": "When I was about 11, I had a Ty beanie baby called Loosy with a cute red ribbon around its neck and it was my favorite out of my collection. Several months later he surprised the crap out of me on our anniversary with another one.",
+        "upvotes": "105",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4ql4l/"
+      }
+    },
+    {
+      "id": "silver-locket-necklace",
+      "title": "Silver Locket Necklace",
+      "price": "$20.00",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Lifestyle",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "mother",
+        "sister",
+        "best-friend",
+        "anniversary",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🔐",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/43HTIv6",
+      "recommendation": {
+        "subreddit": "r/AskReddit",
+        "username": "u/[deleted]",
+        "timeAgo": "in r/AskReddit",
+        "comment": "He brought me to the tree where he first said 'I love you' for our one year and gave me a locket. He told me to get a piece of bark from the tree and keep it in the locket.",
+        "upvotes": "59",
+        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4qst4/"
+      }
+    },
+    {
+      "id": "messi-barcelona-jersey",
+      "title": "Lionel Messi Barcelona Jersey",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "⚽",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Messi+Barcelona+Jersey+Red+Blue",
+      "recommendation": {
+        "subreddit": "r/SoccerNoobs",
+        "username": "u/_ravenclaw",
+        "timeAgo": "in r/SoccerNoobs",
+        "comment": "I'd def get him the Messi Barcelona one — the red and blue striped one is the most iconic Messi jersey.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/SoccerNoobs/comments/1m9yqvz/good_soccer_gift_for_my_bf/n5arcl2/"
+      }
+    },
+    {
+      "id": "guatemala-national-team-jersey",
+      "title": "Guatemala National Team Home Jersey",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🇬🇹",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Guatemala+National+Team+Soccer+Jersey",
+      "recommendation": {
+        "subreddit": "r/SoccerNoobs",
+        "username": "u/_ravenclaw",
+        "timeAgo": "in r/SoccerNoobs",
+        "comment": "I'd recommend you get him a Messi Barcelona jersey or a Guatemala national team jersey with no name. He will enjoy either of those.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/SoccerNoobs/comments/1m9yqvz/good_soccer_gift_for_my_bf/n5ar2td/"
+      }
+    },
+    {
+      "id": "messi-bobblehead",
+      "title": "Lionel Messi Bobblehead Figure",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🪆",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Messi+Bobblehead+Figure",
+      "recommendation": {
+        "subreddit": "r/SoccerNoobs",
+        "username": "u/The420life",
+        "timeAgo": "in r/SoccerNoobs",
+        "comment": "Due to ur comment I am getting him a bobble head. I currently have it ordered. I can't wait.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/SoccerNoobs/comments/1m9yqvz/good_soccer_gift_for_my_bf/n5ho44j/"
+      }
+    },
+    {
+      "id": "nike-flight-match-soccer-ball",
+      "title": "Nike Flight Match Quality Soccer Ball",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Outdoors",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "⚽",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Nike+Flight+Match+Soccer+Ball",
+      "recommendation": {
+        "subreddit": "r/SoccerNoobs",
+        "username": "u/astobie",
+        "timeAgo": "in r/SoccerNoobs",
+        "comment": "Honestly if you can find an older match quality ball, like the Nike Flight which is on sale. I think it would make him very happy.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/SoccerNoobs/comments/1m9yqvz/good_soccer_gift_for_my_bf/n5sgzhn/"
+      }
+    },
+    {
+      "id": "personalized-shin-guards",
+      "title": "Personalized Soccer Shin Guards",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Outdoors",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🛡️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Personalized+Soccer+Shin+Guards",
+      "recommendation": {
+        "subreddit": "r/SoccerNoobs",
+        "username": "u/PitchPro_ShinPads",
+        "timeAgo": "in r/SoccerNoobs",
+        "comment": "Get him a pair of personalized shin guards with Guatemala flag and his name on it. It's a unique gift.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/SoccerNoobs/comments/1m9yqvz/good_soccer_gift_for_my_bf/n66460q/"
+      }
+    },
+    {
+      "id": "adidas-harden-vol-4-basketball-shoes",
+      "title": "Adidas Harden Vol. 4 Basketball Shoes",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "👟",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4dGVzX1",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/ughitsanon",
+        "timeAgo": "in r/Basketball",
+        "comment": "His favorite team is the Rockets and favorite player being James Harden, so I am buying him the new pair of Harden vol. 4's he was looking at (hes a sneaker head).",
+        "upvotes": "98",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/"
+      }
+    },
+    {
+      "id": "james-harden-bobblehead",
+      "title": "James Harden NBA Bobblehead",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎎",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=James+Harden+NBA+Bobblehead",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/SevenHunnet3Hi5s",
+        "timeAgo": "in r/Basketball",
+        "comment": "Maybe multiple small things all in a package with the shoes? Off the top of my head I think of a bobble head, merch hoodie/shirt, socks are also really cool, beanie for the winter.",
+        "upvotes": "23",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gcjiw4d/"
+      }
+    },
+    {
+      "id": "stance-nba-basketball-socks",
+      "title": "Stance NBA Basketball Socks",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧦",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Stance+NBA+Basketball+Socks",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/andcanigettahottub",
+        "timeAgo": "in r/Basketball",
+        "comment": "What about some Stance basketball socks. They are the official sock of the NBA. Great fit along with the shoes.",
+        "upvotes": "6",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gcjnhkh/"
+      }
+    },
+    {
+      "id": "mamba-mentality-kobe-bryant-book",
+      "title": "The Mamba Mentality by Kobe Bryant",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📕",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Mamba+Mentality+Kobe+Bryant+Book",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/ballermonkey24",
+        "timeAgo": "in r/Basketball",
+        "comment": "Maybe a Basketball book, Kobe Bryant has this really cool book that he talked about his career and what he did to prepare for games and his mindset.",
+        "upvotes": "4",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gcjwoxk/"
+      }
+    },
+    {
+      "id": "official-nba-basketball",
+      "title": "Official NBA Basketball",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Outdoors",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🏀",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Official+NBA+Basketball",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/[deleted]",
+        "timeAgo": "in r/Basketball",
+        "comment": "You could get him a legit official NBA basketball. I love mine.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gcjpe67/"
+      }
+    },
+    {
+      "id": "wilson-evolution-indoor-basketball",
+      "title": "Wilson Evolution Indoor Basketball",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Outdoors"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🏀",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Wilson+Evolution+Indoor+Basketball",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/DicTrickle",
+        "timeAgo": "in r/Basketball",
+        "comment": "The Wilson Evolution is a great indoor game ball (EMPHASIS ON INDOOR). If he plays on outdoor courts I wouldn't get him that because it will destroy the ball.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gckfu7e/"
+      }
+    },
+    {
+      "id": "nike-basketball-shorts",
+      "title": "Nike Basketball Shorts",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🩳",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Nike+Basketball+Shorts+Mens",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/DicTrickle",
+        "timeAgo": "in r/Basketball",
+        "comment": "You can never go wrong with basketball shorts from Nike or Adidas.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gckfu7e/"
+      }
+    },
+    {
+      "id": "basketball-duffel-bag",
+      "title": "Basketball Duffel Gym Bag",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Outdoors"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎒",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Basketball+Duffel+Gym+Bag",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/wopbabaloobop",
+        "timeAgo": "in r/Basketball",
+        "comment": "Basketball shorts, socks, shirts to ball in. Maybe a duffel bag to put his gear in.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gckr2ru/"
+      }
+    },
+    {
+      "id": "basketball-compression-leggings",
+      "title": "Basketball Compression Leggings",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🦵",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Basketball+Compression+Leggings+Mens",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/cocker_spangler",
+        "timeAgo": "in r/Basketball",
+        "comment": "I always loved getting socks. Maybe some compression under garments. My wife bought me printed gray and a black compression leggings. Looked good honestly.",
+        "upvotes": "2",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gcky8zb/"
+      }
+    },
+    {
+      "id": "basketball-shooting-arm-sleeve",
+      "title": "Basketball Shooting Arm Sleeve",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💪",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Basketball+Shooting+Arm+Sleeve",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/Chrisoceannn",
+        "timeAgo": "in r/Basketball",
+        "comment": "Compression shorts, shooting sleeves, headbands, NBA socks, and anything that he could hoop in would be nice to him.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gcjp6xz/"
+      }
+    },
+    {
+      "id": "new-balance-608v5-shoes",
+      "title": "New Balance 608v5 Cross Trainer",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "father",
+        "grandparents",
+        "mother",
+        "brother",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "👟",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=New+Balance+608v5+Mens",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/atran123123",
+        "timeAgo": "in r/Basketball",
+        "comment": "Get him a pair of the new New Balances. You can see Harden, Lebron, Curry, and more NBA players wear it in games. Plus they are really comfortable and really good game performers.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gcjxr1p/"
+      }
+    },
+    {
+      "id": "james-harden-trading-cards",
+      "title": "James Harden Basketball Trading Cards",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🃏",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=James+Harden+Basketball+Trading+Cards",
+      "recommendation": {
+        "subreddit": "r/Basketball",
+        "username": "u/blazedandbarista",
+        "timeAgo": "in r/Basketball",
+        "comment": "A great little stocking stuffer would be some basketball cards I feel, thats always fun especially if there's a rookie card, sig or jersey one.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gcl7mh0/"
+      }
+    },
+    {
+      "id": "anime-nendoroid-figure",
+      "title": "Anime Nendoroid Figure",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧸",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Anime+Nendoroid+Figure",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/lemonlineberry",
+        "timeAgo": "in r/anime",
+        "comment": "This is a list of some of the things I might like in no particular order: Nendoroids, manga books, keychains, stationary, plushies, accessories/apparel.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/jnmpaa/gifts_for_anime_lovers/gb2t2fk/"
+      }
+    },
+    {
+      "id": "anime-manga-book-set",
+      "title": "Anime Manga Book Set",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "brother",
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📚",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Anime+Manga+Book+Set+Attack+on+Titan+My+Hero+Academia",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/Sgt_Meowmers",
+        "timeAgo": "in r/anime",
+        "comment": "Just get them a manga set of a show they like.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/jnmpaa/gifts_for_anime_lovers/gb3g500/"
+      }
+    },
+    {
+      "id": "anime-character-keychain",
+      "title": "Anime Character Keychain",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "brother",
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🔑",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Anime+Character+Keychain",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/lemonlineberry",
+        "timeAgo": "in r/anime",
+        "comment": "This is a list of some of the things I might like in no particular order: Nendoroids, manga books, keychains, stationary, plushies, accessories/apparel.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/jnmpaa/gifts_for_anime_lovers/gb2t2fk/"
+      }
+    },
+    {
+      "id": "anime-plushie",
+      "title": "Anime Character Plushie",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧸",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Anime+Character+Plushie",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/aoasan",
+        "timeAgo": "in r/anime",
+        "comment": "Based on what you said I would say either one of those anime plushie things or maybe if theyre into reading get them a manga volume for one of the series you listed.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/jnmpaa/gifts_for_anime_lovers/gb32dn8/"
+      }
+    },
+    {
+      "id": "anime-funko-pop-figure",
+      "title": "Anime Funko Pop Figure",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎎",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Anime+Funko+Pop+Attack+on+Titan+My+Hero+Academia",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/shuja246",
+        "timeAgo": "in r/anime",
+        "comment": "I believe those all have cool pop Funko.",
+        "upvotes": "1",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/jnmpaa/gifts_for_anime_lovers/gb2bn7k/"
+      }
+    },
+    {
+      "id": "anime-body-pillow",
+      "title": "Anime Dakimakura Body Pillow",
+      "price": "",
+      "priceNote": "on Amazon.in",
+      "tags": [
+        "Quirky",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🛏️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://www.amazon.com/s?k=Anime+Dakimakura+Body+Pillow",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/lemonlineberry",
+        "timeAgo": "in r/anime",
+        "comment": "And if your friend is really wild you could always go for a body pillow.",
+        "upvotes": "3",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/jnmpaa/gifts_for_anime_lovers/gb2t2fk/"
+      }
+    },
+    {
+      "id": "fancii-lighted-mirror",
+      "title": "Fancii Lighted Rechargeable Magnifying Travel Mirror",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Wellness",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "mother",
+        "sister",
+        "girlfriend",
+        "best-friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "💄",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/3RFH25o",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "The travel mirror that actually has good lighting — my sister uses it every single day.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "lisen-phone-mount",
+      "title": "LISEN Universal Hands-Free Phone Mount",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📱",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4uLfhad",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Stuck this in my dad's car and he's stopped texting at red lights. Worth every penny.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "torras-coolify-neck-fan",
+      "title": "TORRAS COOLiFY Adjustable Rechargeable Neck Fan",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Wellness",
+        "Tech"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "sister",
+        "friend",
+        "grandparents",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💨",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/43KP7Z2",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Wore mine through a summer wedding. Lifesaver — no more hand fans, no more sweat.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "govee-segmented-led-lights",
+      "title": "Govee Segmented RGB Bluetooth LED Light Strip",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Tech"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🌈",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4x0iN1R",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Got these for my brother's room and now his setup looks straight out of a YouTube tour.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "govee-floor-uplighter",
+      "title": "Govee Floor Uplighter Bedroom Projector Lamp",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Tech"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "sister",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🛋️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4fkHdgb",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Cozy lighting on demand. Changed the entire vibe of our bedroom.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "lolbox-smart-punching-bag",
+      "title": "LOLBOX Bluetooth Smart Punching Machine",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Wellness",
+        "Gaming"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🥊",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/3RUBgNe",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Best stress relief I've ever gifted. My brother shows it off to literally everyone.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "skylight-calendar-touchscreen",
+      "title": "Skylight Touchscreen Interactive Family Calendar",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "best-friend",
+        "anniversary",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "📅",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4ffKbCJ",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Saved our family from three different shared Google Calendars. Mom finally gets it.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "bitvae-toothbrush-holder",
+      "title": "Bitvae Wall-Mounted UV Toothbrush Holder",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Wellness",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "girlfriend",
+        "sister",
+        "brother",
+        "friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🪥",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/49x24cq",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Such a small upgrade but the bathroom feels twice as clean. UV sterilization is the kicker.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "ecobee-smart-thermostat",
+      "title": "Ecobee Smart Thermostat Premium with Air Quality Monitor",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Home"
+      ],
+      "giftFor": [
+        "father",
+        "mother",
+        "boyfriend",
+        "best-friend",
+        "christmas",
+        "birthday",
+        "anniversary"
+      ],
+      "emoji": "🌡️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4dH4Myz",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Got my dad off the manual dial. He won't stop bragging about energy bill savings.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "govee-smart-bulbs",
+      "title": "Govee Smart Color Changing Light Bulbs (SmartThings)",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Tech"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "sister",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💡",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/3REffCl",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Cheaper than Philips Hue, works just as well. Roommate-proof too.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "hydroponic-terrarium-planter",
+      "title": "Hydroponic Tabletop Terrarium Planter",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "sister",
+        "mother",
+        "girlfriend",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🌱",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4o0Aryt",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "For people who kill regular plants. The fish-tank-meets-garden combo is mesmerizing.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "homedics-tabletop-fountain",
+      "title": "HoMedics Tabletop Water Fountain",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Wellness"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "best-friend",
+        "christmas",
+        "birthday",
+        "anniversary"
+      ],
+      "emoji": "⛲",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4fjJQPw",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Background sound is so peaceful — replaced my white noise machine entirely.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "northern-lights-projector",
+      "title": "Northern Lights Aurora Projector with Bluetooth Speaker",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "sister",
+        "brother",
+        "best-friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🌌",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4ve9SZ4",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Date night in. Auroras on the ceiling and a chill speaker — full vibe shift.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "solar-cracked-garden-lights",
+      "title": "Solar Cracked Outdoor Garden Lights",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Outdoors"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "✨",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4uK5YHm",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Look like little embers glowing in the garden at night. Neighbors keep asking about them.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "victrola-bluetooth-record-player",
+      "title": "Victrola Retro Bluetooth Record Player",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Tech"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "father",
+        "mother",
+        "best-friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "💿",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4wWu7Mp",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Plays vinyl, streams Bluetooth, looks like it's from 1965. Endless gift hits.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "bluetooth-portable-speaker",
+      "title": "Portable Wireless Bluetooth Speaker",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Outdoors"
+      ],
+      "giftFor": [
+        "brother",
+        "sister",
+        "boyfriend",
+        "girlfriend",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🔊",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4fUrmVL",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Tiny, loud, waterproof — comes everywhere from showers to camping trips.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "pococo-galaxy-projector",
+      "title": "POCOCO Galaxy Projector Planetarium",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "sister",
+        "brother",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🪐",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4dQTI0A",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Real planetary discs make it look like a proper planetarium ceiling. Mind-blowingly good.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "amwgimi-sunflower-light",
+      "title": "AMWGIMI Rechargeable Sunflower Crystal Light",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "mother",
+        "sister",
+        "best-friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🌻",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4feTbbd",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Glows soft and warm, looks like a tiny art piece on the nightstand.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "himalayan-salt-lamp",
+      "title": "Natural Himalayan Salt Lamp with Dimmer",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Wellness"
+      ],
+      "giftFor": [
+        "mother",
+        "grandparents",
+        "sister",
+        "girlfriend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧂",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4uaFZrH",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Warm pink glow + the placebo of cleaner air. Either way, my room feels calmer.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "bloomingville-wood-bowl",
+      "title": "Bloomingville Hand-Carved Paulownia Wood Bowl",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Kitchen"
+      ],
+      "giftFor": [
+        "mother",
+        "best-friend",
+        "sister",
+        "grandparents",
+        "anniversary",
+        "christmas",
+        "birthday"
+      ],
+      "emoji": "🥗",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4uLbGJe",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Looks expensive, holds salads or fruit, ages beautifully. Forever gift.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "hanging-bar-sign",
+      "title": "Vintage Drinks Restaurant Bar Decoration Sign",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "father",
+        "brother",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🍻",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4x3bO8g",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Turned our basement bar from dad-cave to actual hangout spot.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "hippopotamus-figurine",
+      "title": "Hippopotamus Figurine Decorative Container",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "sister",
+        "best-friend",
+        "mother",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🦛",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4uLgAWF",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Holds keys, dishes weird looks. Best impulse-buy gift ever.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "rokr-mechanical-build",
+      "title": "ROKR Functional Mechanical Building Model",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Quirky",
+        "Gaming"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "father",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "⚙️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/3SeywKE",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Hours of meditative building. The finished piece is actually impressive too.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "dr-pepper-candle",
+      "title": "Doctor Pepper Aesthetic Soda Candle",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "sister",
+        "best-friend",
+        "friend",
+        "girlfriend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🕯️",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4e1jU8X",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Smells exactly like opening a fresh can. Niche but absurdly nostalgic.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "edifier-bluetooth-speakers",
+      "title": "Edifier Bluetooth Multimedia Computer Speakers",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎵",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/3RWQz85",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Upgraded my desk from laptop speakers to these — never going back.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "playground-ai-game",
+      "title": "Playground AI-Powered Board Game",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Gaming",
+        "Quirky"
+      ],
+      "giftFor": [
+        "best-friend",
+        "friend",
+        "brother",
+        "sister",
+        "boyfriend",
+        "girlfriend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎲",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/49xxrnl",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Family game night, but the game adapts to how you play. Strangely addictive.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "handheld-retro-console",
+      "title": "Handheld Retro Game Console (4000mAh)",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Gaming",
+        "Tech"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎮",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/3REgkKp",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Thousands of old games in your pocket. Cheaper than a Nintendo, way more nostalgic.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "twin-lens-waist-camera",
+      "title": "EJXHKNF Twin-Lens Waist-Level Autofocus Camera",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Tech",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "sister",
+        "best-friend",
+        "boyfriend",
+        "friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "📷",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4uOmwhy",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Film aesthetic, digital convenience. Perfect for someone getting into photography.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "josebru-tokyo-lamp",
+      "title": "JOSEBRU Tokyo Vibrant Japanese LED Lamp",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "sister",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🏮",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/3PNHcaj",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Tokyo street-vibes in lamp form. Looks great in any nerdy/aesthetic room.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "house-gem-mug-warmer",
+      "title": "House of Gem Temperature-Control Mug Warmer",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Kitchen",
+        "Tech"
+      ],
+      "giftFor": [
+        "mother",
+        "father",
+        "grandparents",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "☕",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4wXINuV",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Keeps my morning coffee hot for the full 2-hour 'I'll get to it in a minute' stretch.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    },
+    {
+      "id": "hidrate-spark-pro",
+      "title": "Hidrate Spark PRO Smart Water Bottle",
+      "price": "",
+      "priceNote": "on Amazon.com",
+      "tags": [
+        "Wellness",
+        "Tech"
+      ],
+      "giftFor": [
+        "sister",
+        "mother",
+        "girlfriend",
+        "best-friend",
+        "friend",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💧",
+      "imgs": [
+        "TODO_ADD_IMAGE_URL"
+      ],
+      "url": "https://amzn.to/4wS3ice",
+      "recommendation": {
+        "subreddit": "r/gifts",
+        "username": "Team Recommendation",
+        "timeAgo": "in r/gifts",
+        "comment": "Glows when you haven't drunk enough. Doubled my water intake within a week.",
+        "upvotes": "",
+        "threadUrl": "https://www.reddit.com/r/gifts/"
+      },
+      "sortUpvotes": 200
+    }
+  ],
+  "popularCategories": [
+    {
+      "label": "All",
+      "emoji": "✨",
+      "cat": "all"
+    },
+    {
+      "label": "Tech",
+      "emoji": "🎧",
+      "cat": "tech"
+    },
+    {
+      "label": "Home",
+      "emoji": "🪴",
+      "cat": "home"
+    },
+    {
+      "label": "Quirky",
+      "emoji": "🎁",
+      "cat": "quirky"
+    },
+    {
+      "label": "Wellness",
+      "emoji": "🧴",
+      "cat": "wellness"
+    },
+    {
+      "label": "Kitchen",
+      "emoji": "📷",
+      "cat": "kitchen"
+    },
+    {
+      "label": "Lifestyle",
+      "emoji": "🏷️",
+      "cat": "lifestyle"
+    },
+    {
+      "label": "Gaming",
+      "emoji": "🎮",
+      "cat": "gaming"
+    }
+  ]
+}
