@@ -108,22 +108,147 @@
     max-width:480px; margin-bottom:28px;
   }
 
-  /* search */
-  .hero-search {
-    position:relative; max-width:480px;
+  /* Price filter slider container styling */
+  .price-filter-container {
+    max-width: 480px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 20px 24px;
+    box-shadow: var(--shadow-sm);
+    margin-top: 10px;
+    animation: fadeUp .45s ease both;
   }
-  .hero-search input {
-    width:100%; padding:14px 18px 14px 46px;
-    border:1px solid var(--border); border-radius:100px;
-    background:var(--surface); font-family:'DM Sans',sans-serif;
-    font-size:.92rem; color:var(--ink); outline:none;
-    transition:all .18s; box-shadow:var(--shadow-sm);
+  .price-filter-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
   }
-  .hero-search input::placeholder { color:var(--soft); }
-  .hero-search input:focus { border-color:var(--accent); box-shadow:0 0 0 3px rgba(27,58,47,.08); }
-  .hero-search svg {
-    position:absolute; left:18px; top:50%; transform:translateY(-50%);
-    width:17px; height:17px; color:var(--soft); pointer-events:none;
+  .price-filter-label {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--ink);
+  }
+  .price-filter-value {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-lt);
+    padding: 4px 10px;
+    border-radius: 6px;
+  }
+  .slider-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .slider-min, .slider-max {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--soft);
+    user-select: none;
+  }
+  .premium-slider {
+    -webkit-appearance: none;
+    appearance: none;
+    flex: 1;
+    height: 6px;
+    border-radius: 3px;
+    background: var(--border);
+    outline: none;
+    position: relative;
+    cursor: pointer;
+  }
+  /* Webkit runnable track */
+  .premium-slider::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 6px;
+    cursor: pointer;
+    background: linear-gradient(to right, var(--accent) var(--slider-progress, 100%), var(--border) var(--slider-progress, 100%));
+    border-radius: 3px;
+  }
+  /* Firefox track */
+  .premium-slider::-moz-range-track {
+    width: 100%;
+    height: 6px;
+    cursor: pointer;
+    background: var(--border);
+    border-radius: 3px;
+  }
+  .premium-slider::-moz-range-progress {
+    background: var(--accent);
+    height: 6px;
+    border-radius: 3px;
+  }
+  /* Webkit Thumb */
+  .premium-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    background: var(--surface);
+    border: 3px solid var(--accent);
+    cursor: pointer;
+    margin-top: -6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    transition: transform 0.1s, background-color 0.1s;
+  }
+  .premium-slider::-webkit-slider-thumb:hover {
+    transform: scale(1.15);
+    background: var(--accent-lt);
+  }
+  .premium-slider::-webkit-slider-thumb:active {
+    transform: scale(1.2);
+    background: var(--accent);
+    border-color: var(--surface);
+  }
+  /* Firefox Thumb */
+  .premium-slider::-moz-range-thumb {
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    background: var(--surface);
+    border: 3px solid var(--accent);
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+    transition: transform 0.1s, background-color 0.1s;
+  }
+  .premium-slider::-moz-range-thumb:hover {
+    transform: scale(1.15);
+  }
+  /* Presets row style */
+  .price-presets {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+  .price-presets::-webkit-scrollbar {
+    display: none;
+  }
+  .preset-btn {
+    background: var(--tag-bg);
+    border: 1px solid transparent;
+    color: var(--ink-soft);
+    padding: 6px 12px;
+    border-radius: 100px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.18s;
+  }
+  .preset-btn:hover {
+    background: var(--border);
+    color: var(--ink);
+  }
+  .preset-btn.active {
+    background: var(--accent);
+    color: var(--surface);
   }
 
   /* popups area */
@@ -410,9 +535,23 @@
   <div class="hero-left">
     <h1>Gifts people<br><em>actually</em> recommend.</h1>
     <p>Real recommendations from real people.<br>No paid placements. Just honest opinions.</p>
-    <div class="hero-search">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
-      <input type="text" placeholder="Search gifts, brands, occasions...">
+    <div class="price-filter-container">
+      <div class="price-filter-header">
+        <span class="price-filter-label">Filter by Price:</span>
+        <span class="price-filter-value" id="price-val-display">Any Price</span>
+      </div>
+      <div class="slider-wrapper">
+        <span class="slider-min">$0</span>
+        <input type="range" id="price-slider" min="0" max="250" value="250" step="5" class="premium-slider" oninput="onSliderChange(this.value)">
+        <span class="slider-max" id="slider-max-label">$250+</span>
+      </div>
+      <div class="price-presets" id="price-presets">
+        <button class="preset-btn active" data-preset="any" onclick="setPricePreset('any')">Any Price</button>
+        <button class="preset-btn" data-preset="25" onclick="setPricePreset(25)">Under $25</button>
+        <button class="preset-btn" data-preset="50" onclick="setPricePreset(50)">Under $50</button>
+        <button class="preset-btn" data-preset="100" onclick="setPricePreset(100)">Under $100</button>
+        <button class="preset-btn" data-preset="200" onclick="setPricePreset(200)">Under $200</button>
+      </div>
     </div>
   </div>
   <div class="hero-popups">
@@ -556,13 +695,37 @@ function parseUpvotes(u) {
   const n = parseFloat(u);
   return Number.isFinite(n) ? n : 0;
 }
+let currentMaxPrice = 'any';
+
+function getNormalizedPriceInUSD(priceStr) {
+  if (!priceStr) return 0;
+  let cleanStr = String(priceStr).replace(/,/g, '').trim();
+  let numeric = parseFloat(cleanStr.replace(/[^0-9.]/g, '')) || 0;
+  if (cleanStr.includes('₹')) {
+    return numeric / 83.0; // standard exchange rate (1 USD ≈ 83 INR)
+  } else if (cleanStr.includes('CA')) {
+    return numeric / 1.35; // CAD to USD (1.35 CAD ≈ 1 USD)
+  }
+  return numeric; // USD
+}
+
+function formatPriceUSD(pVal) {
+  if (!pVal) return '';
+  return '$' + pVal.toFixed(2);
+}
+
 function prepareProducts(products) {
-  return products.map(p => ({
-    ...p,
-    sortUpvotes: typeof p.sortUpvotes === 'number'
-      ? p.sortUpvotes
-      : parseUpvotes(p.recommendation?.upvotes),
-  }));
+  return products.map(p => {
+    const normPrice = getNormalizedPriceInUSD(p.price);
+    return {
+      ...p,
+      sortUpvotes: typeof p.sortUpvotes === 'number'
+        ? p.sortUpvotes
+        : parseUpvotes(p.recommendation?.upvotes),
+      normalizedPrice: normPrice,
+      price: normPrice > 0 ? formatPriceUSD(normPrice) : ''
+    };
+  });
 }
 function parsePrice(p) {
   if (!p) return 0;
@@ -599,9 +762,9 @@ function sortProducts(list) {
       return diff !== 0 ? diff : a.title.localeCompare(b.title);
     });
   } else if (currentSort === 'price-low') {
-    sorted.sort((a, b) => parsePrice(a.price) - parsePrice(b.price));
+    sorted.sort((a, b) => a.normalizedPrice - b.normalizedPrice);
   } else if (currentSort === 'price-high') {
-    sorted.sort((a, b) => parsePrice(b.price) - parsePrice(a.price));
+    sorted.sort((a, b) => b.normalizedPrice - a.normalizedPrice);
   }
   return sorted;
 }
@@ -625,6 +788,9 @@ function renderFeed() {
   }
   if (currentGiftFilter !== 'all') {
     list = list.filter(p => (p.giftFor || []).includes(currentGiftFilter));
+  }
+  if (currentMaxPrice !== 'any') {
+    list = list.filter(p => p.normalizedPrice === 0 || p.normalizedPrice <= currentMaxPrice);
   }
 
   list = sortProducts(list);
@@ -680,6 +846,80 @@ function tryNext(img) {
   else { img.style.display = 'none'; img.nextElementSibling.style.display = 'flex'; }
 }
 
+/* ── Price Slider Event Handlers ── */
+function initPriceSliderRange() {
+  const prices = PRODUCTS.map(p => p.normalizedPrice).filter(p => p > 0);
+  if (prices.length === 0) return;
+  const maxPrice = Math.max(...prices);
+  const slider = document.getElementById('price-slider');
+  const sliderMaxLabel = document.getElementById('slider-max-label');
+  
+  // Set slider max to the next increment of 10
+  const roundedMax = Math.ceil(maxPrice / 10) * 10;
+  slider.max = roundedMax;
+  slider.value = roundedMax;
+  sliderMaxLabel.textContent = `$${roundedMax}+`;
+  
+  updateSliderTrackFill(slider);
+}
+
+function updateSliderTrackFill(slider) {
+  const percent = ((slider.value - slider.min) / (slider.max - slider.min)) * 100;
+  slider.style.setProperty('--slider-progress', `${percent}%`);
+}
+
+function onSliderChange(value) {
+  const slider = document.getElementById('price-slider');
+  updateSliderTrackFill(slider);
+  
+  const maxVal = parseFloat(value);
+  const displayVal = document.getElementById('price-val-display');
+  
+  if (maxVal >= parseFloat(slider.max)) {
+    currentMaxPrice = 'any';
+    displayVal.textContent = 'Any Price';
+    setActivePreset('any');
+  } else {
+    currentMaxPrice = maxVal;
+    displayVal.textContent = `Under $${maxVal}`;
+    setActivePreset(maxVal);
+  }
+  
+  renderFeed();
+}
+
+function setPricePreset(presetVal) {
+  const slider = document.getElementById('price-slider');
+  const displayVal = document.getElementById('price-val-display');
+  
+  if (presetVal === 'any') {
+    slider.value = slider.max;
+    currentMaxPrice = 'any';
+    displayVal.textContent = 'Any Price';
+  } else {
+    const targetVal = Math.min(parseFloat(presetVal), parseFloat(slider.max));
+    slider.value = targetVal;
+    currentMaxPrice = targetVal;
+    displayVal.textContent = `Under $${targetVal}`;
+  }
+  
+  updateSliderTrackFill(slider);
+  setActivePreset(presetVal);
+  renderFeed();
+}
+
+function setActivePreset(val) {
+  const btns = document.querySelectorAll('.preset-btn');
+  btns.forEach(btn => {
+    const presetAttr = btn.getAttribute('data-preset');
+    if (presetAttr === String(val)) {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  });
+}
+
 /* ── Boot: load JSON, then render ── */
 async function init() {
   const feed = document.getElementById('feed');
@@ -695,6 +935,7 @@ async function init() {
       : GIFT_FILTER_GROUPS;
     buildPopularPills();
     buildGiftFilters();
+    initPriceSliderRange();
     renderFeed();
   } catch (err) {
     console.error(err);
