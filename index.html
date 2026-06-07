@@ -91,7 +91,7 @@
   /* ── HERO ── */
   .hero-intro {
     display:grid; grid-template-columns:1.1fr 1fr;
-    min-height:560px; overflow:hidden;
+    min-height:560px;
   }
   /* LEFT panel */
   .hero-left {
@@ -402,7 +402,7 @@
     display:none; position:absolute; top:calc(100% + 6px); left:0;
     min-width:220px; background:var(--surface);
     border:1px solid var(--border); border-radius:14px;
-    box-shadow:0 8px 32px rgba(0,0,0,.12); z-index:200;
+    box-shadow:0 8px 32px rgba(0,0,0,.12); z-index:500;
     max-height:280px; overflow-y:auto;
   }
   .hf-pill.open .hf-dropdown { display:block; animation:fadeUp .15s ease; }
@@ -590,11 +590,29 @@
     .grid { grid-template-columns:1fr; }
     .help-cta-inner { flex-direction:column; text-align:center; padding:26px 22px; }
     .help-cta-inner .gift-emoji { margin:0; }
+    .hero-intro { min-height:0; }
     .hero-right { display:none; }
-    .hero-left { padding:28px 5%; }
-    .hero-left h1 { font-size:clamp(1.75rem, 7.5vw, 2.4rem); }
-    .hero-stats { flex-wrap:wrap; gap:12px; }
-    .hero-stat { flex:1 1 calc(50% - 6px); min-width:110px; }
+    .hero-left { padding:24px 5% 28px; }
+    .hero-brand { margin-bottom:18px; }
+    .hero-brand .brand-name { font-size:1.1rem; }
+    .hero-left h1 { font-size:clamp(1.7rem, 7vw, 2.2rem); margin-bottom:10px; }
+    .hero-left > p { font-size:.86rem; margin-bottom:18px; }
+    /* Stats: single scrollable row */
+    .hero-stats { flex-wrap:nowrap; overflow-x:auto; gap:14px; padding-bottom:2px; scrollbar-width:none; margin-bottom:0; }
+    .hero-stat { flex-shrink:0; gap:8px; }
+    .hero-stat-icon { width:26px; height:26px; }
+    .hero-stat-icon svg { width:12px; height:12px; }
+    .hero-stat-num { font-size:.88rem; }
+    .hero-stat-lbl { font-size:.67rem; }
+    /* Allow hero to show wrapping content */
+    .hero-intro { overflow:visible; }
+    /* Filter pills: 2 per row, Interests wraps to second row */
+    .hero-filter-pills { flex-wrap:wrap; margin-top:16px; gap:8px; }
+    .hf-pill { flex:1 1 calc(50% - 4px); min-width:0; }
+    .hf-pill-btn { padding:8px 10px; font-size:.8rem; width:100%; justify-content:center; }
+    .hf-pill-icon { font-size:.85rem; }
+    .hf-dropdown { min-width:180px; }
+    .hf-clear-btn { display:none !important; }
     .top-strip { padding:18px 5% 0; }
     .nav-link span { display:none; }
     .nav-user .uname, .nav-user .caret { display:none; }
@@ -610,9 +628,6 @@
     .card-title { font-size:.94rem; }
     .sort-bar { gap:10px; }
     .sort-select { padding:7px 28px 7px 14px; font-size:.78rem; }
-    /* Filter pills: horizontal scroll on mobile */
-    .hero-filter-pills { flex-wrap:nowrap; overflow-x:auto; padding-bottom:4px; margin-top:20px; }
-    .hf-clear-btn { display:none !important; }
   }
 </style>
 </head>
