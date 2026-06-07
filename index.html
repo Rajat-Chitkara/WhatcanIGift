@@ -90,22 +90,129 @@
 
   /* ── HERO ── */
   .hero-intro {
-    max-width:var(--layout-max); margin:0 auto; padding:56px 3% 36px;
-    display:grid; grid-template-columns:1.15fr 1fr; gap:40px;
-    align-items:center;
+    display:grid; grid-template-columns:1.1fr 1fr;
+    min-height:560px; overflow:hidden;
+  }
+  /* LEFT panel */
+  .hero-left {
+    background:#ECEADE;
+    padding:40px 5% 44px 5%;
+    display:flex; flex-direction:column; justify-content:flex-start;
+  }
+  .hero-tag {
+    display:inline-flex; align-items:center; gap:8px;
+    background:var(--surface); border:1px solid var(--border);
+    padding:7px 14px; border-radius:100px;
+    font-size:.8rem; font-weight:600; color:var(--ink-soft);
+    margin-bottom:28px; width:fit-content;
+  }
+  .hero-tag svg { width:16px; height:16px; color:var(--muted); }
+  /* Hero brand logo */
+  .hero-brand {
+    display:flex; align-items:center; gap:9px;
+    text-decoration:none; margin-bottom:40px;
+  }
+  .hero-brand .brand-icon { font-size:1.5rem; line-height:1; }
+  .hero-brand .brand-name {
+    font-family:'Fraunces',serif; font-weight:700; font-size:1.4rem;
+    color:var(--accent); letter-spacing:-.01em;
+  }
+  .hero-content {
+    flex:1; display:flex; flex-direction:column; justify-content:center;
   }
   .hero-left h1 {
     font-family:'Fraunces',serif; font-weight:700;
-    font-size:clamp(2.4rem, 5vw, 3.6rem); line-height:1.05;
-    letter-spacing:-.02em; color:var(--ink); margin-bottom:18px;
+    font-size:clamp(2.2rem, 4vw, 3.4rem); line-height:1.08;
+    letter-spacing:-.02em; color:var(--ink); margin-bottom:16px;
   }
   .hero-left h1 em {
     font-style:italic; font-weight:500;
     color:var(--accent);
   }
-  .hero-left p {
-    color:var(--muted); font-size:1.02rem; line-height:1.55; font-weight:400;
-    max-width:480px; margin-bottom:28px;
+  .hero-left > p {
+    color:var(--muted); font-size:.98rem; line-height:1.55; font-weight:400;
+    max-width:420px; margin-bottom:36px;
+  }
+  /* Stats row */
+  .hero-stats {
+    display:flex; gap:24px; flex-wrap:wrap;
+  }
+  .hero-stat {
+    display:flex; align-items:flex-start; gap:10px;
+  }
+  .hero-stat-icon {
+    width:34px; height:34px; border-radius:50%; flex-shrink:0;
+    display:flex; align-items:center; justify-content:center;
+    background:var(--border);
+  }
+  .hero-stat-icon svg { width:16px; height:16px; }
+  .hero-stat-num {
+    font-family:'Fraunces',serif; font-size:1.05rem; font-weight:700;
+    color:var(--ink); line-height:1.2;
+  }
+  .hero-stat-lbl {
+    font-size:.75rem; color:var(--muted); font-weight:500; line-height:1.3;
+  }
+  /* RIGHT panel */
+  .hero-right {
+    position:relative; overflow:hidden;
+    min-height:480px;
+  }
+  .hero-img {
+    width:100%; height:100%;
+    object-fit:cover; object-position:center;
+    display:block;
+  }
+  /* Testimonial overlay card */
+  .hero-testimonial {
+    position:absolute; bottom:28px; right:24px;
+    background:var(--surface); border-radius:14px;
+    padding:14px 16px 12px;
+    box-shadow:0 8px 32px rgba(0,0,0,.14);
+    max-width:260px; width:90%;
+    animation:fadeUp .6s .3s ease both;
+  }
+  .hero-testimonial-head {
+    display:flex; align-items:center; gap:8px; margin-bottom:8px;
+  }
+  .hero-reddit-dot {
+    width:26px; height:26px; border-radius:50%;
+    background:var(--reddit);
+    display:flex; align-items:center; justify-content:center;
+    flex-shrink:0;
+  }
+  .hero-reddit-dot svg { width:15px; height:15px; }
+  .hero-testimonial-text {
+    font-size:.84rem; line-height:1.4; color:var(--ink); font-weight:500;
+    margin-bottom:8px;
+  }
+  .hero-testimonial-upvote {
+    display:flex; align-items:center; gap:5px;
+    font-size:.8rem; font-weight:700; color:var(--reddit);
+  }
+  .hero-testimonial-upvote svg { width:12px; height:12px; }
+
+  /* ── PRICE FILTER CARD (below hero) ── */
+  .price-filter-section {
+    padding:0 0 24px;
+  }
+  .price-filter-card {
+    background:var(--surface); border:1px solid var(--border);
+    border-radius:16px; padding:22px 28px;
+    box-shadow:var(--shadow-sm);
+    display:flex; align-items:center; gap:28px; flex-wrap:wrap;
+  }
+  .price-filter-card .price-filter-label {
+    font-size:1rem; font-weight:700; color:var(--ink);
+    white-space:nowrap;
+  }
+  .price-filter-card .slider-wrapper {
+    flex:1; min-width:180px;
+    display:flex; align-items:center; gap:10px;
+    margin-bottom:0;
+  }
+  .price-filter-card .price-presets {
+    display:flex; gap:8px; flex-wrap:wrap;
   }
 
   /* Price filter slider container styling */
@@ -286,21 +393,49 @@
     font-size:.78rem; font-weight:600; color:var(--reddit);
   }
 
-  /* ── POPULAR CATEGORIES (illustrated pills) ── */
-  .pop-section { max-width:var(--layout-max); margin:0 auto; padding:8px 3% 28px; }
-  .pop-label { font-size:.95rem; font-weight:600; color:var(--ink); margin-bottom:14px; }
-  .pop-pills { display:flex; gap:12px; flex-wrap:wrap; }
-  .pop-pill {
-    display:flex; align-items:center; gap:10px;
-    background:var(--surface); border:1px solid var(--border);
-    padding:9px 20px 9px 12px; border-radius:100px;
-    font-size:.9rem; font-weight:500; color:var(--ink);
-    cursor:pointer; transition:all .18s;
-    font-family:'DM Sans',sans-serif;
+  /* ── DISCOVERY BAR wrapper ── */
+  .discovery-bar { max-width:var(--layout-max); margin:0 auto; padding:0 3%; }
+
+  /* ── CATEGORY CARDS ── */
+  .cat-section { padding:28px 0 20px; }
+  .cat-section-label {
+    font-size:.72rem; font-weight:700; letter-spacing:.08em;
+    text-transform:uppercase; color:var(--soft); margin-bottom:12px;
   }
-  .pop-pill:hover { border-color:var(--accent); transform:translateY(-1px); }
-  .pop-pill.on { background:var(--accent); color:#fff; border-color:var(--accent); }
-  .pop-pill .pp-emoji { font-size:1.15rem; line-height:1; }
+  .cat-cards-scroll {
+    display:flex; gap:10px; overflow-x:auto; scrollbar-width:none; padding-bottom:4px;
+    width:100%;
+  }
+  .cat-cards-scroll::-webkit-scrollbar { display:none; }
+  .cat-card {
+    flex:1; min-width:80px; height:80px;
+    border-radius:14px; position:relative; overflow:hidden;
+    cursor:pointer; border:none; padding:0;
+    box-shadow:0 2px 8px rgba(0,0,0,.10);
+    transition:transform .2s, box-shadow .2s;
+  }
+  .cat-card:hover { transform:translateY(-2px); box-shadow:0 6px 18px rgba(0,0,0,.16); }
+  .cat-card.on { box-shadow:0 0 0 2.5px var(--accent), 0 4px 14px rgba(0,0,0,.12); }
+  .cat-card-bg {
+    position:absolute; inset:0;
+    background-size:cover; background-position:center;
+    transition:transform .35s;
+  }
+  .cat-card:hover .cat-card-bg { transform:scale(1.08); }
+  .cat-card-overlay {
+    position:absolute; inset:0;
+    background:linear-gradient(160deg, rgba(0,0,0,.06) 0%, rgba(0,0,0,.54) 100%);
+  }
+  .cat-card.on .cat-card-overlay {
+    background:linear-gradient(160deg, rgba(27,58,47,.35) 0%, rgba(27,58,47,.68) 100%);
+  }
+  .cat-card-label {
+    position:absolute; bottom:0; left:0; right:0;
+    padding:0 9px 8px;
+    font-family:'DM Sans',sans-serif;
+    font-size:.72rem; font-weight:700; color:#fff; line-height:1.25;
+    text-shadow:0 1px 3px rgba(0,0,0,.5);
+  }
 
   /* ── CATALOG (sidebar + feed) ── */
   .catalog-wrap {
@@ -371,44 +506,36 @@
   @keyframes fadeUp { from{opacity:0;transform:translateY(14px)} to{opacity:1;transform:translateY(0)} }
 
   .card-img {
-    position:relative; height:200px; display:flex; align-items:center; justify-content:center;
-    overflow:hidden; padding:20px 22px; background:var(--image-bg);
+    position:relative; height:180px; display:flex; align-items:center; justify-content:center;
+    overflow:hidden; padding:12px 22px; background:#FFFFFF;
   }
   .card-img img {
-    max-width:94%; max-height:168px; width:auto; height:auto;
+    max-width:94%; max-height:156px; width:auto; height:auto;
     object-fit:contain; transition:transform .35s;
   }
   .card:hover .card-img img { transform:scale(1.04); }
   .card-img .fallback { font-size:4rem; display:none; }
 
   .cat-pill {
-    position:absolute; top:14px; right:14px;
     display:inline-flex; align-items:center; gap:6px;
-    background:var(--surface); border:1px solid var(--border);
-    padding:6px 12px 6px 8px; border-radius:100px;
+    background:var(--tag-bg); border:1px solid var(--border);
+    padding:5px 10px 5px 8px; border-radius:100px;
     font-size:.78rem; color:var(--ink); font-weight:600;
-    box-shadow:var(--shadow-sm);
   }
-  .cat-pill .cat-emoji { font-size:.95rem; line-height:1; }
+  .cat-pill .cat-emoji { font-size:.9rem; line-height:1; }
 
-  .upvote-badge {
-    position:absolute; top:12px; left:12px; z-index:2;
-    background:var(--surface); border:1px solid var(--border);
-    padding:6px 10px 5px; border-radius:10px;
-    box-shadow:var(--shadow-sm); text-align:center; line-height:1;
+  .card-top-badge {
+    height:40px; padding:0 16px;
+    display:flex; align-items:center;
   }
-  .upvote-badge .uv-row {
-    display:flex; align-items:center; justify-content:center; gap:4px;
+  .card-top-badge .uv-row {
+    display:flex; align-items:center; gap:5px;
   }
-  .upvote-badge .uv-arrow {
+  .card-top-badge .uv-arrow {
     display:flex; align-items:center; color:var(--reddit);
   }
-  .upvote-badge .uv-arrow svg { width:12px; height:12px; }
-  .upvote-badge .uv-num { font-size:.88rem; font-weight:700; color:var(--reddit); }
-  .upvote-badge .uv-lbl {
-    display:block; margin-top:3px;
-    font-size:.62rem; color:var(--muted); font-weight:600;
-  }
+  .card-top-badge .uv-arrow svg { width:14px; height:14px; }
+  .card-top-badge .uv-num { font-size:1rem; font-weight:700; color:var(--reddit); }
 
   .card-body { padding:14px 16px 16px; display:flex; flex-direction:column; flex:1; gap:10px; }
   .card-title {
@@ -420,8 +547,6 @@
 
   .reddit-quote {
     display:flex; align-items:flex-start; gap:10px;
-    background:#FFF5F0; border-radius:10px;
-    padding:10px 12px 10px 10px;
   }
   .reddit-quote .reddit-avatar {
     width:30px; height:30px; flex-shrink:0;
@@ -450,11 +575,10 @@
     letter-spacing:-.02em; line-height:1;
   }
   .card-cta {
-    display:inline-flex; align-items:center; justify-content:center; gap:6px;
+    display:flex; align-items:center; justify-content:center; gap:6px;
     background:var(--accent); color:#fff; text-decoration:none;
-    padding:9px 14px; border-radius:100px; font-size:.78rem; font-weight:600;
-    white-space:nowrap; transition:background .18s, transform .18s;
-    flex-shrink:0;
+    padding:11px 16px; border-radius:10px; font-size:.875rem; font-weight:600;
+    width:100%; transition:background .18s, transform .18s;
   }
   .card-cta:hover { background:#153228; transform:translateY(-1px); }
   .card-cta svg { width:14px; height:14px; flex-shrink:0; }
@@ -495,51 +619,98 @@
     .gift-sidebar { position:static; max-height:none; }
     .grid { grid-template-columns:repeat(2,1fr); }
     .search-box { display:none; }
-    .hero-intro { grid-template-columns:1fr; gap:24px; }
-    .hero-popups { height:auto; min-height:160px; }
-    .popup { width:200px; }
-    .popup-1 { top:0; right:0; }
-    .popup-2 { top:50px; right:auto; left:0; }
-    .popup-3 { top:110px; right:30%; }
+    .hero-intro { grid-template-columns:1fr; }
+    .hero-right { min-height:320px; }
+    .price-filter-card { flex-direction:column; align-items:flex-start; gap:16px; }
   }
   @media(max-width:620px){
     .grid { grid-template-columns:1fr; }
     .help-cta-inner { flex-direction:column; text-align:center; padding:26px 22px; }
     .help-cta-inner .gift-emoji { margin:0; }
-    .hero-intro { padding:36px 5% 28px; gap:0; }
-    .hero-popups { display:none; }
+    .hero-left { padding:36px 5% 32px; }
+    .hero-right { min-height:260px; }
     .top-strip { padding:18px 5% 0; }
     .nav-link span { display:none; }
     .nav-user .uname, .nav-user .caret { display:none; }
+    .hero-stats { gap:16px; }
+    .price-filter-card { padding:18px 20px; }
   }
 </style>
 </head>
 <body>
 
-<!-- TOP STRIP -->
-<div class="top-strip">
-  <a href="#" class="brand">
-    <span class="brand-icon">🎁</span>
-    <span class="brand-name">What can I gift</span>
-  </a>
-  <div class="brand-meta">
-    <span class="bm-icon">
-      <svg viewBox="0 0 24 24" fill="#fff"><path d="M22 12c0-1.1-.9-2-2-2-.5 0-1 .2-1.4.6-1.4-1-3.3-1.6-5.4-1.7l1-3.2 2.7.6c0 .7.6 1.3 1.3 1.3s1.3-.6 1.3-1.3-.6-1.3-1.3-1.3c-.5 0-1 .3-1.2.8L13.6 4c-.2 0-.3.1-.3.3l-1.1 3.6c-2.2.1-4.1.7-5.5 1.7-.4-.4-.9-.6-1.4-.6-1.1 0-2 .9-2 2 0 .8.5 1.5 1.1 1.8 0 .2-.1.4-.1.6 0 2.8 3.3 5.1 7.3 5.1s7.3-2.3 7.3-5.1c0-.2 0-.4-.1-.6.7-.3 1.2-1 1.2-1.8zM8 13.5c0-.7.6-1.3 1.3-1.3s1.3.6 1.3 1.3-.6 1.3-1.3 1.3S8 14.2 8 13.5zm6.9 3.2c-.8.8-2.4.9-2.9.9s-2.1 0-2.9-.9c-.1-.1-.1-.3 0-.4.1-.1.3-.1.4 0 .5.5 1.6.7 2.5.7s2-.2 2.5-.7c.1-.1.3-.1.4 0 .1.1.1.3 0 .4zm-.2-1.9c-.7 0-1.3-.6-1.3-1.3s.6-1.3 1.3-1.3 1.3.6 1.3 1.3-.6 1.3-1.3 1.3z"/></svg>
-    </span>
-    Curated from <b>2,000+</b> Reddit threads
-  </div>
-</div>
-
 <!-- HERO -->
 <section class="hero-intro">
+  <!-- LEFT: Text + Stats -->
   <div class="hero-left">
+    <a href="#" class="hero-brand">
+      <span class="brand-icon">🎁</span>
+      <span class="brand-name">What can I gift</span>
+    </a>
+    <div class="hero-tag">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      Recommended by real people
+    </div>
     <h1>Gifts people<br><em>actually</em> recommend.</h1>
     <p>Real recommendations from real people.<br>No paid placements. Just honest opinions.</p>
-    <div class="price-filter-container">
-      <div class="price-filter-header">
-        <span class="price-filter-label">Filter by Price:</span>
-        <span class="price-filter-value" id="price-val-display">Any Price</span>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="hero-stat-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+        </div>
+        <div>
+          <div class="hero-stat-num">12,483</div>
+          <div class="hero-stat-lbl">recommendations<br>analyzed</div>
+        </div>
       </div>
+      <div class="hero-stat">
+        <div class="hero-stat-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 12 20 22 4 22 4 12"/><rect x="2" y="7" width="20" height="5"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></svg>
+        </div>
+        <div>
+          <div class="hero-stat-num">3,201</div>
+          <div class="hero-stat-lbl">gifts<br>discovered</div>
+        </div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        </div>
+        <div>
+          <div class="hero-stat-num">From real</div>
+          <div class="hero-stat-lbl">communities<br>you trust</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- RIGHT: Scene Image + Testimonial overlay -->
+  <div class="hero-right">
+    <img class="hero-img" src="images/hero-scene.jpg" alt="Gift scene with Ember mug, Marshall speaker, LEGO bonsai and personalized star map">
+    <div class="hero-testimonial">
+      <div class="hero-testimonial-head">
+        <div class="hero-reddit-dot">
+          <svg viewBox="0 0 24 24" fill="#fff"><path d="M22 12c0-1.1-.9-2-2-2-.5 0-1 .2-1.4.6-1.4-1-3.3-1.6-5.4-1.7l1-3.2 2.7.6c0 .7.6 1.3 1.3 1.3s1.3-.6 1.3-1.3-.6-1.3-1.3-1.3c-.5 0-1 .3-1.2.8L13.6 4c-.2 0-.3.1-.3.3l-1.1 3.6c-2.2.1-4.1.7-5.5 1.7-.4-.4-.9-.6-1.4-.6-1.1 0-2 .9-2 2 0 .8.5 1.5 1.1 1.8 0 .2-.1.4-.1.6 0 2.8 3.3 5.1 7.3 5.1s7.3-2.3 7.3-5.1c0-.2 0-.4-.1-.6.7-.3 1.2-1 1.2-1.8zM8 13.5c0-.7.6-1.3 1.3-1.3s1.3.6 1.3 1.3-.6 1.3-1.3 1.3S8 14.2 8 13.5zm6.9 3.2c-.8.8-2.4.9-2.9.9s-2.1 0-2.9-.9c-.1-.1-.1-.3 0-.4.1-.1.3-.1.4 0 .5.5 1.6.7 2.5.7s2-.2 2.5-.7c.1-.1.3-.1.4 0 .1.1.1.3 0 .4zm-.2-1.9c-.7 0-1.3-.6-1.3-1.3s.6-1.3 1.3-1.3 1.3.6 1.3 1.3-.6 1.3-1.3 1.3z"/></svg>
+        </div>
+      </div>
+      <div class="hero-testimonial-text">"Bought this for my brother and he can't stop talking about it."</div>
+      <div class="hero-testimonial-upvote">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 4l8 9h-5v7H9v-7H4z"/></svg>
+        2.1k
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- DISCOVERY BAR: categories + price filter share one aligned container -->
+<div class="discovery-bar">
+  <section class="cat-section">
+    <div class="cat-section-label">Browse by category</div>
+    <div class="cat-cards-scroll" id="cat-cards"></div>
+  </section>
+
+  <div class="price-filter-section">
+    <div class="price-filter-card">
+      <span class="price-filter-label">Filter by Price:</span>
       <div class="slider-wrapper">
         <span class="slider-min">$0</span>
         <input type="range" id="price-slider" min="0" max="250" value="250" step="5" class="premium-slider" oninput="onSliderChange(this.value)">
@@ -554,39 +725,7 @@
       </div>
     </div>
   </div>
-  <div class="hero-popups">
-    <div class="popup popup-1">
-      <div class="popup-head">
-        <span class="popup-avatar">🎮</span>
-        <span class="popup-sub">r/gadgets</span>
-      </div>
-      <p class="popup-text">Bought this for my brother and he can't stop talking about it.</p>
-      <div class="popup-upvote">▲ 2.1k</div>
-    </div>
-    <div class="popup popup-2">
-      <div class="popup-head">
-        <span class="popup-avatar" style="background:#FFE9D6">☕</span>
-        <span class="popup-sub">r/coffee</span>
-      </div>
-      <p class="popup-text">Gave this to my dad. He uses it every single morning.</p>
-      <div class="popup-upvote">▲ 847</div>
-    </div>
-    <div class="popup popup-3">
-      <div class="popup-head">
-        <span class="popup-avatar" style="background:#E8F0EC">🌱</span>
-        <span class="popup-sub">r/BuyItForLife</span>
-      </div>
-      <p class="popup-text">Best gift I've ever received. Two years later, still going strong.</p>
-      <div class="popup-upvote">▲ 1.5k</div>
-    </div>
-  </div>
-</section>
-
-<!-- POPULAR CATEGORIES -->
-<section class="pop-section">
-  <div class="pop-label">Popular right now</div>
-  <div class="pop-pills" id="pop-pills"></div>
-</section>
+</div>
 
 <!-- CATALOG -->
 <div class="catalog-wrap">
@@ -653,17 +792,31 @@ let currentCat = 'all';
 let currentGiftFilter = 'all';
 let currentSort = 'recommended';
 
-function buildPopularPills() {
-  document.getElementById('pop-pills').innerHTML = POPULAR.map((p, i) =>
-    `<button class="pop-pill ${i === 0 ? 'on' : ''}" data-cat="${p.cat}" onclick="setCat('${p.cat}', this)">
-      <span class="pp-emoji">${p.emoji}</span> ${p.label}
-    </button>`
-  ).join('');
+const CAT_BG_IMAGES = {
+  'all':       'https://images.unsplash.com/photo-1512909006721-3d6018887383?w=220&fit=crop&q=80',
+  'tech':      'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=220&fit=crop&q=80',
+  'home':      'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=220&fit=crop&q=80',
+  'quirky':    'https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=220&fit=crop&q=80',
+  'wellness':  'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=220&fit=crop&q=80',
+  'kitchen':   'https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=220&fit=crop&q=80',
+  'lifestyle': 'https://images.unsplash.com/photo-1517842645767-c639042777db?w=220&fit=crop&q=80',
+  'gaming':    'https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=220&fit=crop&q=80',
+};
+
+function buildCatCards() {
+  document.getElementById('cat-cards').innerHTML = POPULAR.map((p, i) => {
+    const img = CAT_BG_IMAGES[p.cat.toLowerCase()] || CAT_BG_IMAGES['all'];
+    return `<button class="cat-card ${i === 0 ? 'on' : ''}" data-cat="${p.cat}" onclick="setCat('${p.cat}', this)">
+      <div class="cat-card-bg" style="background-image:url('${img}')"></div>
+      <div class="cat-card-overlay"></div>
+      <span class="cat-card-label">${p.label}</span>
+    </button>`;
+  }).join('');
 }
 
 function setCat(cat, btn) {
   currentCat = cat;
-  document.querySelectorAll('.pop-pill').forEach(b => b.classList.remove('on'));
+  document.querySelectorAll('.cat-card').forEach(b => b.classList.remove('on'));
   btn.classList.add('on');
   renderFeed();
 }
@@ -769,15 +922,13 @@ function sortProducts(list) {
   return sorted;
 }
 function renderUpvoteBadge(r) {
-  if (isTeamRecommendation(r)) return '';
-  if (!r.upvotes) return '';
+  const hasUpvotes = !isTeamRecommendation(r) && r.upvotes;
   return `
-  <div class="upvote-badge">
-    <div class="uv-row">
+  <div class="card-top-badge">
+    ${hasUpvotes ? `<div class="uv-row">
       <span class="uv-arrow">${UPVOTE}</span>
       <span class="uv-num">${r.upvotes}</span>
-    </div>
-    <span class="uv-lbl">upvotes</span>
+    </div>` : ''}
   </div>`;
 }
 function renderFeed() {
@@ -811,11 +962,8 @@ function renderCard(p, i) {
   const tag = primaryTag(p);
   return `
   <article class="card" style="animation-delay:${i * 0.04}s">
+    ${renderUpvoteBadge(r)}
     <div class="card-img">
-      ${renderUpvoteBadge(r)}
-      <div class="cat-pill">
-        <span class="cat-emoji">${tag.emoji}</span>${tag.label}
-      </div>
       <img src="${p.imgs[0]}" data-srcs='${JSON.stringify(p.imgs)}' data-idx="0"
            alt="${p.title}" onerror="tryNext(this)" loading="lazy">
       <div class="fallback">${p.emoji || '🎁'}</div>
@@ -831,10 +979,13 @@ function renderCard(p, i) {
       </div>
       <div class="card-footer">
         ${p.price ? `<span class="price">${p.price}</span>` : '<span></span>'}
-        <a class="card-cta" href="${p.url}" target="_blank" rel="noopener">
-          Buy on Amazon ${ARROW}
-        </a>
+        <div class="cat-pill">
+          <span class="cat-emoji">${tag.emoji}</span>${tag.label}
+        </div>
       </div>
+      <a class="card-cta" href="${p.url}" target="_blank" rel="noopener">
+        Buy on Amazon ${ARROW}
+      </a>
     </div>
   </article>`;
 }
@@ -933,7 +1084,7 @@ async function init() {
     GIFT_FILTER_GROUPS = Array.isArray(data.giftFilters) && data.giftFilters.length
       ? data.giftFilters
       : GIFT_FILTER_GROUPS;
-    buildPopularPills();
+    buildCatCards();
     buildGiftFilters();
     initPriceSliderRange();
     renderFeed();
