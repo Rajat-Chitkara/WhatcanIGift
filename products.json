@@ -15,7 +15,9 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "halloween",
+        "harry-potter"
       ],
       "emoji": "🪄",
       "imgs": [
@@ -47,7 +49,8 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gaming"
       ],
       "emoji": "🎮",
       "imgs": [
@@ -78,7 +81,8 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gaming"
       ],
       "emoji": "⏰",
       "imgs": [
@@ -112,7 +116,9 @@
         "best-friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "travel",
+        "valentines-day"
       ],
       "emoji": "📷",
       "imgs": [
@@ -144,7 +150,11 @@
         "girlfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fitness",
+        "graduation",
+        "mothers-day",
+        "new-year"
       ],
       "emoji": "💧",
       "imgs": [
@@ -175,7 +185,8 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gaming"
       ],
       "emoji": "🖥️",
       "imgs": [
@@ -206,7 +217,8 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gaming"
       ],
       "emoji": "🎨",
       "imgs": [
@@ -239,7 +251,8 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "music"
       ],
       "emoji": "🎧",
       "imgs": [
@@ -302,7 +315,8 @@
         "father",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "travel"
       ],
       "emoji": "👜",
       "imgs": [
@@ -333,7 +347,9 @@
         "father",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "graduation",
+        "travel"
       ],
       "emoji": "💳",
       "imgs": [
@@ -365,7 +381,10 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "gaming",
+        "graduation"
       ],
       "emoji": "🐬",
       "imgs": [
@@ -429,7 +448,8 @@
         "sister",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "cooking"
       ],
       "emoji": "🌿",
       "imgs": [
@@ -461,7 +481,8 @@
         "sister",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "music"
       ],
       "emoji": "📻",
       "imgs": [
@@ -492,7 +513,8 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "music"
       ],
       "emoji": "📡",
       "imgs": [
@@ -523,7 +545,8 @@
         "girlfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "music"
       ],
       "emoji": "🔊",
       "imgs": [
@@ -554,7 +577,8 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gaming"
       ],
       "emoji": "🕹️",
       "imgs": [
@@ -585,7 +609,8 @@
         "sister",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming"
       ],
       "emoji": "✨",
       "imgs": [
@@ -617,7 +642,9 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "gaming"
       ],
       "emoji": "🎮",
       "imgs": [
@@ -650,7 +677,10 @@
         "mother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fitness",
+        "mothers-day",
+        "new-year"
       ],
       "emoji": "💧",
       "imgs": [
@@ -681,7 +711,8 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gaming"
       ],
       "emoji": "⏰",
       "imgs": [
@@ -716,7 +747,13 @@
         "brother",
         "sister",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "fitness",
+        "graduation",
+        "mothers-day",
+        "new-year",
+        "thanksgiving"
       ],
       "emoji": "🥤",
       "imgs": [
@@ -748,7 +785,11 @@
         "friend",
         "mother",
         "birthday",
-        "christmas"
+        "christmas",
+        "fitness",
+        "graduation",
+        "mothers-day",
+        "new-year"
       ],
       "emoji": "💧",
       "imgs": [
@@ -781,7 +822,11 @@
         "friend",
         "grandparents",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "fitness",
+        "graduation",
+        "travel"
       ],
       "emoji": "🧦",
       "imgs": [
@@ -813,7 +858,10 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "fitness",
+        "graduation"
       ],
       "emoji": "🔧",
       "imgs": [
@@ -845,7 +893,10 @@
         "friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "fathers-day",
+        "graduation",
+        "travel"
       ],
       "emoji": "👛",
       "imgs": [
@@ -877,7 +928,9 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "fitness"
       ],
       "emoji": "🔪",
       "imgs": [
@@ -908,7 +961,12 @@
         "girlfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fitness",
+        "graduation",
+        "mothers-day",
+        "new-year",
+        "bridal-shower"
       ],
       "emoji": "👡",
       "imgs": [
@@ -940,7 +998,11 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "gardening",
+        "halloween",
+        "mothers-day"
       ],
       "emoji": "🧂",
       "imgs": [
@@ -969,7 +1031,12 @@
         "mother",
         "grandparents",
         "friend",
-        "christmas"
+        "christmas",
+        "cooking",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "thanksgiving"
       ],
       "emoji": "🥫",
       "imgs": [
@@ -1002,7 +1069,13 @@
         "best-friend",
         "christmas",
         "anniversary",
-        "birthday"
+        "birthday",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "valentines-day",
+        "wedding",
+        "baby-shower"
       ],
       "emoji": "🖼️",
       "imgs": [
@@ -1033,7 +1106,8 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day"
       ],
       "emoji": "📏",
       "imgs": [
@@ -1064,7 +1138,11 @@
         "girlfriend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "graduation",
+        "mothers-day",
+        "travel",
+        "bridal-shower"
       ],
       "emoji": "👜",
       "imgs": [
@@ -1094,7 +1172,14 @@
         "mother",
         "girlfriend",
         "christmas",
-        "birthday"
+        "birthday",
+        "cooking",
+        "housewarming",
+        "mothers-day",
+        "thanksgiving",
+        "valentines-day",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🪵",
       "imgs": [
@@ -1128,7 +1213,11 @@
         "best-friend",
         "anniversary",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming",
+        "valentines-day",
+        "wedding",
+        "baby-shower"
       ],
       "emoji": "✨",
       "imgs": [
@@ -1160,7 +1249,11 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gardening",
+        "housewarming",
+        "mothers-day",
+        "bridal-shower"
       ],
       "emoji": "🪴",
       "imgs": [
@@ -1192,7 +1285,9 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "music"
       ],
       "emoji": "💧",
       "imgs": [
@@ -1225,7 +1320,11 @@
         "girlfriend",
         "friend",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "housewarming",
+        "valentines-day",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🎄",
       "imgs": [
@@ -1257,7 +1356,12 @@
         "friend",
         "mother",
         "birthday",
-        "christmas"
+        "christmas",
+        "mothers-day",
+        "valentines-day",
+        "wedding",
+        "baby-shower",
+        "bridal-shower"
       ],
       "emoji": "🐘",
       "imgs": [
@@ -1290,7 +1394,13 @@
         "best-friend",
         "anniversary",
         "christmas",
-        "birthday"
+        "birthday",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "valentines-day",
+        "wedding",
+        "baby-shower"
       ],
       "emoji": "🖼️",
       "imgs": [
@@ -1322,7 +1432,9 @@
         "best-friend",
         "anniversary",
         "birthday",
-        "christmas"
+        "christmas",
+        "travel",
+        "valentines-day"
       ],
       "emoji": "☕",
       "imgs": [
@@ -1354,7 +1466,13 @@
         "best-friend",
         "girlfriend",
         "birthday",
-        "christmas"
+        "christmas",
+        "cooking",
+        "housewarming",
+        "mothers-day",
+        "thanksgiving",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🦈",
       "imgs": [
@@ -1386,7 +1504,10 @@
         "girlfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "anniversary",
+        "valentines-day",
+        "bridal-shower"
       ],
       "emoji": "🐢",
       "imgs": [
@@ -1417,7 +1538,12 @@
         "mother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "cooking",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "thanksgiving"
       ],
       "emoji": "🐰",
       "imgs": [
@@ -1448,7 +1574,15 @@
         "mother",
         "father",
         "christmas",
-        "birthday"
+        "birthday",
+        "cooking",
+        "get-well-soon",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "thanksgiving",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🫖",
       "imgs": [
@@ -1479,7 +1613,10 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "cooking",
+        "fathers-day",
+        "thanksgiving"
       ],
       "emoji": "🥪",
       "imgs": [
@@ -1512,7 +1649,12 @@
         "mother",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "housewarming",
+        "mothers-day",
+        "valentines-day",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🍷",
       "imgs": [
@@ -1544,7 +1686,11 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "cooking",
+        "get-well-soon",
+        "mothers-day",
+        "thanksgiving"
       ],
       "emoji": "🌯",
       "imgs": [
@@ -1577,7 +1723,13 @@
         "best-friend",
         "anniversary",
         "christmas",
-        "birthday"
+        "birthday",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "valentines-day",
+        "wedding",
+        "baby-shower"
       ],
       "emoji": "🖼️",
       "imgs": [
@@ -1608,7 +1760,13 @@
         "girlfriend",
         "sister",
         "christmas",
-        "birthday"
+        "birthday",
+        "get-well-soon",
+        "mothers-day",
+        "retirement",
+        "thanksgiving",
+        "valentines-day",
+        "baby-shower"
       ],
       "emoji": "🔥",
       "imgs": [
@@ -1639,7 +1797,10 @@
         "girlfriend",
         "anniversary",
         "birthday",
-        "christmas"
+        "christmas",
+        "mothers-day",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "💍",
       "imgs": [
@@ -1670,7 +1831,13 @@
         "grandparents",
         "friend",
         "christmas",
-        "birthday"
+        "birthday",
+        "cooking",
+        "fathers-day",
+        "housewarming",
+        "mothers-day",
+        "thanksgiving",
+        "wedding"
       ],
       "emoji": "🍱",
       "imgs": [
@@ -1701,7 +1868,14 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "cooking",
+        "fathers-day",
+        "get-well-soon",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "thanksgiving"
       ],
       "emoji": "☕",
       "imgs": [
@@ -1732,7 +1906,11 @@
         "best-friend",
         "sister",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "bridal-shower"
       ],
       "emoji": "🌈",
       "imgs": [
@@ -1763,7 +1941,12 @@
         "grandparents",
         "girlfriend",
         "christmas",
-        "birthday"
+        "birthday",
+        "get-well-soon",
+        "mothers-day",
+        "retirement",
+        "thanksgiving",
+        "baby-shower"
       ],
       "emoji": "🥿",
       "imgs": [
@@ -1794,7 +1977,12 @@
         "sister",
         "anniversary",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming",
+        "mothers-day",
+        "valentines-day",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🛁",
       "imgs": [
@@ -1825,7 +2013,8 @@
         "boyfriend",
         "friend",
         "christmas",
-        "birthday"
+        "birthday",
+        "fathers-day"
       ],
       "emoji": "🧤",
       "imgs": [
@@ -1857,7 +2046,10 @@
         "father",
         "mother",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "graduation",
+        "travel"
       ],
       "emoji": "🔋",
       "imgs": [
@@ -1918,7 +2110,9 @@
         "boyfriend",
         "grandparents",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "travel"
       ],
       "emoji": "🚗",
       "imgs": [
@@ -2011,7 +2205,11 @@
         "girlfriend",
         "christmas",
         "birthday",
-        "anniversary"
+        "anniversary",
+        "get-well-soon",
+        "mothers-day",
+        "retirement",
+        "wedding"
       ],
       "emoji": "🛏️",
       "imgs": [
@@ -2042,7 +2240,13 @@
         "girlfriend",
         "sister",
         "christmas",
-        "birthday"
+        "birthday",
+        "get-well-soon",
+        "mothers-day",
+        "retirement",
+        "thanksgiving",
+        "valentines-day",
+        "baby-shower"
       ],
       "emoji": "🛋️",
       "imgs": [
@@ -2072,7 +2276,9 @@
         "father",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "cooking",
+        "thanksgiving"
       ],
       "emoji": "🍕",
       "imgs": [
@@ -2103,7 +2309,11 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming",
+        "mothers-day",
+        "valentines-day",
+        "baby-shower"
       ],
       "emoji": "✨",
       "imgs": [
@@ -2132,7 +2342,13 @@
         "sister",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "cooking",
+        "graduation",
+        "housewarming",
+        "mothers-day",
+        "thanksgiving",
+        "bridal-shower"
       ],
       "emoji": "⚖️",
       "imgs": [
@@ -2163,7 +2379,8 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fitness"
       ],
       "emoji": "🩺",
       "imgs": [
@@ -2194,7 +2411,12 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "fitness",
+        "graduation",
+        "new-year",
+        "travel"
       ],
       "emoji": "💧",
       "imgs": [
@@ -2225,7 +2447,11 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "fitness",
+        "graduation",
+        "travel"
       ],
       "emoji": "🔪",
       "imgs": [
@@ -2257,7 +2483,14 @@
         "friend",
         "christmas",
         "birthday",
-        "anniversary"
+        "anniversary",
+        "cooking",
+        "graduation",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "thanksgiving",
+        "wedding"
       ],
       "emoji": "🍲",
       "imgs": [
@@ -2289,7 +2522,14 @@
         "boyfriend",
         "anniversary",
         "christmas",
-        "birthday"
+        "birthday",
+        "get-well-soon",
+        "mothers-day",
+        "retirement",
+        "thanksgiving",
+        "valentines-day",
+        "wedding",
+        "baby-shower"
       ],
       "emoji": "🛏️",
       "imgs": [
@@ -2320,7 +2560,11 @@
         "mother",
         "girlfriend",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming",
+        "mothers-day",
+        "valentines-day",
+        "bridal-shower"
       ],
       "emoji": "🦋",
       "imgs": [
@@ -2352,7 +2596,13 @@
         "friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "cooking",
+        "housewarming",
+        "mothers-day",
+        "thanksgiving",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🍴",
       "imgs": [
@@ -2383,7 +2633,9 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "gaming"
       ],
       "emoji": "🎮",
       "imgs": [
@@ -2413,7 +2665,8 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "baby-shower"
       ],
       "emoji": "🧸",
       "imgs": [
@@ -2445,7 +2698,11 @@
         "best-friend",
         "anniversary",
         "birthday",
-        "christmas"
+        "christmas",
+        "mothers-day",
+        "valentines-day",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🔐",
       "imgs": [
@@ -2476,7 +2733,9 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "football"
       ],
       "emoji": "⚽",
       "imgs": [
@@ -2506,7 +2765,9 @@
         "father",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "football"
       ],
       "emoji": "🇬🇹",
       "imgs": [
@@ -2536,7 +2797,9 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "football"
       ],
       "emoji": "🪆",
       "imgs": [
@@ -2567,7 +2830,9 @@
         "father",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "football"
       ],
       "emoji": "⚽",
       "imgs": [
@@ -2598,7 +2863,8 @@
         "friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "football"
       ],
       "emoji": "🛡️",
       "imgs": [
@@ -2628,7 +2894,9 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fathers-day"
       ],
       "emoji": "👟",
       "imgs": [
@@ -2658,7 +2926,9 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fathers-day"
       ],
       "emoji": "🎎",
       "imgs": [
@@ -2688,7 +2958,9 @@
         "father",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fathers-day"
       ],
       "emoji": "🧦",
       "imgs": [
@@ -2719,7 +2991,9 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fathers-day"
       ],
       "emoji": "📕",
       "imgs": [
@@ -2750,7 +3024,9 @@
         "father",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fathers-day"
       ],
       "emoji": "🏀",
       "imgs": [
@@ -2780,7 +3056,9 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fathers-day"
       ],
       "emoji": "🏀",
       "imgs": [
@@ -2809,7 +3087,8 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball"
       ],
       "emoji": "🩳",
       "imgs": [
@@ -2839,7 +3118,9 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fitness"
       ],
       "emoji": "🎒",
       "imgs": [
@@ -2869,7 +3150,9 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fitness"
       ],
       "emoji": "🦵",
       "imgs": [
@@ -2899,7 +3182,9 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fitness"
       ],
       "emoji": "💪",
       "imgs": [
@@ -2929,7 +3214,10 @@
         "mother",
         "brother",
         "birthday",
-        "christmas"
+        "christmas",
+        "fitness",
+        "graduation",
+        "new-year"
       ],
       "emoji": "👟",
       "imgs": [
@@ -2959,7 +3247,9 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "basketball",
+        "fathers-day"
       ],
       "emoji": "🃏",
       "imgs": [
@@ -2991,7 +3281,8 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "anime"
       ],
       "emoji": "🧸",
       "imgs": [
@@ -3021,7 +3312,8 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "anime"
       ],
       "emoji": "📚",
       "imgs": [
@@ -3052,7 +3344,8 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "anime"
       ],
       "emoji": "🔑",
       "imgs": [
@@ -3083,7 +3376,8 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "anime"
       ],
       "emoji": "🧸",
       "imgs": [
@@ -3115,7 +3409,8 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "anime"
       ],
       "emoji": "🎎",
       "imgs": [
@@ -3145,7 +3440,8 @@
         "brother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "anime"
       ],
       "emoji": "🛏️",
       "imgs": [
@@ -3177,7 +3473,11 @@
         "best-friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "mothers-day",
+        "valentines-day",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "💄",
       "imgs": [
@@ -3209,7 +3509,9 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "graduation",
+        "travel"
       ],
       "emoji": "📱",
       "imgs": [
@@ -3242,7 +3544,8 @@
         "friend",
         "grandparents",
         "birthday",
-        "christmas"
+        "christmas",
+        "fitness"
       ],
       "emoji": "💨",
       "imgs": [
@@ -3275,7 +3578,8 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming"
       ],
       "emoji": "🌈",
       "imgs": [
@@ -3308,7 +3612,9 @@
         "friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "housewarming",
+        "valentines-day"
       ],
       "emoji": "🛋️",
       "imgs": [
@@ -3340,7 +3646,9 @@
         "father",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "fitness"
       ],
       "emoji": "🥊",
       "imgs": [
@@ -3373,7 +3681,12 @@
         "best-friend",
         "anniversary",
         "christmas",
-        "birthday"
+        "birthday",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "wedding",
+        "baby-shower"
       ],
       "emoji": "📅",
       "imgs": [
@@ -3440,7 +3753,9 @@
         "best-friend",
         "christmas",
         "birthday",
-        "anniversary"
+        "anniversary",
+        "fathers-day",
+        "housewarming"
       ],
       "emoji": "🌡️",
       "imgs": [
@@ -3473,7 +3788,8 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming"
       ],
       "emoji": "💡",
       "imgs": [
@@ -3506,7 +3822,11 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gardening",
+        "housewarming",
+        "mothers-day",
+        "bridal-shower"
       ],
       "emoji": "🌱",
       "imgs": [
@@ -3539,7 +3859,12 @@
         "best-friend",
         "christmas",
         "birthday",
-        "anniversary"
+        "anniversary",
+        "gardening",
+        "get-well-soon",
+        "housewarming",
+        "mothers-day",
+        "retirement"
       ],
       "emoji": "⛲",
       "imgs": [
@@ -3573,7 +3898,10 @@
         "best-friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "housewarming",
+        "valentines-day",
+        "baby-shower"
       ],
       "emoji": "🌌",
       "imgs": [
@@ -3605,7 +3933,10 @@
         "grandparents",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gardening",
+        "housewarming",
+        "mothers-day"
       ],
       "emoji": "✨",
       "imgs": [
@@ -3639,7 +3970,10 @@
         "best-friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "fathers-day",
+        "music",
+        "retirement"
       ],
       "emoji": "💿",
       "imgs": [
@@ -3673,7 +4007,9 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "music"
       ],
       "emoji": "🔊",
       "imgs": [
@@ -3708,7 +4044,10 @@
         "friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "housewarming",
+        "valentines-day",
+        "baby-shower"
       ],
       "emoji": "🪐",
       "imgs": [
@@ -3741,7 +4080,11 @@
         "best-friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "housewarming",
+        "mothers-day",
+        "valentines-day",
+        "baby-shower"
       ],
       "emoji": "🌻",
       "imgs": [
@@ -3774,7 +4117,12 @@
         "girlfriend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "get-well-soon",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "bridal-shower"
       ],
       "emoji": "🧂",
       "imgs": [
@@ -3807,7 +4155,13 @@
         "grandparents",
         "anniversary",
         "christmas",
-        "birthday"
+        "birthday",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "valentines-day",
+        "wedding",
+        "bridal-shower"
       ],
       "emoji": "🥗",
       "imgs": [
@@ -3839,7 +4193,9 @@
         "boyfriend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "housewarming"
       ],
       "emoji": "🍻",
       "imgs": [
@@ -3871,7 +4227,10 @@
         "mother",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming",
+        "mothers-day",
+        "baby-shower"
       ],
       "emoji": "🦛",
       "imgs": [
@@ -3904,7 +4263,9 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "gaming"
       ],
       "emoji": "⚙️",
       "imgs": [
@@ -3936,7 +4297,8 @@
         "friend",
         "girlfriend",
         "birthday",
-        "christmas"
+        "christmas",
+        "valentines-day"
       ],
       "emoji": "🕯️",
       "imgs": [
@@ -3968,7 +4330,9 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "music"
       ],
       "emoji": "🎵",
       "imgs": [
@@ -4002,7 +4366,8 @@
         "boyfriend",
         "girlfriend",
         "birthday",
-        "christmas"
+        "christmas",
+        "gaming"
       ],
       "emoji": "🎲",
       "imgs": [
@@ -4034,7 +4399,9 @@
         "friend",
         "best-friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "gaming"
       ],
       "emoji": "🎮",
       "imgs": [
@@ -4068,7 +4435,9 @@
         "friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "travel",
+        "valentines-day"
       ],
       "emoji": "📷",
       "imgs": [
@@ -4100,7 +4469,9 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "housewarming",
+        "valentines-day"
       ],
       "emoji": "🏮",
       "imgs": [
@@ -4134,7 +4505,14 @@
         "friend",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "cooking",
+        "fathers-day",
+        "get-well-soon",
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "thanksgiving"
       ],
       "emoji": "☕",
       "imgs": [
@@ -4167,7 +4545,11 @@
         "best-friend",
         "friend",
         "birthday",
-        "christmas"
+        "christmas",
+        "fitness",
+        "graduation",
+        "mothers-day",
+        "new-year"
       ],
       "emoji": "💧",
       "imgs": [
@@ -4188,7 +4570,7 @@
       "id": "personalized-drumsticks",
       "type": "product",
       "title": "Personalized Drumsticks",
-      "price": "$20-$40",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -4218,7 +4600,7 @@
       "id": "personalized-guitar-picks",
       "type": "product",
       "title": "Personalized Guitar Picks (Custom Set)",
-      "price": "$10-$25",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -4248,7 +4630,7 @@
       "id": "guitar-capo",
       "type": "product",
       "title": "Guitar Capo",
-      "price": "$10-$20",
+      "price": "",
       "tags": [
         "Lifestyle"
       ],
@@ -4277,7 +4659,7 @@
       "id": "guitar-glass-slide",
       "type": "product",
       "title": "Guitar Glass Slide",
-      "price": "$8-$18",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -4307,7 +4689,7 @@
       "id": "musician-earplugs",
       "type": "product",
       "title": "High-Fidelity Musician Earplugs",
-      "price": "$20-$50",
+      "price": "",
       "tags": [
         "Wellness",
         "Lifestyle"
@@ -4337,7 +4719,7 @@
       "id": "mechanical-metronome",
       "type": "product",
       "title": "Mechanical Pendulum Metronome",
-      "price": "$30-$60",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Home"
@@ -4368,7 +4750,7 @@
       "id": "harmonica",
       "type": "product",
       "title": "Harmonica",
-      "price": "$15-$40",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -4398,7 +4780,7 @@
       "id": "piano-key-cleaner",
       "type": "product",
       "title": "Piano Key Cleaner",
-      "price": "$15",
+      "price": "",
       "tags": [
         "Lifestyle"
       ],
@@ -4428,7 +4810,7 @@
       "type": "experience",
       "title": "Concert Tickets",
       "experienceNote": "Book tickets to their favorite artist's next show — the most personal gift a music lover can receive.",
-      "price": "Varies",
+      "price": "",
       "tags": [
         "Lifestyle"
       ],
@@ -4443,7 +4825,9 @@
         "birthday",
         "anniversary",
         "valentines-day",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "graduation"
       ],
       "emoji": "🎟️",
       "imgs": [],
@@ -4461,7 +4845,7 @@
       "id": "limited-edition-vinyl",
       "type": "product",
       "title": "Limited Edition Vinyl Record (Favorite Artist)",
-      "price": "$30-$80",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Home"
@@ -4476,7 +4860,11 @@
         "music",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "fathers-day",
+        "graduation",
+        "retirement",
+        "valentines-day"
       ],
       "emoji": "💿",
       "imgs": [],
@@ -4494,7 +4882,7 @@
       "id": "anime-tshirt-hoodie",
       "type": "product",
       "title": "Anime Character Hoodie / T-Shirt",
-      "price": "$25-$45",
+      "price": "",
       "tags": [
         "Lifestyle"
       ],
@@ -4527,7 +4915,7 @@
       "id": "dragon-ball-crystal-set",
       "type": "product",
       "title": "Dragon Ball 7-Crystal Replica Set",
-      "price": "$20-$40",
+      "price": "",
       "tags": [
         "Quirky",
         "Lifestyle"
@@ -4559,7 +4947,7 @@
       "type": "experience",
       "title": "Watch Anime Together",
       "experienceNote": "Pick a new series, grab their favorite snacks, and binge it together — zero cost, maximum impact.",
-      "price": "Free",
+      "price": "",
       "tags": [
         "Lifestyle"
       ],
@@ -4590,7 +4978,7 @@
       "type": "experience",
       "title": "Crunchyroll Premium Subscription",
       "experienceNote": "Gift a Crunchyroll Premium subscription — access to thousands of anime series, always up to date.",
-      "price": "$8-$15/month",
+      "price": "",
       "tags": [
         "Tech",
         "Lifestyle"
@@ -4624,7 +5012,7 @@
       "id": "mechanical-gaming-keyboard",
       "type": "product",
       "title": "Mechanical Gaming Keyboard",
-      "price": "$80-$250",
+      "price": "",
       "tags": [
         "Tech",
         "Gaming"
@@ -4637,7 +5025,9 @@
         "son",
         "gaming",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "graduation"
       ],
       "emoji": "⌨️",
       "imgs": [],
@@ -4655,7 +5045,7 @@
       "id": "specialty-dice-set",
       "type": "product",
       "title": "Specialty Polyhedral Dice Set",
-      "price": "$15-$45",
+      "price": "",
       "tags": [
         "Quirky",
         "Gaming"
@@ -4667,7 +5057,8 @@
         "best-friend",
         "gaming",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day"
       ],
       "emoji": "🎲",
       "imgs": [],
@@ -4685,7 +5076,7 @@
       "id": "heroforge-gift-card",
       "type": "product",
       "title": "HeroForge Custom Miniature Gift Card",
-      "price": "$30-$60",
+      "price": "",
       "tags": [
         "Quirky",
         "Gaming"
@@ -4716,7 +5107,7 @@
       "type": "experience",
       "title": "Play a Co-op Game Together",
       "experienceNote": "Buy two copies of a co-op game (Stardew Valley, It Takes Two, A Way Out) and play through it together.",
-      "price": "$15-$30",
+      "price": "",
       "tags": [
         "Gaming",
         "Lifestyle"
@@ -4748,7 +5139,7 @@
       "id": "gaming-finger-chopsticks",
       "type": "product",
       "title": "Finger Chopsticks for Gaming (No-Mess Snacking)",
-      "price": "$5-$10",
+      "price": "",
       "tags": [
         "Quirky",
         "Gaming"
@@ -4779,7 +5170,7 @@
       "id": "hp-illustrated-books",
       "type": "product",
       "title": "Harry Potter Illustrated Edition Books (Jim Kay)",
-      "price": "$25-$35",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Home"
@@ -4795,7 +5186,9 @@
         "harry-potter",
         "birthday",
         "christmas",
-        "graduation"
+        "graduation",
+        "mothers-day",
+        "retirement"
       ],
       "emoji": "📚",
       "imgs": [],
@@ -4813,7 +5206,7 @@
       "id": "hp-lego-set",
       "type": "product",
       "title": "Harry Potter LEGO Set",
-      "price": "$40-$90",
+      "price": "",
       "tags": [
         "Quirky",
         "Tech"
@@ -4829,7 +5222,8 @@
         "daughter",
         "harry-potter",
         "birthday",
-        "christmas"
+        "christmas",
+        "halloween"
       ],
       "emoji": "🧱",
       "imgs": [],
@@ -4847,7 +5241,7 @@
       "id": "hp-floating-candles",
       "type": "product",
       "title": "Harry Potter Floating Candle String Lights",
-      "price": "$20-$35",
+      "price": "",
       "tags": [
         "Home",
         "Quirky"
@@ -4882,7 +5276,7 @@
       "id": "hp-acceptance-letter",
       "type": "product",
       "title": "Personalized Hogwarts Acceptance Letter (Etsy)",
-      "price": "$15-$30",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -4898,7 +5292,8 @@
         "daughter",
         "harry-potter",
         "birthday",
-        "christmas"
+        "christmas",
+        "halloween"
       ],
       "emoji": "📜",
       "imgs": [],
@@ -4916,7 +5311,7 @@
       "id": "hp-book-nook",
       "type": "product",
       "title": "Harry Potter Book Nook Display Kit",
-      "price": "$30-$60",
+      "price": "",
       "tags": [
         "Home",
         "Quirky"
@@ -4931,7 +5326,8 @@
         "harry-potter",
         "birthday",
         "christmas",
-        "housewarming"
+        "housewarming",
+        "mothers-day"
       ],
       "emoji": "🏰",
       "imgs": [],
@@ -4949,7 +5345,7 @@
       "id": "marauders-map-puzzle",
       "type": "product",
       "title": "Marauder's Map Wooden Jigsaw Puzzle",
-      "price": "$25-$50",
+      "price": "",
       "tags": [
         "Quirky",
         "Home"
@@ -4981,7 +5377,7 @@
       "id": "hp-house-pajamas",
       "type": "product",
       "title": "Harry Potter House Pajamas",
-      "price": "$25-$55",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Wellness"
@@ -4996,7 +5392,9 @@
         "daughter",
         "harry-potter",
         "birthday",
-        "christmas"
+        "christmas",
+        "halloween",
+        "mothers-day"
       ],
       "emoji": "🦁",
       "imgs": [],
@@ -5014,7 +5412,7 @@
       "id": "apple-airtags-travel",
       "type": "product",
       "title": "Apple AirTag 4-Pack",
-      "price": "$99",
+      "price": "",
       "tags": [
         "Tech",
         "Lifestyle"
@@ -5030,7 +5428,9 @@
         "best-friend",
         "travel",
         "birthday",
-        "christmas"
+        "christmas",
+        "fathers-day",
+        "graduation"
       ],
       "emoji": "📍",
       "imgs": [],
@@ -5048,7 +5448,7 @@
       "id": "cashmere-travel-shawl",
       "type": "product",
       "title": "Cashmere / Alpaca Travel Shawl",
-      "price": "$50-$120",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Wellness"
@@ -5062,7 +5462,9 @@
         "travel",
         "birthday",
         "christmas",
-        "anniversary"
+        "anniversary",
+        "mothers-day",
+        "valentines-day"
       ],
       "emoji": "🧣",
       "imgs": [],
@@ -5080,7 +5482,7 @@
       "id": "compression-travel-socks",
       "type": "product",
       "title": "Compression Travel Socks",
-      "price": "$15-$35",
+      "price": "",
       "tags": [
         "Wellness",
         "Lifestyle"
@@ -5096,7 +5498,8 @@
         "best-friend",
         "travel",
         "birthday",
-        "christmas"
+        "christmas",
+        "new-year"
       ],
       "emoji": "🧦",
       "imgs": [],
@@ -5114,7 +5517,7 @@
       "id": "universal-travel-adapter",
       "type": "product",
       "title": "Universal Travel Adapter",
-      "price": "$20-$35",
+      "price": "",
       "tags": [
         "Tech",
         "Lifestyle"
@@ -5131,7 +5534,9 @@
         "travel",
         "birthday",
         "christmas",
-        "graduation"
+        "graduation",
+        "fathers-day",
+        "new-year"
       ],
       "emoji": "🔌",
       "imgs": [],
@@ -5149,7 +5554,7 @@
       "id": "packing-cubes-set",
       "type": "product",
       "title": "Packing Cubes Set (6-piece)",
-      "price": "$20-$40",
+      "price": "",
       "tags": [
         "Lifestyle"
       ],
@@ -5164,7 +5569,8 @@
         "best-friend",
         "travel",
         "birthday",
-        "christmas"
+        "christmas",
+        "graduation"
       ],
       "emoji": "🧳",
       "imgs": [],
@@ -5182,7 +5588,7 @@
       "id": "scratch-off-world-map",
       "type": "product",
       "title": "Scratch-Off World Map Poster",
-      "price": "$20-$40",
+      "price": "",
       "tags": [
         "Home",
         "Lifestyle"
@@ -5198,7 +5604,10 @@
         "birthday",
         "christmas",
         "graduation",
-        "housewarming"
+        "housewarming",
+        "mothers-day",
+        "retirement",
+        "wedding"
       ],
       "emoji": "🌍",
       "imgs": [],
@@ -5216,7 +5625,7 @@
       "id": "travel-jewelry-organizer",
       "type": "product",
       "title": "Travel Jewelry Organizer Case",
-      "price": "$15-$30",
+      "price": "",
       "tags": [
         "Lifestyle"
       ],
@@ -5229,7 +5638,8 @@
         "best-friend",
         "travel",
         "birthday",
-        "christmas"
+        "christmas",
+        "mothers-day"
       ],
       "emoji": "💎",
       "imgs": [],
@@ -5247,7 +5657,7 @@
       "id": "portable-espresso-maker",
       "type": "product",
       "title": "Portable Espresso Maker (Travel)",
-      "price": "$30-$60",
+      "price": "",
       "tags": [
         "Kitchen",
         "Lifestyle"
@@ -5279,7 +5689,7 @@
       "id": "travel-noise-canceling-mask",
       "type": "product",
       "title": "Noise-Canceling Sleep Mask (for Flights)",
-      "price": "$25-$60",
+      "price": "",
       "tags": [
         "Wellness",
         "Lifestyle"
@@ -5311,7 +5721,7 @@
       "id": "personalized-passport-cover",
       "type": "product",
       "title": "Personalized Passport Cover & Luggage Tag Set",
-      "price": "$20-$40",
+      "price": "",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -5326,7 +5736,8 @@
         "travel",
         "birthday",
         "christmas",
-        "graduation"
+        "graduation",
+        "wedding"
       ],
       "emoji": "🛂",
       "imgs": [],
@@ -5345,7 +5756,7 @@
       "type": "experience",
       "title": "Spa Day / Massage Gift",
       "experienceNote": "Book a spa session or relaxing massage — pure bliss after long journeys or a stressful week.",
-      "price": "Varies",
+      "price": "",
       "tags": [
         "Wellness",
         "Lifestyle"
@@ -5361,7 +5772,9 @@
         "birthday",
         "valentines-day",
         "anniversary",
-        "mothers-day"
+        "mothers-day",
+        "get-well-soon",
+        "bridal-shower"
       ],
       "emoji": "💆",
       "imgs": [],
