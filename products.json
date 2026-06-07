@@ -272,7 +272,7 @@
     {
       "id": "aquaminder-bluetooth",
       "title": "Aquaminder Bluetooth Hydration Tracker",
-      "price": "₹$19.99",
+      "price": "$19.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle",
@@ -320,7 +320,7 @@
       ],
       "emoji": "👜",
       "imgs": [
-        "images/SmartWallet.jpg"
+        "images/Tag8GenuineBluetooth.jpg"
       ],
       "url": "https://www.amazon.in/tag8-Bluetooth-Handcrafted-Rich-Brown/dp/B0DBQ7L5TN/",
       "recommendation": {
@@ -453,8 +453,7 @@
       ],
       "emoji": "🌿",
       "imgs": [
-        "https://m.media-amazon.com/images/I/81k4TeFWuZL._SL500_.jpg",
-        "https://images-na.ssl-images-amazon.com/images/P/B08GC1G4Y9.01._SX450_SCLZZZZZZZ_.jpg"
+        "images/CellPhoneStand.jpg"
       ],
       "url": "https://amzn.to/4dWJMCP",
       "recommendation": {
@@ -648,8 +647,7 @@
       ],
       "emoji": "🎮",
       "imgs": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DRYKJ1PC.01._SX450_SCLZZZZZZZ_.jpg",
-        "https://m.media-amazon.com/images/P/B0DRYKJ1PC.01._SX450_.jpg"
+        "images/WirelessGamingController.jpg"
       ],
       "url": "https://amzn.to/3PTTaPu",
       "recommendation": {
@@ -1221,7 +1219,7 @@
       ],
       "emoji": "✨",
       "imgs": [
-        "images/ConstellationStarMap.jpg"
+        "images/PersonalizedConstellationStar.jpg"
       ],
       "url": "https://amzn.to/4dUOUam",
       "recommendation": {
@@ -1273,8 +1271,8 @@
     {
       "id": "water-bottle-charger-speaker",
       "title": "Water Bottle with Built-in Phone Charger & Speaker",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$39.98",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
         "Wellness"
@@ -1291,9 +1289,9 @@
       ],
       "emoji": "💧",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/WaterBottlewithBuilt-in.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Water+Bottle+Phone+Charger+Speaker",
+      "url": "https://amzn.to/43RVbz1",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/alpacaapicnic",
@@ -1307,8 +1305,8 @@
     {
       "id": "personalized-christmas-ornament",
       "title": "Personalized Christmas Ornament",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$59.00",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Home",
         "Quirky"
@@ -1328,9 +1326,9 @@
       ],
       "emoji": "🎄",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/PersonalizedChristmasOrnament.jpg"
       ],
-      "url": "https://www.amazon.in/Curious-Button-Personalized-Christmas-Bauble/dp/B0G3GYKTFT/",
+      "url": "https://amzn.to/49GHYN8",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/alpacaapicnic",
@@ -1914,7 +1912,7 @@
       ],
       "emoji": "🌈",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/StainedGlassSuncatchers.jpg"
       ],
       "url": "https://amzn.to/4a8sFNd",
       "recommendation": {
@@ -1950,7 +1948,7 @@
       ],
       "emoji": "🥿",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/HeatedSlippers.jpg"
       ],
       "url": "https://amzn.to/4dDQCOI",
       "recommendation": {
@@ -1986,7 +1984,7 @@
       ],
       "emoji": "🛁",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/TowelWarmer.jpg"
       ],
       "url": "https://amzn.to/4ubk6bQ",
       "recommendation": {
@@ -2018,7 +2016,7 @@
       ],
       "emoji": "🧤",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/RechargeableHandWarmers.jpg"
       ],
       "url": "https://amzn.to/4v1EoWx",
       "recommendation": {
@@ -2533,7 +2531,7 @@
       ],
       "emoji": "🛏️",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/GooseDownDuvet.jpg"
       ],
       "url": "https://amzn.to/4ucF226",
       "recommendation": {
@@ -2654,7 +2652,7 @@
     {
       "id": "ty-beanie-baby",
       "title": "Ty Beanie Baby Stitch",
-      "price": "$10.99",
+      "price": "$11.49",
       "priceNote": "on Amazon.com",
       "tags": [
         "Quirky",
@@ -2670,7 +2668,7 @@
       ],
       "emoji": "🧸",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/TyBeanieBabyStitch.jpg"
       ],
       "url": "https://amzn.to/4vpQs3y",
       "recommendation": {
@@ -2706,7 +2704,7 @@
       ],
       "emoji": "🔐",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/SilverLocketNecklace.jpg"
       ],
       "url": "https://amzn.to/43HTIv6",
       "recommendation": {
@@ -2882,8 +2880,8 @@
     },
     {
       "id": "adidas-harden-vol-4-basketball-shoes",
-      "title": "Adidas Harden Vol. 4 Basketball Shoes",
-      "price": "",
+      "title": "Adidas Basketball Shoes",
+      "price": "$79.95",
       "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
@@ -2900,9 +2898,9 @@
       ],
       "emoji": "👟",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/AdidasBasketballShoes.jpg"
       ],
-      "url": "https://amzn.to/4dGVzX1",
+      "url": "https://amzn.to/3QrxQ4f",
       "recommendation": {
         "subreddit": "r/Basketball",
         "username": "u/ughitsanon",
@@ -3460,7 +3458,7 @@
     {
       "id": "fancii-lighted-mirror",
       "title": "Fancii Lighted Rechargeable Magnifying Travel Mirror",
-      "price": "",
+      "price": "$49.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Wellness",
@@ -3481,7 +3479,7 @@
       ],
       "emoji": "💄",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/FanciiLightedRechargeable.jpg"
       ],
       "url": "https://amzn.to/3RFH25o",
       "recommendation": {
@@ -3497,7 +3495,7 @@
     {
       "id": "lisen-phone-mount",
       "title": "LISEN Universal Hands-Free Phone Mount",
-      "price": "",
+      "price": "$14.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
@@ -3515,7 +3513,7 @@
       ],
       "emoji": "📱",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/LISENUniversalHands.jpg"
       ],
       "url": "https://amzn.to/4uLfhad",
       "recommendation": {
@@ -3531,7 +3529,7 @@
     {
       "id": "torras-coolify-neck-fan",
       "title": "TORRAS COOLiFY Adjustable Rechargeable Neck Fan",
-      "price": "",
+      "price": "$44.20",
       "priceNote": "on Amazon.com",
       "tags": [
         "Wellness",
@@ -3549,7 +3547,7 @@
       ],
       "emoji": "💨",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/TORRASCOOLiFYAdjustable.jpg"
       ],
       "url": "https://amzn.to/43KP7Z2",
       "recommendation": {
@@ -3565,7 +3563,7 @@
     {
       "id": "govee-segmented-led-lights",
       "title": "Govee Segmented RGB Bluetooth LED Light Strip",
-      "price": "",
+      "price": "$12.82",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -3583,7 +3581,7 @@
       ],
       "emoji": "🌈",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/GoveeSegmentedRGB.jpg"
       ],
       "url": "https://amzn.to/4x0iN1R",
       "recommendation": {
@@ -3599,7 +3597,7 @@
     {
       "id": "govee-floor-uplighter",
       "title": "Govee Floor Uplighter Bedroom Projector Lamp",
-      "price": "",
+      "price": "$149.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -3618,7 +3616,7 @@
       ],
       "emoji": "🛋️",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/GoveeFloorUplighter.jpg"
       ],
       "url": "https://amzn.to/4fkHdgb",
       "recommendation": {
@@ -3634,7 +3632,7 @@
     {
       "id": "lolbox-smart-punching-bag",
       "title": "LOLBOX Bluetooth Smart Punching Machine",
-      "price": "",
+      "price": "$69.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Wellness",
@@ -3652,7 +3650,7 @@
       ],
       "emoji": "🥊",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/LOLBOXBluetoothSmart.jpg"
       ],
       "url": "https://amzn.to/3RUBgNe",
       "recommendation": {
@@ -3668,7 +3666,7 @@
     {
       "id": "skylight-calendar-touchscreen",
       "title": "Skylight Touchscreen Interactive Family Calendar",
-      "price": "",
+      "price": "$299.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
@@ -3679,6 +3677,9 @@
         "father",
         "grandparents",
         "best-friend",
+        "friend",
+        "brother",
+        "sister",
         "anniversary",
         "christmas",
         "birthday",
@@ -3690,7 +3691,7 @@
       ],
       "emoji": "📅",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/SkylightTouchscreenInteractive.jpg"
       ],
       "url": "https://amzn.to/4ffKbCJ",
       "recommendation": {
@@ -3706,7 +3707,7 @@
     {
       "id": "bitvae-toothbrush-holder",
       "title": "Bitvae Wall-Mounted UV Toothbrush Holder",
-      "price": "",
+      "price": "$29.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Wellness",
@@ -3724,7 +3725,7 @@
       ],
       "emoji": "🪥",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/BitvaeWall-MountedUV.jpg"
       ],
       "url": "https://amzn.to/49x24cq",
       "recommendation": {
@@ -3740,7 +3741,7 @@
     {
       "id": "ecobee-smart-thermostat",
       "title": "Ecobee Smart Thermostat Premium with Air Quality Monitor",
-      "price": "",
+      "price": "$259.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
@@ -3759,7 +3760,7 @@
       ],
       "emoji": "🌡️",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/EcobeeSmartThermostat.jpg"
       ],
       "url": "https://amzn.to/4dH4Myz",
       "recommendation": {
@@ -3775,7 +3776,7 @@
     {
       "id": "govee-smart-bulbs",
       "title": "Govee Smart Color Changing Light Bulbs (SmartThings)",
-      "price": "",
+      "price": "$84.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -3793,7 +3794,7 @@
       ],
       "emoji": "💡",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/GoveeSmartColor.jpg"
       ],
       "url": "https://amzn.to/3REffCl",
       "recommendation": {
@@ -3809,7 +3810,7 @@
     {
       "id": "hydroponic-terrarium-planter",
       "title": "Hydroponic Tabletop Terrarium Planter",
-      "price": "",
+      "price": "$18.98",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -3830,7 +3831,7 @@
       ],
       "emoji": "🌱",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/HydroponicTabletopTerrarium.jpg"
       ],
       "url": "https://amzn.to/4o0Aryt",
       "recommendation": {
@@ -3846,7 +3847,7 @@
     {
       "id": "homedics-tabletop-fountain",
       "title": "HoMedics Tabletop Water Fountain",
-      "price": "",
+      "price": "$34",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -3868,7 +3869,7 @@
       ],
       "emoji": "⛲",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/HoMedicsTabletopWater.jpg"
       ],
       "url": "https://amzn.to/4fjJQPw",
       "recommendation": {
@@ -3884,7 +3885,7 @@
     {
       "id": "northern-lights-projector",
       "title": "Northern Lights Aurora Projector with Bluetooth Speaker",
-      "price": "",
+      "price": "$43.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -3905,7 +3906,7 @@
       ],
       "emoji": "🌌",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/NorthernLightsAurora.jpg"
       ],
       "url": "https://amzn.to/4ve9SZ4",
       "recommendation": {
@@ -3921,7 +3922,7 @@
     {
       "id": "solar-cracked-garden-lights",
       "title": "Solar Cracked Outdoor Garden Lights",
-      "price": "",
+      "price": "$29.08",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -3940,7 +3941,7 @@
       ],
       "emoji": "✨",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/SolarCrackedOutdoor.jpg"
       ],
       "url": "https://amzn.to/4uK5YHm",
       "recommendation": {
@@ -3956,7 +3957,7 @@
     {
       "id": "victrola-bluetooth-record-player",
       "title": "Victrola Retro Bluetooth Record Player",
-      "price": "",
+      "price": "$79.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -3977,7 +3978,7 @@
       ],
       "emoji": "💿",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/VictrolaRetroBluetooth.jpg"
       ],
       "url": "https://amzn.to/4wWu7Mp",
       "recommendation": {
@@ -3993,7 +3994,7 @@
     {
       "id": "bluetooth-portable-speaker",
       "title": "Portable Wireless Bluetooth Speaker",
-      "price": "",
+      "price": "$14.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
@@ -4013,7 +4014,7 @@
       ],
       "emoji": "🔊",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/PortableWirelessBluetoothSpeaker.jpg"
       ],
       "url": "https://amzn.to/4fUrmVL",
       "recommendation": {
@@ -4029,7 +4030,7 @@
     {
       "id": "pococo-galaxy-projector",
       "title": "POCOCO Galaxy Projector Planetarium",
-      "price": "",
+      "price": "$99.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -4051,7 +4052,7 @@
       ],
       "emoji": "🪐",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/POCOCOGalaxyProjector.jpg"
       ],
       "url": "https://amzn.to/4dQTI0A",
       "recommendation": {
@@ -4067,7 +4068,7 @@
     {
       "id": "amwgimi-sunflower-light",
       "title": "AMWGIMI Rechargeable Sunflower Crystal Light",
-      "price": "",
+      "price": "$29.98",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -4088,9 +4089,9 @@
       ],
       "emoji": "🌻",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/AMWGIMIRechargeableSunflower.jpg"
       ],
-      "url": "https://amzn.to/4feTbbd",
+      "url": "https://amzn.to/3Q1vmcM",
       "recommendation": {
         "subreddit": "r/gifts",
         "username": "Team Recommendation",
@@ -4104,7 +4105,7 @@
     {
       "id": "himalayan-salt-lamp",
       "title": "Natural Himalayan Salt Lamp with Dimmer",
-      "price": "",
+      "price": "$54.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -4126,7 +4127,7 @@
       ],
       "emoji": "🧂",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/NaturalHimalayanSalt.jpg"
       ],
       "url": "https://amzn.to/4uaFZrH",
       "recommendation": {
@@ -4142,7 +4143,7 @@
     {
       "id": "bloomingville-wood-bowl",
       "title": "Bloomingville Hand-Carved Paulownia Wood Bowl",
-      "price": "",
+      "price": "$26.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -4165,7 +4166,7 @@
       ],
       "emoji": "🥗",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/BloomingvilleHand-CarvedPaulownia.jpg"
       ],
       "url": "https://amzn.to/4uLbGJe",
       "recommendation": {
@@ -4181,7 +4182,7 @@
     {
       "id": "hanging-bar-sign",
       "title": "Vintage Drinks Restaurant Bar Decoration Sign",
-      "price": "",
+      "price": "$42.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -4199,7 +4200,7 @@
       ],
       "emoji": "🍻",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/VintageDrinksRestaurant.jpg"
       ],
       "url": "https://amzn.to/4x3bO8g",
       "recommendation": {
@@ -4215,7 +4216,7 @@
     {
       "id": "hippopotamus-figurine",
       "title": "Hippopotamus Figurine Decorative Container",
-      "price": "",
+      "price": "$28.49",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -4234,7 +4235,7 @@
       ],
       "emoji": "🦛",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/HippopotamusFigurineDecorative.jpg"
       ],
       "url": "https://amzn.to/4uLgAWF",
       "recommendation": {
@@ -4250,26 +4251,26 @@
     {
       "id": "rokr-mechanical-build",
       "title": "ROKR Functional Mechanical Building Model",
-      "price": "",
+      "price": "$69.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Quirky",
-        "Gaming"
+        "Home"
       ],
       "giftFor": [
         "boyfriend",
         "brother",
-        "father",
+        "wife",
+        "girlfriend",
         "best-friend",
-        "friend",
         "birthday",
         "christmas",
-        "fathers-day",
+        "valentines-day",
         "gaming"
       ],
       "emoji": "⚙️",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/ROKRFunctionalMechanical.jpg"
       ],
       "url": "https://amzn.to/3SeywKE",
       "recommendation": {
@@ -4318,7 +4319,7 @@
     {
       "id": "edifier-bluetooth-speakers",
       "title": "Edifier Bluetooth Multimedia Computer Speakers",
-      "price": "",
+      "price": "$119.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
@@ -4336,7 +4337,7 @@
       ],
       "emoji": "🎵",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/EdifierBluetoothMultimedia.jpg"
       ],
       "url": "https://amzn.to/3RWQz85",
       "recommendation": {
@@ -4352,15 +4353,15 @@
     {
       "id": "playground-ai-game",
       "title": "Playground AI-Powered Board Game",
-      "price": "",
+      "price": "$299",
       "priceNote": "on Amazon.com",
       "tags": [
         "Gaming",
         "Quirky"
       ],
       "giftFor": [
-        "best-friend",
-        "friend",
+        "son",
+        "daughter",
         "brother",
         "sister",
         "boyfriend",
@@ -4371,7 +4372,7 @@
       ],
       "emoji": "🎲",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/PlaygroundAI-PoweredBoard.jpg"
       ],
       "url": "https://amzn.to/49xxrnl",
       "recommendation": {
@@ -4387,7 +4388,7 @@
     {
       "id": "handheld-retro-console",
       "title": "Handheld Retro Game Console (4000mAh)",
-      "price": "",
+      "price": "$53.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Gaming",
@@ -4405,7 +4406,7 @@
       ],
       "emoji": "🎮",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/HandheldRetroGame.jpg"
       ],
       "url": "https://amzn.to/3REgkKp",
       "recommendation": {
@@ -4421,7 +4422,7 @@
     {
       "id": "twin-lens-waist-camera",
       "title": "EJXHKNF Twin-Lens Waist-Level Autofocus Camera",
-      "price": "",
+      "price": "$65.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
@@ -4441,7 +4442,7 @@
       ],
       "emoji": "📷",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/EJXHKNFTwin-LensWaist-Level.jpg"
       ],
       "url": "https://amzn.to/4uOmwhy",
       "recommendation": {
@@ -4457,7 +4458,7 @@
     {
       "id": "josebru-tokyo-lamp",
       "title": "JOSEBRU Tokyo Vibrant Japanese LED Lamp",
-      "price": "",
+      "price": "$42.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Home",
@@ -4475,7 +4476,7 @@
       ],
       "emoji": "🏮",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/JOSEBRUTokyoVibrant.jpg"
       ],
       "url": "https://amzn.to/3PNHcaj",
       "recommendation": {
@@ -4491,7 +4492,7 @@
     {
       "id": "house-gem-mug-warmer",
       "title": "House of Gem Temperature-Control Mug Warmer",
-      "price": "",
+      "price": "$21.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen",
@@ -4516,7 +4517,7 @@
       ],
       "emoji": "☕",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/HouseofGem.jpg"
       ],
       "url": "https://amzn.to/4wXINuV",
       "recommendation": {
@@ -4532,7 +4533,7 @@
     {
       "id": "hidrate-spark-pro",
       "title": "Hidrate Spark PRO Smart Water Bottle",
-      "price": "",
+      "price": "$84.99",
       "priceNote": "on Amazon.com",
       "tags": [
         "Wellness",
@@ -4553,7 +4554,7 @@
       ],
       "emoji": "💧",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/HidrateSparkPRO.jpg"
       ],
       "url": "https://amzn.to/4wS3ice",
       "recommendation": {
@@ -5012,7 +5013,7 @@
       "id": "mechanical-gaming-keyboard",
       "type": "product",
       "title": "Mechanical Gaming Keyboard",
-      "price": "",
+      "price": "$49.99",
       "tags": [
         "Tech",
         "Gaming"
@@ -5030,8 +5031,10 @@
         "graduation"
       ],
       "emoji": "⌨️",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=mechanical+gaming+keyboard",
+      "imgs": [
+        "images/MechanicalGamingKeyboard.jpg"
+      ],
+      "url": "https://amzn.to/4etouOw",
       "recommendation": {
         "subreddit": "r/videogames",
         "username": "u/HaltingAnkl",
@@ -5412,7 +5415,7 @@
       "id": "apple-airtags-travel",
       "type": "product",
       "title": "Apple AirTag 4-Pack",
-      "price": "",
+      "price": "$99",
       "tags": [
         "Tech",
         "Lifestyle"
@@ -5433,8 +5436,10 @@
         "graduation"
       ],
       "emoji": "📍",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=apple+airtag+4+pack",
+      "imgs": [
+        "images/AppleAirTag4-Pack.jpg"
+      ],
+      "url": "https://amzn.to/4vCO8X2",
       "recommendation": {
         "subreddit": "r/phtravel",
         "username": "u/Zealousideal-Sign834",
@@ -5482,7 +5487,7 @@
       "id": "compression-travel-socks",
       "type": "product",
       "title": "Compression Travel Socks",
-      "price": "",
+      "price": "$19.95",
       "tags": [
         "Wellness",
         "Lifestyle"
@@ -5502,8 +5507,10 @@
         "new-year"
       ],
       "emoji": "🧦",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=compression+socks+travel",
+      "imgs": [
+        "images/CompressionTravelSocks.jpg"
+      ],
+      "url": "https://amzn.to/4dWtCuA",
       "recommendation": {
         "subreddit": "r/phtravel",
         "username": "u/Zealousideal-Sign834",
@@ -5517,7 +5524,7 @@
       "id": "universal-travel-adapter",
       "type": "product",
       "title": "Universal Travel Adapter",
-      "price": "",
+      "price": "$20.69",
       "tags": [
         "Tech",
         "Lifestyle"
@@ -5539,8 +5546,10 @@
         "new-year"
       ],
       "emoji": "🔌",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=universal+travel+adapter",
+      "imgs": [
+        "images/UniversalTravelAdapter.jpg"
+      ],
+      "url": "https://amzn.to/4e9EiEK",
       "recommendation": {
         "subreddit": "r/phtravel",
         "username": "u/Zealousideal-Sign834",
@@ -5689,7 +5698,7 @@
       "id": "travel-noise-canceling-mask",
       "type": "product",
       "title": "Noise-Canceling Sleep Mask (for Flights)",
-      "price": "",
+      "price": "$129.99",
       "tags": [
         "Wellness",
         "Lifestyle"
@@ -5706,8 +5715,10 @@
         "christmas"
       ],
       "emoji": "😴",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=sleep+mask+noise+canceling+travel",
+      "imgs": [
+        "images/Noise-CancelingSleepMask.jpg"
+      ],
+      "url": "https://amzn.to/4uRYVwn",
       "recommendation": {
         "subreddit": "r/travel",
         "username": "u/peenoiseAF___",
@@ -5721,7 +5732,7 @@
       "id": "personalized-passport-cover",
       "type": "product",
       "title": "Personalized Passport Cover & Luggage Tag Set",
-      "price": "",
+      "price": "$23.90",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -5740,8 +5751,10 @@
         "wedding"
       ],
       "emoji": "🛂",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=personalized+passport+cover+luggage+tag",
+      "imgs": [
+        "images/PersonalizedPassportCover.jpg"
+      ],
+      "url": "https://amzn.to/4ewLxHl",
       "recommendation": {
         "subreddit": "r/travel",
         "username": "u/peenoiseAF___",
