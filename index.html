@@ -377,57 +377,57 @@
     text-shadow:0 1px 3px rgba(0,0,0,.5);
   }
 
-  /* ── CATALOG (sidebar + feed) ── */
+  /* ── HERO FILTER PILLS ── */
+  .hero-filter-pills {
+    display:flex; gap:10px; align-items:center; flex-wrap:wrap;
+    margin-top:28px;
+  }
+  .hf-pill { position:relative; }
+  .hf-pill-btn {
+    display:flex; align-items:center; gap:7px;
+    background:rgba(255,255,255,.72); border:1.5px solid rgba(0,0,0,.12); border-radius:100px;
+    padding:9px 14px; font-family:'DM Sans',sans-serif; font-size:.85rem; font-weight:500;
+    color:var(--ink); cursor:pointer; white-space:nowrap;
+    transition:border-color .15s, background .15s;
+  }
+  .hf-pill-btn:hover { border-color:var(--accent); background:#fff; }
+  .hf-pill-btn.active { border-color:var(--accent); background:#fff; }
+  .hf-pill-icon { font-size:.95rem; line-height:1; }
+  .hf-pill-label { font-weight:600; }
+  .hf-pill-value { color:var(--muted); }
+  .hf-pill-btn.active .hf-pill-value { color:var(--accent); font-weight:600; }
+  .hf-chevron { width:14px; height:14px; color:var(--muted); transition:transform .2s; flex-shrink:0; }
+  .hf-pill.open .hf-chevron { transform:rotate(180deg); }
+  .hf-dropdown {
+    display:none; position:absolute; top:calc(100% + 6px); left:0;
+    min-width:220px; background:var(--surface);
+    border:1px solid var(--border); border-radius:14px;
+    box-shadow:0 8px 32px rgba(0,0,0,.12); z-index:200;
+    max-height:280px; overflow-y:auto;
+  }
+  .hf-pill.open .hf-dropdown { display:block; animation:fadeUp .15s ease; }
+  .hf-option {
+    display:block; width:100%; text-align:left;
+    padding:10px 16px; border:none; background:transparent;
+    font-family:'DM Sans',sans-serif; font-size:.84rem; color:var(--ink-soft);
+    cursor:pointer; transition:background .1s;
+  }
+  .hf-option:hover { background:var(--tag-bg); }
+  .hf-option.on { background:var(--accent-lt); color:var(--accent); font-weight:600; }
+  .hf-option-any { border-bottom:1px solid var(--border); color:var(--muted); }
+  .hf-clear-btn {
+    margin-left:auto; padding:8px 14px; border:none; background:transparent;
+    font-family:'DM Sans',sans-serif; font-size:.8rem; font-weight:600;
+    color:var(--muted); cursor:pointer; border-radius:100px;
+    transition:color .15s, background .15s; display:none;
+  }
+  .hf-clear-btn.visible { display:block; }
+  .hf-clear-btn:hover { color:var(--accent); background:var(--accent-lt); }
+
+  /* ── CATALOG ── */
   .catalog-wrap {
     max-width:var(--layout-max); margin:0 auto; padding:0 3% 60px;
-    display:grid; grid-template-columns:minmax(220px, 260px) 1fr;
-    gap:32px; align-items:start;
   }
-  .gift-sidebar {
-    position:sticky; top:84px;
-    background:var(--surface); border:1px solid var(--border);
-    border-radius:16px; overflow:hidden;
-    box-shadow:var(--shadow-sm);
-    max-height:calc(100vh - 100px); overflow-y:auto; overflow-x:hidden;
-  }
-  .gift-sidebar-title {
-    display:flex; align-items:center; gap:9px;
-    font-family:'Fraunces',serif; font-size:1.05rem; font-weight:700;
-    color:var(--ink); padding:18px 16px 14px; border-bottom:1px solid var(--border);
-  }
-  .gift-sidebar-title svg { width:19px; height:19px; color:var(--accent); flex-shrink:0; }
-  /* Accordion groups */
-  .filter-accordion { border-bottom:1px solid var(--border); }
-  .filter-accordion-header {
-    width:100%; display:flex; align-items:center; gap:10px;
-    background:var(--accent-lt); border:none; padding:11px 16px;
-    cursor:pointer; font-family:'DM Sans',sans-serif; transition:background .15s;
-  }
-  .filter-accordion-header:hover { background:#d5e5de; }
-  .filter-acc-icon { width:17px; height:17px; color:var(--accent); flex-shrink:0; }
-  .filter-acc-label { font-size:.88rem; font-weight:700; color:var(--ink); flex:1; text-align:left; }
-  .filter-acc-chevron { width:16px; height:16px; color:var(--muted); flex-shrink:0; transition:transform .22s; }
-  .filter-accordion.open .filter-acc-chevron { transform:rotate(180deg); }
-  /* Filter items */
-  .gift-filter {
-    display:flex; align-items:center; width:100%;
-    padding:10px 16px; background:#fff;
-    border:none; border-top:1px solid var(--border);
-    font-family:'DM Sans',sans-serif; cursor:pointer; transition:background .12s;
-  }
-  .gift-filter:nth-child(even) { background:rgba(0,0,0,.016); }
-  .gift-filter:hover { background:var(--tag-bg) !important; }
-  .gift-filter.on { background:var(--accent-lt) !important; }
-  .gf-label { flex:1; text-align:left; font-size:.84rem; font-weight:500; color:var(--ink-soft); line-height:1.3; }
-  .gift-filter.on .gf-label { color:var(--accent); font-weight:700; }
-  .gf-right { display:flex; align-items:center; gap:6px; flex-shrink:0; }
-  .gf-count {
-    font-size:.72rem; font-weight:600; color:var(--soft);
-    background:var(--tag-bg); border-radius:100px;
-    padding:2px 8px; min-width:28px; text-align:center; line-height:1.6;
-  }
-  .gift-filter.on .gf-count { background:rgba(27,58,47,.1); color:var(--accent); }
-  .gf-arrow { width:13px; height:13px; color:var(--soft); flex-shrink:0; }
   .catalog-main { min-width:0; }
 
   /* ── SORT BAR ── */
@@ -577,80 +577,19 @@
   .empty .ei { font-size:3rem; margin-bottom:12px; }
   .empty h3 { font-family:'Fraunces',serif; font-size:1.4rem; color:var(--ink); margin-bottom:6px; }
 
-  /* Elements only visible on mobile */
-  .fab-filter { display:none; }
-  .filter-drawer-overlay { display:none; }
-
   /* ── RESPONSIVE ── */
   @media(max-width:980px){
-    .catalog-wrap { grid-template-columns:1fr; gap:24px; }
-    .gift-sidebar { display:none; }
     .grid { grid-template-columns:repeat(2,1fr); }
     .search-box { display:none; }
     .hero-intro { grid-template-columns:1fr; }
     .hero-right { min-height:320px; }
     .price-filter-card { flex-direction:column; align-items:flex-start; gap:16px; }
-
-    /* ── Filter drawer overlay (bottom sheet) ── */
-    .filter-drawer-overlay {
-      display:none; position:fixed; inset:0; z-index:300;
-      background:rgba(0,0,0,.45); align-items:flex-end;
-    }
-    .filter-drawer-overlay.open { display:flex; animation:drawerBgIn .22s ease; }
-    @keyframes drawerBgIn { from{opacity:0} to{opacity:1} }
-    .filter-drawer-panel {
-      width:100%; max-height:82vh; background:var(--surface);
-      border-radius:20px 20px 0 0; display:flex; flex-direction:column;
-      overflow:hidden; transform:translateY(100%);
-      transition:transform .28s cubic-bezier(.32,1,.45,1);
-    }
-    .filter-drawer-overlay.open .filter-drawer-panel { transform:translateY(0); }
-    .filter-drawer-header {
-      display:flex; align-items:center; justify-content:space-between;
-      padding:16px 20px 12px; border-bottom:1px solid var(--border); flex-shrink:0;
-    }
-    .filter-drawer-title {
-      font-family:'Fraunces',serif; font-weight:700; font-size:1.05rem; color:var(--ink);
-    }
-    .filter-drawer-close {
-      width:34px; height:34px; border:none; background:var(--tag-bg);
-      border-radius:50%; display:flex; align-items:center; justify-content:center; cursor:pointer;
-    }
-    .filter-drawer-close svg { width:16px; height:16px; color:var(--ink); }
-    .filter-drawer-body { flex:1; overflow-y:auto; overflow-x:hidden; }
-    .filter-drawer-footer { padding:14px 20px 20px; border-top:1px solid var(--border); flex-shrink:0; }
-    .filter-drawer-apply {
-      width:100%; padding:14px; border:none; border-radius:12px;
-      background:var(--accent); color:#fff;
-      font-family:'DM Sans',sans-serif; font-size:.95rem; font-weight:600;
-      cursor:pointer; transition:background .18s;
-    }
-    .filter-drawer-apply:hover { background:#153228; }
-
-    /* ── FAB Filter button ── */
-    .fab-filter {
-      display:flex; align-items:center; gap:7px;
-      position:fixed; bottom:24px; right:20px; z-index:200;
-      background:var(--accent); color:#fff; border:none; border-radius:100px;
-      padding:13px 20px; font-family:'DM Sans',sans-serif;
-      font-size:.875rem; font-weight:600; cursor:pointer;
-      box-shadow:0 6px 24px rgba(27,58,47,.35);
-      transition:transform .18s, box-shadow .18s;
-    }
-    .fab-filter:hover { transform:translateY(-2px); box-shadow:0 10px 32px rgba(27,58,47,.4); }
-    .fab-filter svg { width:17px; height:17px; flex-shrink:0; }
-    .fab-badge {
-      background:#fff; color:var(--accent); border-radius:100px;
-      padding:1px 7px; font-size:.75rem; font-weight:700;
-      display:none; margin-left:2px;
-    }
-    .fab-badge.has-filters { display:inline-block; }
+    .hero-filter-pills { gap:8px; }
   }
   @media(max-width:620px){
     .grid { grid-template-columns:1fr; }
     .help-cta-inner { flex-direction:column; text-align:center; padding:26px 22px; }
     .help-cta-inner .gift-emoji { margin:0; }
-    /* Hero: hide image panel, tighten text */
     .hero-right { display:none; }
     .hero-left { padding:28px 5%; }
     .hero-left h1 { font-size:clamp(1.75rem, 7.5vw, 2.4rem); }
@@ -660,25 +599,20 @@
     .nav-link span { display:none; }
     .nav-user .uname, .nav-user .caret { display:none; }
     .price-filter-card { padding:18px 20px; }
-    /* Category cards */
     .cat-card { min-width:72px; height:72px; }
     .cat-card-label { font-size:.68rem; padding:0 7px 6px; }
-    /* Price filter touch targets */
     .dual-slider::-webkit-slider-thumb { width:22px; height:22px; }
     .price-input-wrap { padding:7px 10px; }
     .price-input { width:52px; font-size:.9rem; }
     .preset-btn { padding:9px 14px; }
-    /* Product cards */
     .card-img { height:140px; }
     .card-img img { max-height:120px; }
     .card-title { font-size:.94rem; }
-    /* Sort bar */
     .sort-bar { gap:10px; }
     .sort-select { padding:7px 28px 7px 14px; font-size:.78rem; }
-    /* FAB: icon-only on small screens */
-    .fab-filter-label { display:none; }
-    .fab-filter { padding:14px; border-radius:50%; }
-    .fab-filter svg { width:20px; height:20px; }
+    /* Filter pills: horizontal scroll on mobile */
+    .hero-filter-pills { flex-wrap:nowrap; overflow-x:auto; padding-bottom:4px; margin-top:20px; }
+    .hf-clear-btn { display:none !important; }
   }
 </style>
 </head>
@@ -692,10 +626,7 @@
       <span class="brand-icon">🎁</span>
       <span class="brand-name">What can I gift</span>
     </a>
-    <div class="hero-tag">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-      Recommended by real people
-    </div>
+
     <h1>Gifts people<br><em>actually</em> recommend.</h1>
     <p>Real recommendations from real people.<br>No paid placements. Just honest opinions.</p>
     <div class="hero-stats">
@@ -726,6 +657,10 @@
           <div class="hero-stat-lbl">communities<br>you trust</div>
         </div>
       </div>
+    </div>
+    <!-- HERO FILTER PILLS -->
+    <div class="hero-filter-pills" id="hero-filter-pills">
+      <!-- built by JS -->
     </div>
   </div>
   <!-- RIGHT: Scene Image + Testimonial overlay -->
@@ -788,13 +723,6 @@
 
 <!-- CATALOG -->
 <div class="catalog-wrap">
-  <aside class="gift-sidebar">
-    <div class="gift-sidebar-title">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 12 20 22 4 22 4 12"/><rect x="2" y="7" width="20" height="5"/><line x1="12" y1="22" x2="12" y2="7"/><path d="M12 7H7.5a2.5 2.5 0 0 1 0-5C11 2 12 7 12 7z"/><path d="M12 7h4.5a2.5 2.5 0 0 0 0-5C13 2 12 7 12 7z"/></svg>
-      Find a gift
-    </div>
-    <div id="gift-filters"></div>
-  </aside>
   <div class="catalog-main">
     <div class="sort-bar">
       <div class="count"><b id="gift-count">0</b> gifts found</div>
@@ -820,23 +748,56 @@ let GIFT_FILTER_GROUPS = [
   {
     group: "Who is it for?",
     filters: [
-      { id: "girlfriend",   label: "What can I gift my girlfriend?" },
-      { id: "boyfriend",    label: "What can I gift my boyfriend?" },
-      { id: "brother",      label: "What can I gift my brother?" },
-      { id: "sister",       label: "What can I gift my sister?" },
-      { id: "mother",       label: "What can I gift my mother?" },
-      { id: "father",       label: "What can I gift my father?" },
-      { id: "best-friend",  label: "What can I gift my best friend?" },
-      { id: "friend",       label: "What can I gift a friend?" },
-      { id: "grandparents", label: "What can I gift my grandparents?" },
+      { id: "girlfriend",   label: "Girlfriend" },
+      { id: "boyfriend",    label: "Boyfriend" },
+      { id: "wife",         label: "Wife" },
+      { id: "husband",      label: "Husband" },
+      { id: "mother",       label: "Mother" },
+      { id: "father",       label: "Father" },
+      { id: "daughter",     label: "Daughter" },
+      { id: "son",          label: "Son" },
+      { id: "sister",       label: "Sister" },
+      { id: "brother",      label: "Brother" },
+      { id: "best-friend",  label: "Best friend" },
+      { id: "friend",       label: "Friend" },
+      { id: "grandparents", label: "Grandparents" },
+      { id: "coworker",     label: "Coworker" },
     ]
   },
   {
     group: "Occasion",
     filters: [
-      { id: "christmas",  label: "Gifts for Christmas" },
-      { id: "birthday",   label: "Gifts for birthdays" },
-      { id: "anniversary",label: "Gifts for a wedding anniversary" },
+      { id: "christmas",      label: "Christmas" },
+      { id: "birthday",       label: "Birthday" },
+      { id: "anniversary",    label: "Wedding anniversary" },
+      { id: "thanksgiving",   label: "Thanksgiving" },
+      { id: "valentines-day", label: "Valentine's Day" },
+      { id: "mothers-day",    label: "Mother's Day" },
+      { id: "fathers-day",    label: "Father's Day" },
+      { id: "halloween",      label: "Halloween" },
+      { id: "new-year",       label: "New Year's" },
+      { id: "graduation",     label: "Graduation" },
+      { id: "baby-shower",    label: "Baby shower" },
+      { id: "housewarming",   label: "Housewarming" },
+      { id: "wedding",        label: "Wedding" },
+      { id: "bridal-shower",  label: "Bridal shower" },
+      { id: "retirement",     label: "Retirement" },
+      { id: "get-well-soon",  label: "Get well soon" },
+    ]
+  },
+  {
+    group: "Interests",
+    filters: [
+      { id: "football",      label: "Football fan" },
+      { id: "basketball",    label: "Basketball fan" },
+      { id: "anime",         label: "Anime lover" },
+      { id: "gaming",        label: "Gamer" },
+      { id: "harry-potter",  label: "Harry Potter fan" },
+      { id: "cooking",       label: "Cooking enthusiast" },
+      { id: "gardening",     label: "Gardening lover" },
+      { id: "music",         label: "Music lover" },
+      { id: "fitness",       label: "Fitness enthusiast" },
+      { id: "travel",        label: "Travel lover" },
     ]
   }
 ];
@@ -851,9 +812,11 @@ const AMAZON_SVG  = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-w
 
 const TAG_ICONS = { tech:'🎧', home:'🪴', quirky:'🎁', wellness:'🧴', kitchen:'🍳', lifestyle:'🏷️', gaming:'🎮' };
 
-let currentCat = 'all';
-let currentGiftFilter = 'all';
-let currentSort = 'recommended';
+let currentCat       = 'all';
+let currentRecipient = 'any';
+let currentOccasion  = 'any';
+let currentInterest  = 'any';
+let currentSort      = 'recommended';
 
 const CAT_BG_IMAGES = {
   'all':       'https://images.unsplash.com/photo-1512909006721-3d6018887383?w=220&fit=crop&q=80',
@@ -883,64 +846,94 @@ function setCat(cat, btn) {
   btn.classList.add('on');
   renderFeed();
 }
-const GROUP_ICONS = {
-  "Who is it for?": `<svg class="filter-acc-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>`,
-  "Occasion":       `<svg class="filter-acc-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>`,
-  "Budget":         `<svg class="filter-acc-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v12M9 9.5c0-1.1.9-1.5 3-1.5s3 .8 3 2-1 1.5-3 2-3 1-3 2.5 1.3 2.5 3 2.5 3-.4 3-1.5"/></svg>`,
-  "Interests":      `<svg class="filter-acc-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>`,
-  "Personality":    `<svg class="filter-acc-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>`,
-};
-const ACC_CHEVRON  = `<svg class="filter-acc-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>`;
-const GF_ARROW_SVG = `<svg class="gf-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg>`;
+const HF_CHEVRON = `<svg class="hf-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>`;
 
-function shortFilterLabel(id) {
-  return id.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+const PILL_DEFS = [
+  { key:'recipient', icon:'🎁', label:'Recipient', groupName:'Who is it for?' },
+  { key:'occasion',  icon:'🎉', label:'Occasion',  groupName:'Occasion' },
+  { key:'interest',  icon:'❤️', label:'Interests', groupName:'Interests' },
+];
+
+function buildHeroFilters() {
+  const bar = document.getElementById('hero-filter-pills');
+  if (!bar) return;
+  bar.innerHTML = PILL_DEFS.map(def => {
+    const group = GIFT_FILTER_GROUPS.find(g => g.group === def.groupName);
+    if (!group) return '';
+    const options = group.filters.map(f =>
+      `<button class="hf-option" data-key="${def.key}" data-id="${f.id}" onclick="setHeroFilter('${def.key}','${f.id}',this)">${f.label}</button>`
+    ).join('');
+    return `<div class="hf-pill" id="hf-pill-${def.key}">
+      <button class="hf-pill-btn" onclick="toggleHfPill('${def.key}')">
+        <span class="hf-pill-icon">${def.icon}</span>
+        <span class="hf-pill-label">${def.label}:</span>
+        <span class="hf-pill-value" id="hf-val-${def.key}">Any</span>
+        ${HF_CHEVRON}
+      </button>
+      <div class="hf-dropdown">
+        <button class="hf-option hf-option-any on" data-key="${def.key}" data-id="any" onclick="setHeroFilter('${def.key}','any',this)">Any</button>
+        ${options}
+      </div>
+    </div>`;
+  }).join('') +
+  `<button class="hf-clear-btn" id="hf-clear-btn" onclick="clearHeroFilters()">✕ Clear filters</button>`;
 }
-function getFilterCount(filterId) {
-  return PRODUCTS.filter(p => (p.giftFor || []).includes(filterId)).length;
+
+function toggleHfPill(key) {
+  const pill = document.getElementById('hf-pill-' + key);
+  const isOpen = pill.classList.contains('open');
+  document.querySelectorAll('.hf-pill').forEach(p => p.classList.remove('open'));
+  if (!isOpen) pill.classList.add('open');
 }
-function toggleAccordion(header) {
-  const acc = header.closest('.filter-accordion');
-  const body = acc.querySelector('.filter-accordion-body');
-  const isOpen = acc.classList.contains('open');
-  acc.classList.toggle('open');
-  body.style.display = isOpen ? 'none' : 'block';
-}
-function setGiftFilter(id, btn) {
-  if (currentGiftFilter === id) {
-    currentGiftFilter = 'all';
-    btn.classList.remove('on');
-  } else {
-    currentGiftFilter = id;
-    document.querySelectorAll('.gift-filter').forEach(b => b.classList.remove('on'));
+
+function setHeroFilter(key, id, btn) {
+  if (key === 'recipient') currentRecipient = id;
+  if (key === 'occasion')  currentOccasion  = id;
+  if (key === 'interest')  currentInterest  = id;
+
+  const valEl = document.getElementById('hf-val-' + key);
+  if (valEl) valEl.textContent = id === 'any' ? 'Any' : btn.textContent.trim();
+
+  const pill = document.getElementById('hf-pill-' + key);
+  if (pill) {
+    pill.querySelectorAll('.hf-option').forEach(o => o.classList.remove('on'));
     btn.classList.add('on');
+    pill.querySelector('.hf-pill-btn').classList.toggle('active', id !== 'any');
+    pill.classList.remove('open');
   }
+  updateClearBtn();
   renderFeed();
 }
-function buildGiftFilters() {
-  const el = document.getElementById('gift-filters');
-  if (!el) return;
-  let html = '';
-  for (let gi = 0; gi < GIFT_FILTER_GROUPS.length; gi++) {
-    const group = GIFT_FILTER_GROUPS[gi];
-    const isOpen = gi === 0;
-    const icon = GROUP_ICONS[group.group] || `<svg class="filter-acc-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/></svg>`;
-    html += `<div class="filter-accordion${isOpen ? ' open' : ''}">
-      <button type="button" class="filter-accordion-header" onclick="toggleAccordion(this)">
-        ${icon}<span class="filter-acc-label">${group.group}</span>${ACC_CHEVRON}
-      </button>
-      <div class="filter-accordion-body"${isOpen ? '' : ' style="display:none"'}>`;
-    for (const f of group.filters) {
-      const count = getFilterCount(f.id);
-      html += `<button type="button" class="gift-filter" data-filter="${f.id}" onclick="setGiftFilter('${f.id}',this)">
-        <span class="gf-label">${shortFilterLabel(f.id)}</span>
-        <span class="gf-right">${count > 0 ? `<span class="gf-count">${count}</span>` : ''}${GF_ARROW_SVG}</span>
-      </button>`;
+
+function clearHeroFilters() {
+  currentRecipient = 'any'; currentOccasion = 'any'; currentInterest = 'any';
+  PILL_DEFS.forEach(def => {
+    const valEl = document.getElementById('hf-val-' + def.key);
+    if (valEl) valEl.textContent = 'Any';
+    const pill = document.getElementById('hf-pill-' + def.key);
+    if (pill) {
+      pill.querySelector('.hf-pill-btn').classList.remove('active');
+      pill.querySelectorAll('.hf-option').forEach(o => o.classList.remove('on'));
+      const anyBtn = pill.querySelector('.hf-option-any');
+      if (anyBtn) anyBtn.classList.add('on');
     }
-    html += `</div></div>`;
-  }
-  el.innerHTML = html;
+  });
+  updateClearBtn();
+  renderFeed();
 }
+
+function updateClearBtn() {
+  const btn = document.getElementById('hf-clear-btn');
+  if (!btn) return;
+  const hasAny = currentRecipient !== 'any' || currentOccasion !== 'any' || currentInterest !== 'any';
+  btn.classList.toggle('visible', hasAny);
+}
+
+document.addEventListener('click', function(e) {
+  if (!e.target.closest('.hf-pill')) {
+    document.querySelectorAll('.hf-pill').forEach(p => p.classList.remove('open'));
+  }
+});
 function setSort(val) { currentSort = val; renderFeed(); }
 
 function parseUpvotes(u) {
@@ -1040,8 +1033,14 @@ function renderFeed() {
   if (currentCat !== 'all') {
     list = list.filter(p => p.tags.map(t => t.toLowerCase()).includes(currentCat));
   }
-  if (currentGiftFilter !== 'all') {
-    list = list.filter(p => (p.giftFor || []).includes(currentGiftFilter));
+  if (currentRecipient !== 'any') {
+    list = list.filter(p => (p.giftFor || []).includes(currentRecipient));
+  }
+  if (currentOccasion !== 'any') {
+    list = list.filter(p => (p.giftFor || []).includes(currentOccasion));
+  }
+  if (currentInterest !== 'any') {
+    list = list.filter(p => (p.giftFor || []).includes(currentInterest));
   }
   if (currentMinPrice > 0) {
     list = list.filter(p => p.normalizedPrice === 0 || p.normalizedPrice >= currentMinPrice);
@@ -1204,7 +1203,7 @@ async function init() {
       ? data.giftFilters
       : GIFT_FILTER_GROUPS;
     buildCatCards();
-    buildGiftFilters();
+    buildHeroFilters();
     initPriceSliderRange();
     renderFeed();
   } catch (err) {
@@ -1221,91 +1220,9 @@ async function init() {
       </div>`;
   }
 }
-/* ── Mobile Filter Drawer ── */
-(function() {
-  function isMobile() { return window.innerWidth <= 980; }
-
-  function openFilterDrawer() {
-    if (!isMobile()) return;
-    const body = document.getElementById('filter-drawer-body');
-    body.innerHTML = document.getElementById('gift-filters').innerHTML;
-    // Re-bind accordion headers
-    body.querySelectorAll('.filter-accordion-header').forEach(btn => {
-      btn.onclick = function() { toggleAccordion(btn); };
-    });
-    // Re-bind filter buttons and close after selection
-    body.querySelectorAll('.gift-filter').forEach(btn => {
-      btn.onclick = function() {
-        setGiftFilter(btn.dataset.filter, btn);
-        updateFabBadge();
-        setTimeout(closeFilterDrawer, 300);
-      };
-    });
-    // Mirror current active state into drawer
-    if (currentGiftFilter && currentGiftFilter !== 'all') {
-      const active = body.querySelector(`.gift-filter[data-filter="${currentGiftFilter}"]`);
-      if (active) active.classList.add('on');
-    }
-    const overlay = document.getElementById('filter-drawer-overlay');
-    overlay.classList.add('open');
-    overlay.setAttribute('aria-hidden', 'false');
-    document.body.style.overflow = 'hidden';
-  }
-
-  function closeFilterDrawer() {
-    const overlay = document.getElementById('filter-drawer-overlay');
-    overlay.classList.remove('open');
-    overlay.setAttribute('aria-hidden', 'true');
-    document.body.style.overflow = '';
-  }
-
-  function updateFabBadge() {
-    const badge = document.querySelector('.fab-badge');
-    if (!badge) return;
-    const active = currentGiftFilter && currentGiftFilter !== 'all';
-    badge.textContent = active ? '1' : '';
-    badge.classList.toggle('has-filters', active);
-  }
-
-  window.addEventListener('resize', function() {
-    if (window.innerWidth > 980) closeFilterDrawer();
-  });
-
-  document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('fab-filter').addEventListener('click', openFilterDrawer);
-    document.getElementById('filter-drawer-close').addEventListener('click', closeFilterDrawer);
-    document.getElementById('filter-drawer-apply').addEventListener('click', closeFilterDrawer);
-    document.getElementById('filter-drawer-overlay').addEventListener('click', function(e) {
-      if (e.target === this) closeFilterDrawer();
-    });
-  });
-})();
-
 init();
 </script>
 
-<!-- MOBILE FILTER DRAWER -->
-<div id="filter-drawer-overlay" class="filter-drawer-overlay" aria-hidden="true">
-  <div class="filter-drawer-panel" role="dialog" aria-label="Filters">
-    <div class="filter-drawer-header">
-      <span class="filter-drawer-title">Filters</span>
-      <button class="filter-drawer-close" id="filter-drawer-close" aria-label="Close filters">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-      </button>
-    </div>
-    <div class="filter-drawer-body" id="filter-drawer-body"></div>
-    <div class="filter-drawer-footer">
-      <button class="filter-drawer-apply" id="filter-drawer-apply">Show results</button>
-    </div>
-  </div>
-</div>
-
-<!-- FAB FILTER BUTTON -->
-<button class="fab-filter" id="fab-filter" aria-label="Open filters">
-  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="8" y1="12" x2="16" y2="12"/><line x1="11" y1="18" x2="13" y2="18"/></svg>
-  <span class="fab-filter-label">Filters</span>
-  <span class="fab-badge"></span>
-</button>
 
 </body>
 </html>
