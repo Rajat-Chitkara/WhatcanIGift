@@ -4183,6 +4183,1197 @@
         "threadUrl": "https://www.reddit.com/r/gifts/"
       },
       "sortUpvotes": 200
+    },
+    {
+      "id": "personalized-drumsticks",
+      "type": "product",
+      "title": "Personalized Drumsticks",
+      "price": "$20-$40",
+      "tags": [
+        "Lifestyle",
+        "Quirky"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🥁",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=personalized+drumsticks",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/lol_yeah_no",
+        "upvotes": "4",
+        "comment": "A cool set of drumsticks — my nibling gave me a set that she had personalized for me. Best gift ever.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/1pawkoj/what_would_be_a_small_thing_that_you_would_like/"
+      },
+      "sortUpvotes": 4
+    },
+    {
+      "id": "personalized-guitar-picks",
+      "type": "product",
+      "title": "Personalized Guitar Picks (Custom Set)",
+      "price": "$10-$25",
+      "tags": [
+        "Lifestyle",
+        "Quirky"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎸",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=personalized+guitar+picks",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/Charming_Stretch_178",
+        "upvotes": "1",
+        "comment": "Personalized guitar picks!! A great small thoughtful gift for any guitarist.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/1pawkoj/what_would_be_a_small_thing_that_you_would_like/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "guitar-capo",
+      "type": "product",
+      "title": "Guitar Capo",
+      "price": "$10-$20",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎸",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=guitar+capo",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/Ancient-Complex6823",
+        "upvotes": "2",
+        "comment": "A capo. Every guitarist needs one and they often lose or forget them.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/1pawkoj/what_would_be_a_small_thing_that_you_would_like/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "guitar-glass-slide",
+      "type": "product",
+      "title": "Guitar Glass Slide",
+      "price": "$8-$18",
+      "tags": [
+        "Lifestyle",
+        "Quirky"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎵",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=guitar+glass+slide",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/XLIXER",
+        "upvotes": "2",
+        "comment": "If he plays guitar, a glass slide is a great small gift. They also come in brass.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/1pawkoj/what_would_be_a_small_thing_that_you_would_like/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "musician-earplugs",
+      "type": "product",
+      "title": "High-Fidelity Musician Earplugs",
+      "price": "$20-$50",
+      "tags": [
+        "Wellness",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎧",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=high+fidelity+musician+earplugs",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/rastabrus",
+        "upvotes": "25",
+        "comment": "A good pair of moulded ear plugs that let most of the sound in but block out harmful frequencies.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/166i1p7/what_would_i_get_a_musician_as_a_gift/"
+      },
+      "sortUpvotes": 25
+    },
+    {
+      "id": "mechanical-metronome",
+      "type": "product",
+      "title": "Mechanical Pendulum Metronome",
+      "price": "$30-$60",
+      "tags": [
+        "Lifestyle",
+        "Home"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "girlfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "⏱️",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=mechanical+pendulum+metronome",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/TheArtofWall",
+        "upvotes": "1",
+        "comment": "A mechanical metronome with pendulum and wooden finish — functional and looks great on a desk.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/166i1p7/what_would_i_get_a_musician_as_a_gift/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "harmonica",
+      "type": "product",
+      "title": "Harmonica",
+      "price": "$15-$40",
+      "tags": [
+        "Lifestyle",
+        "Quirky"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎵",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=harmonica+hohner",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/JDude13",
+        "upvotes": "1",
+        "comment": "Get him a cool cheap instrument — a harmonica is portable, fun, and easy to pick up.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/1pawkoj/what_would_be_a_small_thing_that_you_would_like/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "piano-key-cleaner",
+      "type": "product",
+      "title": "Piano Key Cleaner",
+      "price": "$15",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎹",
+      "imgs": [],
+      "url": "https://www.amazon.com/Piano-Cleaner-Preserve-Plastic-Wooden/dp/B0D21QX1HK",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/Prestigious_Water336",
+        "upvotes": "1",
+        "comment": "Piano key cleaner, it's about $15 — keeps keys looking brand new.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/1pawkoj/what_would_be_a_small_thing_that_you_would_like/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "concert-tickets",
+      "type": "experience",
+      "title": "Concert Tickets",
+      "experienceNote": "Book tickets to their favorite artist's next show — the most personal gift a music lover can receive.",
+      "price": "Varies",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "anniversary",
+        "valentines-day",
+        "christmas"
+      ],
+      "emoji": "🎟️",
+      "imgs": [],
+      "url": "",
+      "recommendation": {
+        "subreddit": "r/musicians",
+        "username": "u/TheRealGuncho",
+        "upvotes": "2",
+        "comment": "Experiences more valuable than possessions. Concert tickets to a band he likes.",
+        "threadUrl": "https://www.reddit.com/r/musicians/comments/166i1p7/what_would_i_get_a_musician_as_a_gift/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "limited-edition-vinyl",
+      "type": "product",
+      "title": "Limited Edition Vinyl Record (Favorite Artist)",
+      "price": "$30-$80",
+      "tags": [
+        "Lifestyle",
+        "Home"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "friend",
+        "best-friend",
+        "music",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "💿",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=limited+edition+vinyl+record",
+      "recommendation": {
+        "subreddit": "r/Music",
+        "username": "u/elizaschuyler",
+        "upvotes": "5",
+        "comment": "Vinyl is huge right now — getting a limited edition version of one of their favorite records is a really thoughtful gift.",
+        "threadUrl": "https://www.reddit.com/r/Music/comments/1p7eymo/how_do_people_gift_buy_music_for_others_these_days/"
+      },
+      "sortUpvotes": 5
+    },
+    {
+      "id": "anime-tshirt-hoodie",
+      "type": "product",
+      "title": "Anime Character Hoodie / T-Shirt",
+      "price": "$25-$45",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "brother",
+        "sister",
+        "friend",
+        "best-friend",
+        "son",
+        "daughter",
+        "anime",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "👕",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=anime+hoodie",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/fallingbutslowly",
+        "upvotes": "3",
+        "comment": "A t-shirt or hoodie with Luffy or Goku is always cool for any anime fan.",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/161fnv1/looking_for_a_gift_for_bf_who_is_a_big_anime_fan/"
+      },
+      "sortUpvotes": 3
+    },
+    {
+      "id": "dragon-ball-crystal-set",
+      "type": "product",
+      "title": "Dragon Ball 7-Crystal Replica Set",
+      "price": "$20-$40",
+      "tags": [
+        "Quirky",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "son",
+        "anime",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "✨",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=dragon+ball+crystal+set+replica",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/JuliAbcf",
+        "upvotes": "2",
+        "comment": "You can buy Dragon Balls on Amazon. They're quite cheap and come in a cute little box.",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/161fnv1/looking_for_a_gift_for_bf_who_is_a_big_anime_fan/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "watch-anime-together",
+      "type": "experience",
+      "title": "Watch Anime Together",
+      "experienceNote": "Pick a new series, grab their favorite snacks, and binge it together — zero cost, maximum impact.",
+      "price": "Free",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "friend",
+        "best-friend",
+        "anime",
+        "birthday",
+        "valentines-day",
+        "anniversary"
+      ],
+      "emoji": "🍿",
+      "imgs": [],
+      "url": "",
+      "recommendation": {
+        "subreddit": "r/anime",
+        "username": "u/Emi_Ibarazakiii",
+        "upvotes": "7",
+        "comment": "You could try watching an anime with him! Could end up being the best gift in his eyes, and it won't cost you a dime!",
+        "threadUrl": "https://www.reddit.com/r/anime/comments/161fnv1/looking_for_a_gift_for_bf_who_is_a_big_anime_fan/"
+      },
+      "sortUpvotes": 7
+    },
+    {
+      "id": "crunchyroll-subscription",
+      "type": "experience",
+      "title": "Crunchyroll Premium Subscription",
+      "experienceNote": "Gift a Crunchyroll Premium subscription — access to thousands of anime series, always up to date.",
+      "price": "$8-$15/month",
+      "tags": [
+        "Tech",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "girlfriend",
+        "brother",
+        "sister",
+        "friend",
+        "best-friend",
+        "son",
+        "daughter",
+        "anime",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📺",
+      "imgs": [],
+      "url": "",
+      "recommendation": {
+        "subreddit": "r/GiftIdeas",
+        "username": "u/fent-baby",
+        "upvotes": "2",
+        "comment": "Crunchyroll subscription — it's the main platform for anime and a great gift for any fan.",
+        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1ovm70o/calling_on_anime_dads_because_i_need_gift/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "mechanical-gaming-keyboard",
+      "type": "product",
+      "title": "Mechanical Gaming Keyboard",
+      "price": "$80-$250",
+      "tags": [
+        "Tech",
+        "Gaming"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "son",
+        "gaming",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "⌨️",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=mechanical+gaming+keyboard",
+      "recommendation": {
+        "subreddit": "r/videogames",
+        "username": "u/HaltingAnkl",
+        "upvotes": "122",
+        "comment": "SteelSeries Apex Pro — wireless, RGB, adjustable switches. A PC gamer's dream upgrade.",
+        "threadUrl": "https://www.reddit.com/r/videogames/comments/174xm9r/what_are_some_good_gift_ideas_for_a_lifelong_gamer/"
+      },
+      "sortUpvotes": 122
+    },
+    {
+      "id": "specialty-dice-set",
+      "type": "product",
+      "title": "Specialty Polyhedral Dice Set",
+      "price": "$15-$45",
+      "tags": [
+        "Quirky",
+        "Gaming"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "gaming",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🎲",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=polyhedral+dice+set+DnD",
+      "recommendation": {
+        "subreddit": "r/rpg",
+        "username": "u/MoltenSulfurPress",
+        "upvotes": "29",
+        "comment": "Specialty dice are endlessly giftable — so many options from small creators, odds of duplicating are tiny.",
+        "threadUrl": "https://www.reddit.com/r/rpg/comments/17v41qq/good_gift_for_the_tabletop_gamer_who_has/"
+      },
+      "sortUpvotes": 29
+    },
+    {
+      "id": "heroforge-gift-card",
+      "type": "product",
+      "title": "HeroForge Custom Miniature Gift Card",
+      "price": "$30-$60",
+      "tags": [
+        "Quirky",
+        "Gaming"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "gaming",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧙",
+      "imgs": [],
+      "url": "https://www.heroforge.com/",
+      "recommendation": {
+        "subreddit": "r/rpg",
+        "username": "u/YokoAhava",
+        "upvotes": "2",
+        "comment": "HeroForge gift card lets them design and customize their own miniature — perfect for D&D players.",
+        "threadUrl": "https://www.reddit.com/r/rpg/comments/17v41qq/good_gift_for_the_tabletop_gamer_who_has/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "co-op-game-date",
+      "type": "experience",
+      "title": "Play a Co-op Game Together",
+      "experienceNote": "Buy two copies of a co-op game (Stardew Valley, It Takes Two, A Way Out) and play through it together.",
+      "price": "$15-$30",
+      "tags": [
+        "Gaming",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "girlfriend",
+        "friend",
+        "best-friend",
+        "gaming",
+        "birthday",
+        "valentines-day",
+        "anniversary",
+        "christmas"
+      ],
+      "emoji": "🕹️",
+      "imgs": [],
+      "url": "",
+      "recommendation": {
+        "subreddit": "r/gamers",
+        "username": "u/DokoShin",
+        "upvotes": "1",
+        "comment": "One of the best gifts was a game we could play together — Stardew Valley, Titan Quest. Way more meaningful than gear.",
+        "threadUrl": "https://www.reddit.com/r/gamers/comments/1ib1q0m/what_do_gamers_want_as_gifts/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "gaming-finger-chopsticks",
+      "type": "product",
+      "title": "Finger Chopsticks for Gaming (No-Mess Snacking)",
+      "price": "$5-$10",
+      "tags": [
+        "Quirky",
+        "Gaming"
+      ],
+      "giftFor": [
+        "boyfriend",
+        "brother",
+        "friend",
+        "best-friend",
+        "son",
+        "gaming",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🥢",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=finger+chopsticks+gaming+snack",
+      "recommendation": {
+        "subreddit": "r/gamers",
+        "username": "u/dragoniteofepicness",
+        "upvotes": "1",
+        "comment": "Finger chopsticks for eating snacks while gaming — keeps keyboard and controller clean.",
+        "threadUrl": "https://www.reddit.com/r/gamers/comments/1ib1q0m/what_do_gamers_want_as_gifts/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "hp-illustrated-books",
+      "type": "product",
+      "title": "Harry Potter Illustrated Edition Books (Jim Kay)",
+      "price": "$25-$35",
+      "tags": [
+        "Lifestyle",
+        "Home"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "wife",
+        "mother",
+        "sister",
+        "friend",
+        "best-friend",
+        "daughter",
+        "harry-potter",
+        "birthday",
+        "christmas",
+        "graduation"
+      ],
+      "emoji": "📚",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=harry+potter+illustrated+jim+kay",
+      "recommendation": {
+        "subreddit": "r/harrypotter",
+        "username": "u/Fizzlestix83",
+        "upvotes": "10",
+        "comment": "The illustrated books look really nice — Jim Kay's artwork is stunning and classy for adults.",
+        "threadUrl": "https://www.reddit.com/r/harrypotter/comments/zcimje/harry_potter_gift_for_adults/"
+      },
+      "sortUpvotes": 10
+    },
+    {
+      "id": "hp-lego-set",
+      "type": "product",
+      "title": "Harry Potter LEGO Set",
+      "price": "$40-$90",
+      "tags": [
+        "Quirky",
+        "Tech"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "brother",
+        "sister",
+        "friend",
+        "best-friend",
+        "son",
+        "daughter",
+        "harry-potter",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧱",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=harry+potter+lego+set",
+      "recommendation": {
+        "subreddit": "r/harrypotter",
+        "username": "u/nmeerajasey",
+        "upvotes": "7",
+        "comment": "There are clear step-by-step instructions. Start small like Hedwig or the Monster Book — great for any HP fan.",
+        "threadUrl": "https://www.reddit.com/r/harrypotter/comments/1rz1eiz/what_would_you_want_as_a_gift_as_a_harry_potter/"
+      },
+      "sortUpvotes": 7
+    },
+    {
+      "id": "hp-floating-candles",
+      "type": "product",
+      "title": "Harry Potter Floating Candle String Lights",
+      "price": "$20-$35",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "wife",
+        "mother",
+        "sister",
+        "friend",
+        "best-friend",
+        "daughter",
+        "harry-potter",
+        "birthday",
+        "christmas",
+        "halloween",
+        "housewarming"
+      ],
+      "emoji": "🕯️",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=harry+potter+floating+candle+lights",
+      "recommendation": {
+        "subreddit": "r/HarryPotterBooks",
+        "username": "u/PearofGenes",
+        "upvotes": "2",
+        "comment": "On Amazon there are floating candle lights that use a wand to turn them on — amazing for Halloween parties.",
+        "threadUrl": "https://www.reddit.com/r/HarryPotterBooks/comments/1h8f1yr/whats_a_good_possibly_elegant_pricey_harry_potter/"
+      },
+      "sortUpvotes": 2
+    },
+    {
+      "id": "hp-acceptance-letter",
+      "type": "product",
+      "title": "Personalized Hogwarts Acceptance Letter (Etsy)",
+      "price": "$15-$30",
+      "tags": [
+        "Lifestyle",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "brother",
+        "sister",
+        "friend",
+        "best-friend",
+        "son",
+        "daughter",
+        "harry-potter",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📜",
+      "imgs": [],
+      "url": "https://www.etsy.com/search?q=hogwarts+acceptance+letter+personalized",
+      "recommendation": {
+        "subreddit": "r/Gifts",
+        "username": "u/unlovelyladybartleby",
+        "upvotes": "1",
+        "comment": "A company on Etsy will send a Hogwarts letter. Wax seal, done on parchment in fancy calligraphy. Magical.",
+        "threadUrl": "https://www.reddit.com/r/Gifts/comments/1kzo205/best_gift_for_a_harry_potter_fan/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "hp-book-nook",
+      "type": "product",
+      "title": "Harry Potter Book Nook Display Kit",
+      "price": "$30-$60",
+      "tags": [
+        "Home",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "wife",
+        "mother",
+        "sister",
+        "friend",
+        "best-friend",
+        "harry-potter",
+        "birthday",
+        "christmas",
+        "housewarming"
+      ],
+      "emoji": "🏰",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=harry+potter+book+nook",
+      "recommendation": {
+        "subreddit": "r/harrypotter",
+        "username": "u/sircastor",
+        "upvotes": "7",
+        "comment": "Harry Potter Book Nook kits — they're mostly unbranded, but they're so cool. Fits between books on a shelf.",
+        "threadUrl": "https://www.reddit.com/r/harrypotter/comments/1rz1eiz/what_would_you_want_as_a_gift_as_a_harry_potter/"
+      },
+      "sortUpvotes": 7
+    },
+    {
+      "id": "marauders-map-puzzle",
+      "type": "product",
+      "title": "Marauder's Map Wooden Jigsaw Puzzle",
+      "price": "$25-$50",
+      "tags": [
+        "Quirky",
+        "Home"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "sister",
+        "brother",
+        "friend",
+        "best-friend",
+        "harry-potter",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🗺️",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=marauders+map+jigsaw+puzzle",
+      "recommendation": {
+        "subreddit": "r/harrypotter",
+        "username": "u/jessdummy",
+        "upvotes": "1",
+        "comment": "The Marauder's Map wooden jigsaw puzzle — a unique gift for any HP fan who likes puzzles.",
+        "threadUrl": "https://www.reddit.com/r/harrypotter/comments/1rz1eiz/what_would_you_want_as_a_gift_as_a_harry_potter/"
+      },
+      "sortUpvotes": 1
+    },
+    {
+      "id": "hp-house-pajamas",
+      "type": "product",
+      "title": "Harry Potter House Pajamas",
+      "price": "$25-$55",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "wife",
+        "mother",
+        "sister",
+        "friend",
+        "best-friend",
+        "daughter",
+        "harry-potter",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🦁",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=harry+potter+house+pajamas",
+      "recommendation": {
+        "subreddit": "r/harrypotter",
+        "username": "u/flowers2107",
+        "upvotes": "4",
+        "comment": "Harry Potter pajamas — I love my HP pjs. Perfect for curling up with a butterbeer.",
+        "threadUrl": "https://www.reddit.com/r/harrypotter/comments/zcimje/harry_potter_gift_for_adults/"
+      },
+      "sortUpvotes": 4
+    },
+    {
+      "id": "apple-airtags-travel",
+      "type": "product",
+      "title": "Apple AirTag 4-Pack",
+      "price": "$99",
+      "tags": [
+        "Tech",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "mother",
+        "father",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "📍",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=apple+airtag+4+pack",
+      "recommendation": {
+        "subreddit": "r/phtravel",
+        "username": "u/Zealousideal-Sign834",
+        "upvotes": "184",
+        "comment": "I travel frequently for work. I never travel without my AirTags — they're an absolute lifesaver.",
+        "threadUrl": "https://www.reddit.com/r/phtravel/comments/1gmbtkz/what_are_good_gifts_for_friends_who_like_to/"
+      },
+      "sortUpvotes": 184
+    },
+    {
+      "id": "cashmere-travel-shawl",
+      "type": "product",
+      "title": "Cashmere / Alpaca Travel Shawl",
+      "price": "$50-$120",
+      "tags": [
+        "Lifestyle",
+        "Wellness"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "wife",
+        "mother",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas",
+        "anniversary"
+      ],
+      "emoji": "🧣",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=cashmere+travel+shawl",
+      "recommendation": {
+        "subreddit": "r/BuyItForLife",
+        "username": "u/spam_57",
+        "upvotes": "5",
+        "comment": "Cashmere shawl is the ultimate travel hack — an airplane blanket, extra warmth layer, and a cover-up all in one.",
+        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rcku42/im_looking_for_a_gift_for_someone_who_travels_a/"
+      },
+      "sortUpvotes": 5
+    },
+    {
+      "id": "compression-travel-socks",
+      "type": "product",
+      "title": "Compression Travel Socks",
+      "price": "$15-$35",
+      "tags": [
+        "Wellness",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "mother",
+        "father",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧦",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=compression+socks+travel",
+      "recommendation": {
+        "subreddit": "r/phtravel",
+        "username": "u/Zealousideal-Sign834",
+        "upvotes": "184",
+        "comment": "Compression socks — essential for frequent travelers, prevents swelling and fatigue on long flights.",
+        "threadUrl": "https://www.reddit.com/r/phtravel/comments/1gmbtkz/what_are_good_gifts_for_friends_who_like_to/"
+      },
+      "sortUpvotes": 184
+    },
+    {
+      "id": "universal-travel-adapter",
+      "type": "product",
+      "title": "Universal Travel Adapter",
+      "price": "$20-$35",
+      "tags": [
+        "Tech",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "mother",
+        "father",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas",
+        "graduation"
+      ],
+      "emoji": "🔌",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=universal+travel+adapter",
+      "recommendation": {
+        "subreddit": "r/phtravel",
+        "username": "u/Zealousideal-Sign834",
+        "upvotes": "184",
+        "comment": "Universal travel adapter — works in any country, a must-have for international travelers.",
+        "threadUrl": "https://www.reddit.com/r/phtravel/comments/1gmbtkz/what_are_good_gifts_for_friends_who_like_to/"
+      },
+      "sortUpvotes": 184
+    },
+    {
+      "id": "packing-cubes-set",
+      "type": "product",
+      "title": "Packing Cubes Set (6-piece)",
+      "price": "$20-$40",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "mother",
+        "father",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "🧳",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=packing+cubes+set+travel",
+      "recommendation": {
+        "subreddit": "r/phtravel",
+        "username": "u/AdDizzy1647",
+        "upvotes": "13",
+        "comment": "High quality packing cubes — a game changer for organized packing, any frequent traveler will love these.",
+        "threadUrl": "https://www.reddit.com/r/phtravel/comments/1gmbtkz/what_are_good_gifts_for_friends_who_like_to/"
+      },
+      "sortUpvotes": 13
+    },
+    {
+      "id": "scratch-off-world-map",
+      "type": "product",
+      "title": "Scratch-Off World Map Poster",
+      "price": "$20-$40",
+      "tags": [
+        "Home",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas",
+        "graduation",
+        "housewarming"
+      ],
+      "emoji": "🌍",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=scratch+off+world+map+poster",
+      "recommendation": {
+        "subreddit": "r/travel",
+        "username": "u/peenoiseAF___",
+        "upvotes": "50",
+        "comment": "Scratch-off world map — they scratch off each country they've visited, looks amazing on a wall.",
+        "threadUrl": "https://www.reddit.com/r/travel/comments/1ikfk73/whats_an_awesome_gift_for_a_girl_who_travels_a_lot/"
+      },
+      "sortUpvotes": 50
+    },
+    {
+      "id": "travel-jewelry-organizer",
+      "type": "product",
+      "title": "Travel Jewelry Organizer Case",
+      "price": "$15-$30",
+      "tags": [
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "wife",
+        "mother",
+        "sister",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "💎",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=travel+jewelry+organizer+case",
+      "recommendation": {
+        "subreddit": "r/travel",
+        "username": "u/peenoiseAF___",
+        "upvotes": "50",
+        "comment": "Travel-sized jewelry case — keeps things untangled and organized. Every girl who travels needs one.",
+        "threadUrl": "https://www.reddit.com/r/travel/comments/1ikfk73/whats_an_awesome_gift_for_a_girl_who_travels_a_lot/"
+      },
+      "sortUpvotes": 50
+    },
+    {
+      "id": "portable-espresso-maker",
+      "type": "product",
+      "title": "Portable Espresso Maker (Travel)",
+      "price": "$30-$60",
+      "tags": [
+        "Kitchen",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "☕",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=portable+espresso+maker+travel",
+      "recommendation": {
+        "subreddit": "r/travel",
+        "username": "u/peenoiseAF___",
+        "upvotes": "50",
+        "comment": "Portable espresso maker — perfect for the coffee lover who can't compromise on quality while traveling.",
+        "threadUrl": "https://www.reddit.com/r/travel/comments/1ikfk73/whats_an_awesome_gift_for_a_girl_who_travels_a_lot/"
+      },
+      "sortUpvotes": 50
+    },
+    {
+      "id": "travel-noise-canceling-mask",
+      "type": "product",
+      "title": "Noise-Canceling Sleep Mask (for Flights)",
+      "price": "$25-$60",
+      "tags": [
+        "Wellness",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas"
+      ],
+      "emoji": "😴",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=sleep+mask+noise+canceling+travel",
+      "recommendation": {
+        "subreddit": "r/travel",
+        "username": "u/peenoiseAF___",
+        "upvotes": "50",
+        "comment": "Noise-canceling sleep mask — imo a game changer for long flights if she doesn't already have one.",
+        "threadUrl": "https://www.reddit.com/r/travel/comments/1ikfk73/whats_an_awesome_gift_for_a_girl_who_travels_a_lot/"
+      },
+      "sortUpvotes": 50
+    },
+    {
+      "id": "personalized-passport-cover",
+      "type": "product",
+      "title": "Personalized Passport Cover & Luggage Tag Set",
+      "price": "$20-$40",
+      "tags": [
+        "Lifestyle",
+        "Quirky"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "boyfriend",
+        "wife",
+        "husband",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "christmas",
+        "graduation"
+      ],
+      "emoji": "🛂",
+      "imgs": [],
+      "url": "https://www.amazon.com/s?k=personalized+passport+cover+luggage+tag",
+      "recommendation": {
+        "subreddit": "r/travel",
+        "username": "u/peenoiseAF___",
+        "upvotes": "50",
+        "comment": "Personalized passport cover and luggage tag set — thoughtful, practical, and uniquely theirs.",
+        "threadUrl": "https://www.reddit.com/r/travel/comments/1ikfk73/whats_an_awesome_gift_for_a_girl_who_travels_a_lot/"
+      },
+      "sortUpvotes": 50
+    },
+    {
+      "id": "spa-day-experience",
+      "type": "experience",
+      "title": "Spa Day / Massage Gift",
+      "experienceNote": "Book a spa session or relaxing massage — pure bliss after long journeys or a stressful week.",
+      "price": "Varies",
+      "tags": [
+        "Wellness",
+        "Lifestyle"
+      ],
+      "giftFor": [
+        "girlfriend",
+        "wife",
+        "mother",
+        "sister",
+        "friend",
+        "best-friend",
+        "travel",
+        "birthday",
+        "valentines-day",
+        "anniversary",
+        "mothers-day"
+      ],
+      "emoji": "💆",
+      "imgs": [],
+      "url": "",
+      "recommendation": {
+        "subreddit": "r/phtravel",
+        "username": "u/AnnaCleta",
+        "upvotes": "34",
+        "comment": "I always have a massage upon arrival — if you give me a spa appointment, I will remember you forever.",
+        "threadUrl": "https://www.reddit.com/r/phtravel/comments/1gmbtkz/what_are_good_gifts_for_friends_who_like_to/"
+      },
+      "sortUpvotes": 34
     }
   ],
   "popularCategories": [

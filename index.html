@@ -547,6 +547,32 @@
   .card-cta:hover { background:#153228; transform:translateY(-1px); }
   .card-cta svg { width:14px; height:14px; flex-shrink:0; }
 
+  /* ── EXPERIENCE CARD ── */
+  .card-exp-img {
+    height:130px; display:flex; align-items:center; justify-content:center;
+    background:linear-gradient(135deg, #FEF3C7 0%, #FDE68A 100%);
+    font-size:3.8rem; flex-shrink:0;
+  }
+  .card-exp-badge {
+    height:40px; padding:0 16px; display:flex; align-items:center;
+  }
+  .exp-tag {
+    font-size:.72rem; font-weight:700; color:#92400E;
+    background:#FEF3C7; border:1px solid #F59E0B;
+    border-radius:100px; padding:3px 10px; letter-spacing:.03em;
+  }
+  .card-exp-note {
+    font-size:.78rem; color:var(--muted); font-style:italic; line-height:1.4;
+  }
+  .card-cta-exp {
+    display:flex; align-items:center; justify-content:center; gap:6px;
+    background:#B45309; color:#fff; text-decoration:none;
+    padding:11px 16px; border-radius:10px; font-size:.875rem; font-weight:600;
+    width:100%; transition:background .18s, transform .18s;
+  }
+  .card-cta-exp:hover { background:#92400E; transform:translateY(-1px); }
+  .card-cta-exp svg { width:14px; height:14px; flex-shrink:0; }
+
   /* ── HELP CTA ── */
   .help-cta { max-width:var(--layout-max); margin:0 auto 32px; padding:0 3%; }
   .help-cta-inner {
@@ -1080,22 +1106,26 @@ function renderFeed() {
 function renderCard(p, i) {
   const r = p.recommendation || {};
   const tag = primaryTag(p);
+  const isExp = p.type === 'experience';
+  const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(p.title + ' gift idea')}`;
   return `
   <article class="card" style="animation-delay:${i * 0.04}s">
-    ${renderUpvoteBadge(r)}
-    <div class="card-img">
-      <img src="${p.imgs[0]}" data-srcs='${JSON.stringify(p.imgs)}' data-idx="0"
-           alt="${p.title}" onerror="tryNext(this)" loading="lazy">
-      <div class="fallback">${p.emoji || '🎁'}</div>
-    </div>
+    ${isExp
+      ? `<div class="card-exp-badge"><span class="exp-tag">✦ Experience</span></div>
+         <div class="card-exp-img">${p.emoji || '🎁'}</div>`
+      : `${renderUpvoteBadge(r)}
+         <div class="card-img">
+           <img src="${p.imgs[0]}" data-srcs='${JSON.stringify(p.imgs)}' data-idx="0"
+                alt="${p.title}" onerror="tryNext(this)" loading="lazy">
+           <div class="fallback">${p.emoji || '🎁'}</div>
+         </div>`}
     <div class="card-body">
       <h3 class="card-title">${p.title}</h3>
+      ${isExp && p.experienceNote ? `<p class="card-exp-note">${p.experienceNote}</p>` : ''}
       ${hasRealThread(r)
         ? `<a class="reddit-quote" href="${r.threadUrl}" target="_blank" rel="noopener noreferrer">`
         : `<div class="reddit-quote">`}
-        ${(r.username || '').toLowerCase().includes('team recommendation')
-          ? `<div class="amazon-avatar">${AMAZON_SVG}</div>`
-          : `<div class="reddit-avatar">${REDDIT_SVG}</div>`}
+        <div class="reddit-avatar">${REDDIT_SVG}</div>
         <div class="reddit-text">
           <div class="reddit-comment">"${r.comment || ''}"</div>
           <span class="reddit-user">— ${r.username || ''}</span>
@@ -1107,9 +1137,9 @@ function renderCard(p, i) {
           <span class="cat-emoji">${tag.emoji}</span>${tag.label}
         </div>
       </div>
-      <a class="card-cta" href="${p.url}" target="_blank" rel="noopener">
-        Buy on Amazon ${ARROW}
-      </a>
+      ${isExp
+        ? `<a class="card-cta-exp" href="${searchUrl}" target="_blank" rel="noopener">Get Inspired ${ARROW}</a>`
+        : `<a class="card-cta" href="${p.url}" target="_blank" rel="noopener">Buy on Amazon ${ARROW}</a>`}
     </div>
   </article>`;
 }
