@@ -320,7 +320,7 @@
       ],
       "emoji": "👜",
       "imgs": [
-        "images/Tag8GenuineBluetooth.jpg"
+        "images/SmartWallet.jpg"
       ],
       "url": "https://www.amazon.in/tag8-Bluetooth-Handcrafted-Rich-Brown/dp/B0DBQ7L5TN/",
       "recommendation": {
@@ -914,8 +914,8 @@
     {
       "id": "spyderco-delica-4",
       "title": "Spyderco Delica 4 Pocket Knife",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$120.00",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Outdoors",
         "Tech"
@@ -934,7 +934,7 @@
       "imgs": [
         "TODO_ADD_IMAGE_URL"
       ],
-      "url": "https://www.amazon.com/Spyderco-004171-Delica-Stainless-C11Ps/dp/B000EX4ZPO/",
+      "url": "https://amzn.to/4dXCGPQ",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/ethanh333",
@@ -1219,7 +1219,7 @@
       ],
       "emoji": "✨",
       "imgs": [
-        "images/PersonalizedConstellationStar.jpg"
+        "images/ConstellationStarMap.jpg"
       ],
       "url": "https://amzn.to/4dUOUam",
       "recommendation": {
@@ -1342,7 +1342,7 @@
     {
       "id": "elephant-friendship-ornament",
       "title": "Elephant Friendship Ornament with Sentiment Card",
-      "price": "",
+      "price": "$12.99",
       "priceNote": "on Amazon.in",
       "tags": [
         "Home",
@@ -1363,9 +1363,9 @@
       ],
       "emoji": "🐘",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/ElephantFriendshipOrnament.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Elephant+Friendship+Ornament+Thank+You+for+Being+My+Elephant",
+      "url": "https://amzn.to/43lzCXG",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/Agreeable_Gain6779",
@@ -1418,8 +1418,8 @@
     {
       "id": "constellation-travel-mug",
       "title": "Insulated Travel Mug with Constellation Map",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$26.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen",
         "Quirky"
@@ -1436,9 +1436,9 @@
       ],
       "emoji": "☕",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/InsulatedTravelMugwithConstellationMap.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Insulated+Travel+Mug+Constellation+Map",
+      "url": "https://amzn.to/4ai1xLM",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/Decent_Flow140",
@@ -1452,7 +1452,7 @@
     {
       "id": "shark-charcuterie-board",
       "title": "Shark-Shaped 'Shark Coochie' Charcuterie Board",
-      "price": "",
+      "price": "$18.95",
       "priceNote": "on Amazon.in",
       "tags": [
         "Kitchen",
@@ -1474,9 +1474,9 @@
       ],
       "emoji": "🦈",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/Shark-Shaped'SharkCoochie'.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Shark+Coochie+Charcuterie+Board",
+      "url": "https://amzn.to/4unavyC",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/YouThinkYouKnowStuff",
@@ -2030,8 +2030,8 @@
     },
     {
       "id": "phone-battery-pack",
-      "title": "Cell Phone Rechargeable Battery Pack",
-      "price": "",
+      "title": "Solar Power Bank",
+      "price": "$29.99",
       "priceNote": "on Amazon.in",
       "tags": [
         "Tech"
@@ -2053,7 +2053,7 @@
       "imgs": [
         "TODO_ADD_IMAGE_URL"
       ],
-      "url": "https://www.amazon.com/s?k=Power+Bank+Phone+Charger",
+      "url": "https://amzn.to/4oyTPmF",
       "recommendation": {
         "subreddit": "r/GiftIdeas",
         "username": "u/ellegrow",
@@ -2066,8 +2066,8 @@
     {
       "id": "rechargeable-neck-light",
       "title": "Rechargeable Neck Light",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$18.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
         "Lifestyle"
@@ -2081,9 +2081,9 @@
       ],
       "emoji": "💡",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/RechargeableNeckLight.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Rechargeable+Neck+Reading+Light",
+      "url": "https://amzn.to/4e5sm6Z",
       "recommendation": {
         "subreddit": "r/GiftIdeas",
         "username": "u/Kind-Ad-7382",
@@ -2096,8 +2096,8 @@
     {
       "id": "car-battery-jump-starter",
       "title": "Portable Car Battery Jump Starter",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$119.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
         "Outdoors"
@@ -2114,9 +2114,9 @@
       ],
       "emoji": "🚗",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/PortableCarBattery.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Portable+Car+Jump+Starter+Battery+Pack",
+      "url": "https://amzn.to/4g7Ffju",
       "recommendation": {
         "subreddit": "r/GiftIdeas",
         "username": "u/Phebose",
@@ -2129,8 +2129,8 @@
     {
       "id": "toaster-tongs",
       "title": "Toaster Tongs",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$28.75",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen",
         "Quirky"
@@ -2144,9 +2144,9 @@
       ],
       "emoji": "🍞",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/ToasterTongs.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Bamboo+Toaster+Tongs",
+      "url": "https://amzn.to/4e87hZF",
       "recommendation": {
         "subreddit": "r/GiftIdeas",
         "username": "u/Bedeliaruns",
@@ -2363,41 +2363,9 @@
       }
     },
     {
-      "id": "littmann-stethoscope",
-      "title": "Littmann Classic II Stethoscope",
-      "price": "",
-      "priceNote": "on Amazon.in",
-      "tags": [
-        "Lifestyle",
-        "Wellness"
-      ],
-      "giftFor": [
-        "sister",
-        "brother",
-        "best-friend",
-        "friend",
-        "birthday",
-        "christmas",
-        "fitness"
-      ],
-      "emoji": "🩺",
-      "imgs": [
-        "TODO_ADD_IMAGE_URL"
-      ],
-      "url": "https://www.amazon.com/s?k=Littmann+Classic+II+Stethoscope",
-      "recommendation": {
-        "subreddit": "r/AskReddit",
-        "username": "u/Wayward-Soul",
-        "timeAgo": "in r/AskReddit",
-        "comment": "Littmann is generally considered a great choice, and if you shop around online you can get a standard (Classic II) steth in many colors for less than a hundred and usually you can add engraving.",
-        "upvotes": "36",
-        "threadUrl": "https://www.reddit.com/r/AskReddit/comments/2f04nh/women_of_reddit_what_is_the_best_gift_a_boyfriend/ck4oie6/"
-      }
-    },
-    {
       "id": "nalgene-water-bottle",
       "title": "Nalgene Water Bottle",
-      "price": "",
+      "price": "$16.84",
       "priceNote": "on Amazon.in",
       "tags": [
         "Outdoors",
@@ -2418,9 +2386,9 @@
       ],
       "emoji": "💧",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/NalgeneWaterBottle.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Nalgene+Water+Bottle",
+      "url": "https://amzn.to/4e4Z7RS",
       "recommendation": {
         "subreddit": "r/AskReddit",
         "username": "u/Elyezabeth",
@@ -2433,7 +2401,7 @@
     {
       "id": "swiss-army-knife",
       "title": "Victorinox Swiss Army Knife",
-      "price": "",
+      "price": "$34.00",
       "priceNote": "on Amazon.in",
       "tags": [
         "Outdoors",
@@ -2453,9 +2421,9 @@
       ],
       "emoji": "🔪",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/VictorinoxSwissArmyKnife.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Victorinox+Swiss+Army+Knife",
+      "url": "https://amzn.to/4evf4SE",
       "recommendation": {
         "subreddit": "r/AskReddit",
         "username": "u/strangermusic",
@@ -2468,8 +2436,8 @@
     {
       "id": "programmable-crock-pot",
       "title": "Programmable Slow Cooker (Crock Pot)",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$99.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen",
         "Home"
@@ -2492,9 +2460,9 @@
       ],
       "emoji": "🍲",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/ProgrammableSlowCooker.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Programmable+Slow+Cooker+Crock+Pot",
+      "url": "https://amzn.to/4xhCbYf",
       "recommendation": {
         "subreddit": "r/AskReddit",
         "username": "u/QueenOfPurple",
@@ -2546,8 +2514,8 @@
     {
       "id": "framed-butterfly",
       "title": "Framed Real Butterfly Specimen",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$59.80",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Home",
         "Quirky"
@@ -2566,9 +2534,9 @@
       ],
       "emoji": "🦋",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/FramedRealButterfly.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Framed+Butterfly+Specimen+Shadow+Box",
+      "url": "https://amzn.to/3QoEV5D",
       "recommendation": {
         "subreddit": "r/AskReddit",
         "username": "u/Thecrossfire22",
@@ -2619,8 +2587,8 @@
     {
       "id": "limited-edition-zelda-3ds",
       "title": "Nintendo 3DS (Zelda Limited Edition)",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "499.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Gaming",
         "Tech"
@@ -2637,9 +2605,9 @@
       ],
       "emoji": "🎮",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/Nintendo3DS.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Nintendo+3DS+Zelda+Limited+Edition",
+      "url": "https://amzn.to/4ukXm92",
       "recommendation": {
         "subreddit": "r/AskReddit",
         "username": "u/Nikcara",
@@ -2912,8 +2880,8 @@
     },
     {
       "id": "james-harden-bobblehead",
-      "title": "James Harden NBA Bobblehead",
-      "price": "",
+      "title": "NBA Player Bobblehead",
+      "price": "$14.99",
       "priceNote": "on Amazon.in",
       "tags": [
         "Quirky",
@@ -2930,9 +2898,9 @@
       ],
       "emoji": "🎎",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/NBAPlayerBobblehead.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=James+Harden+NBA+Bobblehead",
+      "url": "https://amzn.to/43TRWqP",
       "recommendation": {
         "subreddit": "r/Basketball",
         "username": "u/SevenHunnet3Hi5s",
@@ -2945,8 +2913,8 @@
     {
       "id": "stance-nba-basketball-socks",
       "title": "Stance NBA Basketball Socks",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$39.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
       ],
@@ -2962,9 +2930,9 @@
       ],
       "emoji": "🧦",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/StanceNBABasketballSocks.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Stance+NBA+Basketball+Socks",
+      "url": "https://amzn.to/4uS9bol",
       "recommendation": {
         "subreddit": "r/Basketball",
         "username": "u/andcanigettahottub",
@@ -4690,7 +4658,7 @@
       "id": "musician-earplugs",
       "type": "product",
       "title": "High-Fidelity Musician Earplugs",
-      "price": "",
+      "price": "$34.95",
       "tags": [
         "Wellness",
         "Lifestyle"
@@ -4705,8 +4673,10 @@
         "christmas"
       ],
       "emoji": "🎧",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=high+fidelity+musician+earplugs",
+      "imgs": [
+        "images/High-FidelityMusicianEarplugs.jpg"
+      ],
+      "url": "https://amzn.to/4e65DaT",
       "recommendation": {
         "subreddit": "r/musicians",
         "username": "u/rastabrus",
@@ -4846,7 +4816,7 @@
       "id": "limited-edition-vinyl",
       "type": "product",
       "title": "Limited Edition Vinyl Record (Favorite Artist)",
-      "price": "",
+      "price": "$45.27",
       "tags": [
         "Lifestyle",
         "Home"
@@ -4868,8 +4838,10 @@
         "valentines-day"
       ],
       "emoji": "💿",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=limited+edition+vinyl+record",
+      "imgs": [
+        "images/LimitedEditionVinyl.jpg"
+      ],
+      "url": "https://amzn.to/4vzg1iD",
       "recommendation": {
         "subreddit": "r/Music",
         "username": "u/elizaschuyler",
@@ -5048,7 +5020,7 @@
       "id": "specialty-dice-set",
       "type": "product",
       "title": "Specialty Polyhedral Dice Set",
-      "price": "",
+      "price": "$25.99",
       "tags": [
         "Quirky",
         "Gaming"
@@ -5064,8 +5036,10 @@
         "fathers-day"
       ],
       "emoji": "🎲",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=polyhedral+dice+set+DnD",
+      "imgs": [
+        "images/SpecialtyPolyhedralDice.jpg"
+      ],
+      "url": "https://amzn.to/4oc8aF7",
       "recommendation": {
         "subreddit": "r/rpg",
         "username": "u/MoltenSulfurPress",
@@ -5172,8 +5146,8 @@
     {
       "id": "hp-illustrated-books",
       "type": "product",
-      "title": "Harry Potter Illustrated Edition Books (Jim Kay)",
-      "price": "",
+      "title": "Harry Potter Illustrated Edition Books",
+      "price": "$33.70",
       "tags": [
         "Lifestyle",
         "Home"
@@ -5194,8 +5168,10 @@
         "retirement"
       ],
       "emoji": "📚",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=harry+potter+illustrated+jim+kay",
+      "imgs": [
+        "images/HarryPotterIllustrated.jpg"
+      ],
+      "url": "https://amzn.to/4fswkZP",
       "recommendation": {
         "subreddit": "r/harrypotter",
         "username": "u/Fizzlestix83",
@@ -5209,7 +5185,7 @@
       "id": "hp-lego-set",
       "type": "product",
       "title": "Harry Potter LEGO Set",
-      "price": "",
+      "price": ">$100",
       "tags": [
         "Quirky",
         "Tech"
@@ -5229,8 +5205,10 @@
         "halloween"
       ],
       "emoji": "🧱",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=harry+potter+lego+set",
+      "imgs": [
+        "images/HarryPotterLEGOSet.jpg"
+      ],
+      "url": "https://amzn.to/4us7WLN",
       "recommendation": {
         "subreddit": "r/harrypotter",
         "username": "u/nmeerajasey",
@@ -5314,7 +5292,7 @@
       "id": "hp-book-nook",
       "type": "product",
       "title": "Harry Potter Book Nook Display Kit",
-      "price": "",
+      "price": "$47.54",
       "tags": [
         "Home",
         "Quirky"
@@ -5324,8 +5302,8 @@
         "wife",
         "mother",
         "sister",
-        "friend",
-        "best-friend",
+        "daughter",
+        "son",
         "harry-potter",
         "birthday",
         "christmas",
@@ -5333,8 +5311,10 @@
         "mothers-day"
       ],
       "emoji": "🏰",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=harry+potter+book+nook",
+      "imgs": [
+        "images/HarryPotterBook.jpg"
+      ],
+      "url": "https://amzn.to/4xcNEIE",
       "recommendation": {
         "subreddit": "r/harrypotter",
         "username": "u/sircastor",
@@ -5453,7 +5433,7 @@
       "id": "cashmere-travel-shawl",
       "type": "product",
       "title": "Cashmere / Alpaca Travel Shawl",
-      "price": "",
+      "price": "$59.99",
       "tags": [
         "Lifestyle",
         "Wellness"
@@ -5472,8 +5452,10 @@
         "valentines-day"
       ],
       "emoji": "🧣",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=cashmere+travel+shawl",
+      "imgs": [
+        "images/CashmereAlpacaTravelShawl.jpg"
+      ],
+      "url": "https://amzn.to/3RM3k5A",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/spam_57",
@@ -5563,7 +5545,7 @@
       "id": "packing-cubes-set",
       "type": "product",
       "title": "Packing Cubes Set (6-piece)",
-      "price": "",
+      "price": "$59.99",
       "tags": [
         "Lifestyle"
       ],
@@ -5582,8 +5564,10 @@
         "graduation"
       ],
       "emoji": "🧳",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=packing+cubes+set+travel",
+      "imgs": [
+        "images/PackingCubesSet.jpg"
+      ],
+      "url": "https://amzn.to/4eisUXw",
       "recommendation": {
         "subreddit": "r/phtravel",
         "username": "u/AdDizzy1647",
@@ -5597,7 +5581,7 @@
       "id": "scratch-off-world-map",
       "type": "product",
       "title": "Scratch-Off World Map Poster",
-      "price": "",
+      "price": "$24.97",
       "tags": [
         "Home",
         "Lifestyle"
@@ -5619,8 +5603,10 @@
         "wedding"
       ],
       "emoji": "🌍",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=scratch+off+world+map+poster",
+      "imgs": [
+        "images/Scratch-OffWorldMap.jpg"
+      ],
+      "url": "https://amzn.to/4uj0r9X",
       "recommendation": {
         "subreddit": "r/travel",
         "username": "u/peenoiseAF___",
@@ -5634,7 +5620,7 @@
       "id": "travel-jewelry-organizer",
       "type": "product",
       "title": "Travel Jewelry Organizer Case",
-      "price": "",
+      "price": "$14.39",
       "tags": [
         "Lifestyle"
       ],
@@ -5651,8 +5637,10 @@
         "mothers-day"
       ],
       "emoji": "💎",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=travel+jewelry+organizer+case",
+      "imgs": [
+        "images/TravelJewelryOrganizer.jpg"
+      ],
+      "url": "https://amzn.to/4e7CuMC",
       "recommendation": {
         "subreddit": "r/travel",
         "username": "u/peenoiseAF___",
@@ -5666,7 +5654,7 @@
       "id": "portable-espresso-maker",
       "type": "product",
       "title": "Portable Espresso Maker (Travel)",
-      "price": "",
+      "price": "$149.99",
       "tags": [
         "Kitchen",
         "Lifestyle"
@@ -5683,8 +5671,10 @@
         "christmas"
       ],
       "emoji": "☕",
-      "imgs": [],
-      "url": "https://www.amazon.com/s?k=portable+espresso+maker+travel",
+      "imgs": [
+        "images/PortableEspressoMaker.jpg"
+      ],
+      "url": "https://amzn.to/4ocgDIm",
       "recommendation": {
         "subreddit": "r/travel",
         "username": "u/peenoiseAF___",
