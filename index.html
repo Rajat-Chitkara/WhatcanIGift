@@ -495,7 +495,7 @@
 
   /* ── RESPONSIVE ── */
   @media(max-width:980px){
-    .grid { grid-template-columns:repeat(3,1fr); }
+    .grid { grid-template-columns:repeat(2,1fr); }
     .search-box { display:none; }
     .hero-intro { grid-template-columns:1fr; }
     .hero-right { min-height:320px; }
@@ -521,8 +521,11 @@
     .hero-stat-lbl { font-size:.67rem; }
     /* Allow hero to show wrapping content */
     .hero-intro { overflow:visible; }
-    /* Filter pills: 2 per row, Interests wraps to second row */
-    .hero-filter-pills { flex-wrap:wrap; margin-top:16px; gap:8px; }
+    /* Filter bar: count + sort on top row, pills below */
+    .filter-sort-bar { flex-wrap:wrap; gap:8px; padding:14px 0 12px; }
+    .filter-sort-bar .count { order:1; flex:0 0 auto; }
+    .filter-sort-right { order:2; margin-left:auto; }
+    .hero-filter-pills { order:3; flex:0 0 100%; flex-wrap:wrap; gap:8px; margin-top:0; }
     .hf-pill { flex:1 1 calc(50% - 4px); min-width:0; }
     .hf-pill-btn { padding:8px 10px; font-size:.8rem; width:100%; justify-content:center; }
     .hf-pill-icon { font-size:.85rem; }
@@ -531,14 +534,11 @@
     .top-strip { padding:18px 5% 0; }
     .nav-link span { display:none; }
     .nav-user .uname, .nav-user .caret { display:none; }
-    .footer-inner { grid-template-columns:1fr; }
-    .footer-brand-col { grid-column:auto; }
+    .footer-inner { grid-template-columns:1fr 1fr; }
+    .footer-brand-col { grid-column:1/-1; }
     .card-img { height:140px; }
     .card-img img { max-height:120px; }
     .card-title { font-size:.94rem; }
-    .filter-sort-bar { flex-wrap:wrap; }
-    .footer-inner { grid-template-columns:1fr 1fr; }
-    .footer-brand-col { grid-column:1/-1; }
     .sort-select { padding:7px 28px 7px 14px; font-size:.78rem; }
   }
 </style>
