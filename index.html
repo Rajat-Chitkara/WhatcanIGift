@@ -539,6 +539,8 @@
     .card-img { height:140px; }
     .card-img img { max-height:120px; }
     .card-title { font-size:.94rem; }
+    .cta-prefix { display:none; }
+    .reddit-quote .reddit-avatar { display:none; }
     .sort-select { padding:7px 28px 7px 14px; font-size:.78rem; }
   }
 </style>
@@ -991,7 +993,7 @@ function renderCard(p, i) {
         ${p.price ? `<span class="price">${p.price}</span>` : '<span></span>'}
         ${isExp
           ? `<a class="card-cta-exp" href="${searchUrl}" target="_blank" rel="noopener">Get Inspired ${ARROW}</a>`
-          : `<a class="card-cta" href="${p.url}" target="_blank" rel="noopener">Buy on Amazon ${ARROW}</a>`}
+          : `<a class="card-cta" href="${p.url}" target="_blank" rel="noopener"><span class="cta-prefix">Buy on </span>Amazon ${ARROW}</a>`}
       </div>
     </div>
   </article>`;
