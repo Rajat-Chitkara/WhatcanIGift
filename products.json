@@ -320,7 +320,7 @@
       ],
       "emoji": "👜",
       "imgs": [
-        "images/SmartWallet.jpg"
+        "images/Tag8GenuineBluetooth.jpg"
       ],
       "url": "https://www.amazon.in/tag8-Bluetooth-Handcrafted-Rich-Brown/dp/B0DBQ7L5TN/",
       "recommendation": {
@@ -771,8 +771,8 @@
     {
       "id": "owala-water-bottle",
       "title": "Owala FreeSip Water Bottle",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$29.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle",
         "Wellness"
@@ -793,7 +793,7 @@
       "imgs": [
         "images/OwalaFreeSipWaterBottle.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Owala+FreeSip+Water+Bottle",
+      "url": "https://amzn.to/4fyIOzb",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/bigbeakbaby",
@@ -807,8 +807,8 @@
     {
       "id": "darn-tough-socks",
       "title": "Darn Tough Merino Wool Socks",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$25.95",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle",
         "Outdoors"
@@ -830,7 +830,7 @@
       "imgs": [
         "images/DarnToughMerinoWoolSocks.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Darn+Tough+Merino+Wool+Socks",
+      "url": "https://amzn.to/4v5hspg",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/KindVeterinarian3803",
@@ -844,8 +844,8 @@
     {
       "id": "leatherman-multitool",
       "title": "Leatherman Multitool",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$79.95",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
         "Outdoors"
@@ -865,7 +865,7 @@
       "imgs": [
         "images/LeathermanMultitool.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Leatherman+Multitool",
+      "url": "https://amzn.to/4ee436O",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/Shell-Fire",
@@ -879,8 +879,8 @@
     {
       "id": "saddleback-bifold-wallet",
       "title": "Saddleback Leather Medium Bi-fold Wallet",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$95.00",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
       ],
@@ -900,7 +900,7 @@
       "imgs": [
         "images/SaddlebackLeatherMedium.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Saddleback+Leather+Bifold+Wallet",
+      "url": "https://amzn.to/49PWRN0",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/koolaidismything",
@@ -946,42 +946,6 @@
       "sortUpvotes": 12
     },
     {
-      "id": "birkenstocks",
-      "title": "Birkenstock Arizona Sandals",
-      "price": "",
-      "priceNote": "on Amazon.in",
-      "tags": [
-        "Lifestyle"
-      ],
-      "giftFor": [
-        "mother",
-        "sister",
-        "girlfriend",
-        "friend",
-        "birthday",
-        "christmas",
-        "fitness",
-        "graduation",
-        "mothers-day",
-        "new-year",
-        "bridal-shower"
-      ],
-      "emoji": "👡",
-      "imgs": [
-        "TODO_ADD_IMAGE_URL"
-      ],
-      "url": "https://www.amazon.com/s?k=Birkenstock+Arizona+Sandals",
-      "recommendation": {
-        "subreddit": "r/BuyItForLife",
-        "username": "u/Ill_Contribution_762",
-        "timeAgo": "in r/BuyItForLife",
-        "comment": "Birkenstocks. Always been a hit.",
-        "upvotes": "2",
-        "threadUrl": "https://www.reddit.com/r/BuyItForLife/comments/1rg3li2/what_are_some_gift_ideas/o8fik7r/"
-      },
-      "sortUpvotes": 2
-    },
-    {
       "id": "bug-a-salt",
       "title": "Bug-A-Salt Bug Killing Salt Gun",
       "price": "",
@@ -1020,8 +984,8 @@
     {
       "id": "ez-duz-it-can-opener",
       "title": "EZ-DUZ-IT Can Opener",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$13.98",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen"
       ],
@@ -1040,7 +1004,7 @@
       "imgs": [
         "images/EZ-DUZ-ITCanOpener.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=EZ-DUZ-IT+Can+Opener",
+      "url": "https://amzn.to/3QcN1y0",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/KindVeterinarian3803",
@@ -1054,8 +1018,8 @@
     {
       "id": "skylight-frame",
       "title": "Skylight Digital Picture Frame",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$139.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
         "Home"
@@ -1079,7 +1043,7 @@
       "imgs": [
         "images/SkylightDigitalPictureFrame.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Skylight+Digital+Picture+Frame",
+      "url": "https://amzn.to/4v4Hqt1",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/livmilktea",
@@ -1124,9 +1088,9 @@
     },
     {
       "id": "ll-bean-tote",
-      "title": "L.L. Bean Boat & Tote Canvas Bag",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "title": "Tote Canvas Bag",
+      "price": "$49.95",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
       ],
@@ -1146,7 +1110,7 @@
       "imgs": [
         "images/ToteCanvasBag.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=L.L.+Bean+Boat+Tote+Canvas+Bag",
+      "url": "https://amzn.to/4fCEX4e",
       "recommendation": {
         "subreddit": "r/BuyItForLife",
         "username": "u/jack_gott",
@@ -1219,7 +1183,7 @@
       ],
       "emoji": "✨",
       "imgs": [
-        "images/ConstellationStarMap.jpg"
+        "images/PersonalizedConstellationStar.jpg"
       ],
       "url": "https://amzn.to/4dUOUam",
       "recommendation": {
@@ -1490,8 +1454,8 @@
     {
       "id": "fahlo-tracking-bracelet",
       "title": "Fahlo Animal Tracking Bracelet",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$18.95",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -1511,7 +1475,7 @@
       "imgs": [
         "images/FahloAnimalTrackingBracelet.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Fahlo+Animal+Tracking+Bracelet",
+      "url": "https://amzn.to/4fCN6W9",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/kslmp63",
@@ -1525,8 +1489,8 @@
     {
       "id": "rabbit-toast-tongs",
       "title": "Wooden Rabbit Toast Tongs",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$14.95",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen",
         "Quirky"
@@ -1547,7 +1511,7 @@
       "imgs": [
         "images/WoodenRabbitToastTongs.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Wooden+Rabbit+Toast+Tongs",
+      "url": "https://amzn.to/4vK50LE",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/Economy_Emotion_7251",
@@ -1561,8 +1525,8 @@
     {
       "id": "electric-kettle-gift",
       "title": "Electric Kettle for Tea",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$23.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen",
         "Home"
@@ -1586,7 +1550,7 @@
       "imgs": [
         "images/ElectricKettleforTea.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Electric+Kettle",
+      "url": "https://amzn.to/4fCZWnq",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/Economy_Emotion_7251",
@@ -1600,8 +1564,8 @@
     {
       "id": "george-foreman-grill",
       "title": "George Foreman Indoor Grill",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$58.62",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen"
       ],
@@ -1620,7 +1584,7 @@
       "imgs": [
         "images/GeorgeForemanIndoorGrill.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=George+Foreman+Grill",
+      "url": "https://amzn.to/4xb4cAK",
       "recommendation": {
         "subreddit": "r/Gifts",
         "username": "u/WildBillNECPS",
@@ -2159,8 +2123,8 @@
     {
       "id": "portable-phone-projector",
       "title": "Portable Phone Projector",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$79.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Tech",
         "Gaming"
@@ -2177,7 +2141,7 @@
       "imgs": [
         "images/PortablePhoneProjector.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Portable+Mini+Projector+Phone",
+      "url": "https://amzn.to/3PRTBdp",
       "recommendation": {
         "subreddit": "r/GiftIdeas",
         "username": "u/CashEquity",
@@ -2190,8 +2154,8 @@
     {
       "id": "heated-mattress-pad",
       "title": "Heated Mattress Pad",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$79.95",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Home",
         "Wellness"
@@ -2213,7 +2177,7 @@
       "imgs": [
         "images/HeatedMattressPad.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Heated+Mattress+Pad",
+      "url": "https://amzn.to/43s05mg",
       "recommendation": {
         "subreddit": "r/GiftIdeas",
         "username": "u/Kind-Ad-7382",
@@ -2226,8 +2190,8 @@
     {
       "id": "heated-throw-blanket",
       "title": "Heated Throw Blanket",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$39.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Home",
         "Wellness"
@@ -2250,7 +2214,7 @@
       "imgs": [
         "images/HeatedThrowBlanket.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Electric+Heated+Throw+Blanket",
+      "url": "https://amzn.to/43ndDzx",
       "recommendation": {
         "subreddit": "r/GiftIdeas",
         "username": "u/SnoopyisCute",
@@ -2261,77 +2225,10 @@
       }
     },
     {
-      "id": "insulated-pizza-delivery-bag",
-      "title": "Insulated Pizza Bag",
-      "price": "",
-      "priceNote": "on Amazon.in",
-      "tags": [
-        "Kitchen",
-        "Quirky"
-      ],
-      "giftFor": [
-        "brother",
-        "father",
-        "friend",
-        "birthday",
-        "christmas",
-        "cooking",
-        "thanksgiving"
-      ],
-      "emoji": "🍕",
-      "imgs": [
-        "TODO_ADD_IMAGE_URL"
-      ],
-      "url": "https://www.amazon.com/s?k=Insulated+Pizza+Delivery+Bag",
-      "recommendation": {
-        "subreddit": "r/GiftIdeas",
-        "username": "u/MissKisskoli",
-        "timeAgo": "in r/GiftIdeas",
-        "comment": "Pizza bag. We love ours. Keeps our pizzas warm when we place a pick up order!",
-        "upvotes": "2",
-        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/m0ibtet/"
-      }
-    },
-    {
-      "id": "star-projector-light",
-      "title": "Star Projector Ceiling Light",
-      "price": "",
-      "priceNote": "on Amazon.in",
-      "tags": [
-        "Home",
-        "Quirky"
-      ],
-      "giftFor": [
-        "sister",
-        "girlfriend",
-        "best-friend",
-        "friend",
-        "birthday",
-        "christmas",
-        "housewarming",
-        "mothers-day",
-        "valentines-day",
-        "baby-shower"
-      ],
-      "emoji": "✨",
-      "imgs": [
-        "TODO_ADD_IMAGE_URL"
-      ],
-      "url": "https://www.amazon.com/s?k=Star+Projector+Ceiling+Light",
-      "recommendation": {
-        "subreddit": "r/GiftIdeas",
-        "username": "u/MoustacheDr",
-        "timeAgo": "in r/GiftIdeas",
-        "comment": "One of the coolest under-$50 gifts I've given was a projector light that throws stars on the ceiling.",
-        "upvotes": "2",
-        "threadUrl": "https://www.reddit.com/r/GiftIdeas/comments/1h6mb4v/cool_gift_ideas_things_people_didnt_know_they/nf0mljd/"
-      }
-    },
-    {
       "id": "digital-kitchen-scale",
       "title": "Digital Kitchen Scale",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$24.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Kitchen"
       ],
@@ -2352,7 +2249,7 @@
       "imgs": [
         "images/DigitalKitchenScale.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Digital+Kitchen+Scale",
+      "url": "https://amzn.to/4ogtNnO",
       "recommendation": {
         "subreddit": "r/GiftIdeas",
         "username": "u/PrestigiousFan3122",
@@ -2686,9 +2583,9 @@
     },
     {
       "id": "messi-barcelona-jersey",
-      "title": "Lionel Messi Barcelona Jersey",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "title": "Player Club Jersey",
+      "price": "$54.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
       ],
@@ -2707,7 +2604,7 @@
       "imgs": [
         "images/PlayerClubJersey.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Messi+Barcelona+Jersey+Red+Blue",
+      "url": "https://amzn.to/3Q8VceW",
       "recommendation": {
         "subreddit": "r/SoccerNoobs",
         "username": "u/_ravenclaw",
@@ -2719,9 +2616,9 @@
     },
     {
       "id": "guatemala-national-team-jersey",
-      "title": "Guatemala National Team Home Jersey",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "title": "National Team Home Jersey",
+      "price": "$54.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
       ],
@@ -2739,7 +2636,7 @@
       "imgs": [
         "images/NationalTeamHomeJersey.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Guatemala+National+Team+Soccer+Jersey",
+      "url": "https://amzn.to/49SVQ6T",
       "recommendation": {
         "subreddit": "r/SoccerNoobs",
         "username": "u/_ravenclaw",
@@ -2882,7 +2779,7 @@
       "id": "james-harden-bobblehead",
       "title": "NBA Player Bobblehead",
       "price": "$14.99",
-      "priceNote": "on Amazon.in",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Quirky",
         "Lifestyle"
@@ -2945,8 +2842,8 @@
     {
       "id": "mamba-mentality-kobe-bryant-book",
       "title": "The Mamba Mentality by Kobe Bryant",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$25.68",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
       ],
@@ -2965,7 +2862,7 @@
       "imgs": [
         "images/TheMambaMentality.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Mamba+Mentality+Kobe+Bryant+Book",
+      "url": "https://amzn.to/4fCvvhg",
       "recommendation": {
         "subreddit": "r/Basketball",
         "username": "u/ballermonkey24",
@@ -2978,8 +2875,8 @@
     {
       "id": "official-nba-basketball",
       "title": "Official NBA Basketball",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$49.95",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Outdoors",
         "Lifestyle"
@@ -2998,7 +2895,7 @@
       "imgs": [
         "images/OfficialNBABasketball.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Official+NBA+Basketball",
+      "url": "https://amzn.to/3RUY9QR",
       "recommendation": {
         "subreddit": "r/Basketball",
         "username": "u/[deleted]",
@@ -3009,42 +2906,10 @@
       }
     },
     {
-      "id": "wilson-evolution-indoor-basketball",
-      "title": "Wilson Evolution Indoor Basketball",
-      "price": "",
-      "priceNote": "on Amazon.in",
-      "tags": [
-        "Lifestyle",
-        "Outdoors"
-      ],
-      "giftFor": [
-        "boyfriend",
-        "brother",
-        "friend",
-        "birthday",
-        "christmas",
-        "basketball",
-        "fathers-day"
-      ],
-      "emoji": "🏀",
-      "imgs": [
-        "TODO_ADD_IMAGE_URL"
-      ],
-      "url": "https://www.amazon.com/s?k=Wilson+Evolution+Indoor+Basketball",
-      "recommendation": {
-        "subreddit": "r/Basketball",
-        "username": "u/DicTrickle",
-        "timeAgo": "in r/Basketball",
-        "comment": "The Wilson Evolution is a great indoor game ball (EMPHASIS ON INDOOR). If he plays on outdoor courts I wouldn't get him that because it will destroy the ball.",
-        "upvotes": "2",
-        "threadUrl": "https://www.reddit.com/r/Basketball/comments/jvcqib/best_gift_for_basketball_enthusiasts/gckfu7e/"
-      }
-    },
-    {
       "id": "nike-basketball-shorts",
       "title": "Nike Basketball Shorts",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$36.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
       ],
@@ -3060,7 +2925,7 @@
       "imgs": [
         "images/NikeBasketballShorts.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Nike+Basketball+Shorts+Mens",
+      "url": "https://amzn.to/4aHZ6lR",
       "recommendation": {
         "subreddit": "r/Basketball",
         "username": "u/DicTrickle",
@@ -3073,8 +2938,8 @@
     {
       "id": "basketball-duffel-bag",
       "title": "Basketball Duffel Gym Bag",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$36.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle",
         "Outdoors"
@@ -3092,7 +2957,7 @@
       "imgs": [
         "images/BasketballDuffelGymBag.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Basketball+Duffel+Gym+Bag",
+      "url": "https://amzn.to/4ohoYL0",
       "recommendation": {
         "subreddit": "r/Basketball",
         "username": "u/wopbabaloobop",
@@ -3105,8 +2970,8 @@
     {
       "id": "basketball-compression-leggings",
       "title": "Basketball Compression Leggings",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$24.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle",
         "Wellness"
@@ -3124,7 +2989,7 @@
       "imgs": [
         "images/BasketballCompressionLeggings.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Basketball+Compression+Leggings+Mens",
+      "url": "https://amzn.to/3RUQaTT",
       "recommendation": {
         "subreddit": "r/Basketball",
         "username": "u/cocker_spangler",
@@ -3234,8 +3099,8 @@
     {
       "id": "anime-nendoroid-figure",
       "title": "Anime Nendoroid Figure",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$48.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Quirky",
         "Lifestyle"
@@ -3254,7 +3119,7 @@
       "imgs": [
         "images/AnimeNendoroidFigure.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Anime+Nendoroid+Figure",
+      "url": "https://amzn.to/49Re0Gc",
       "recommendation": {
         "subreddit": "r/anime",
         "username": "u/lemonlineberry",
@@ -3267,8 +3132,8 @@
     {
       "id": "anime-manga-book-set",
       "title": "Anime Manga Book Set",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$190.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Lifestyle"
       ],
@@ -3285,7 +3150,7 @@
       "imgs": [
         "images/AnimeMangaBookSet.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Anime+Manga+Book+Set+Attack+on+Titan+My+Hero+Academia",
+      "url": "https://amzn.to/4omoraI",
       "recommendation": {
         "subreddit": "r/anime",
         "username": "u/Sgt_Meowmers",
@@ -3298,8 +3163,8 @@
     {
       "id": "anime-character-keychain",
       "title": "Anime Character Keychain",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$9.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Quirky",
         "Lifestyle"
@@ -3317,7 +3182,7 @@
       "imgs": [
         "images/AnimeCharacterKeychain.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Anime+Character+Keychain",
+      "url": "https://amzn.to/4v4cqt7",
       "recommendation": {
         "subreddit": "r/anime",
         "username": "u/lemonlineberry",
@@ -3330,8 +3195,8 @@
     {
       "id": "anime-plushie",
       "title": "Anime Character Plushie",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$25.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Quirky",
         "Lifestyle"
@@ -3349,7 +3214,7 @@
       "imgs": [
         "images/AnimeCharacterPlushie.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Anime+Character+Plushie",
+      "url": "https://amzn.to/4exFfbs",
       "recommendation": {
         "subreddit": "r/anime",
         "username": "u/aoasan",
@@ -3362,8 +3227,8 @@
     {
       "id": "anime-funko-pop-figure",
       "title": "Anime Funko Pop Figure",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "price": "$15.76",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Quirky",
         "Lifestyle"
@@ -3382,7 +3247,7 @@
       "imgs": [
         "images/AnimeFunkoPop.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Anime+Funko+Pop+Attack+on+Titan+My+Hero+Academia",
+      "url": "https://amzn.to/3QcUpte",
       "recommendation": {
         "subreddit": "r/anime",
         "username": "u/shuja246",
@@ -3394,9 +3259,9 @@
     },
     {
       "id": "anime-body-pillow",
-      "title": "Anime Dakimakura Body Pillow",
-      "price": "",
-      "priceNote": "on Amazon.in",
+      "title": "Anime Body Pillow",
+      "price": "$49.99",
+      "priceNote": "on Amazon.com",
       "tags": [
         "Quirky",
         "Home"
@@ -3413,7 +3278,7 @@
       "imgs": [
         "images/AnimeBodyPillow.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=Anime+Dakimakura+Body+Pillow",
+      "url": "https://amzn.to/4fyxUJL",
       "recommendation": {
         "subreddit": "r/anime",
         "username": "u/lemonlineberry",
@@ -4539,7 +4404,7 @@
       "id": "personalized-drumsticks",
       "type": "product",
       "title": "Personalized Drumsticks",
-      "price": "",
+      "price": "$14.99",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -4557,7 +4422,7 @@
       "imgs": [
         "images/PersonalizedDrumsticks.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=personalized+drumsticks",
+      "url": "https://amzn.to/4dWLC80",
       "recommendation": {
         "subreddit": "r/musicians",
         "username": "u/lol_yeah_no",
@@ -4601,7 +4466,7 @@
       "id": "guitar-capo",
       "type": "product",
       "title": "Guitar Capo",
-      "price": "",
+      "price": "$24.95",
       "tags": [
         "Lifestyle"
       ],
@@ -4618,7 +4483,7 @@
       "imgs": [
         "images/GuitarCapo.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=guitar+capo",
+      "url": "https://amzn.to/4v4m6nr",
       "recommendation": {
         "subreddit": "r/musicians",
         "username": "u/Ancient-Complex6823",
@@ -4632,7 +4497,7 @@
       "id": "guitar-glass-slide",
       "type": "product",
       "title": "Guitar Glass Slide",
-      "price": "",
+      "price": "$14.99",
       "tags": [
         "Lifestyle",
         "Quirky"
@@ -4650,7 +4515,7 @@
       "imgs": [
         "images/GuitarGlassSlide.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=guitar+glass+slide",
+      "url": "https://amzn.to/3SxbvCR",
       "recommendation": {
         "subreddit": "r/musicians",
         "username": "u/XLIXER",
@@ -4861,7 +4726,7 @@
       "id": "anime-tshirt-hoodie",
       "type": "product",
       "title": "Anime Character Hoodie / T-Shirt",
-      "price": "",
+      "price": "$29.99",
       "tags": [
         "Lifestyle"
       ],
@@ -4882,7 +4747,7 @@
       "imgs": [
         "images/AnimeCharacterHoodie.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=anime+hoodie",
+      "url": "https://amzn.to/4unXOn5",
       "recommendation": {
         "subreddit": "r/anime",
         "username": "u/fallingbutslowly",
@@ -4896,7 +4761,7 @@
       "id": "dragon-ball-crystal-set",
       "type": "product",
       "title": "Dragon Ball 7-Crystal Replica Set",
-      "price": "",
+      "price": "$21.59",
       "tags": [
         "Quirky",
         "Lifestyle"
@@ -4915,7 +4780,7 @@
       "imgs": [
         "images/DragonBall7-CrystalReplicaSet.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=dragon+ball+crystal+set+replica",
+      "url": "https://amzn.to/4vxvkZc",
       "recommendation": {
         "subreddit": "r/anime",
         "username": "u/JuliAbcf",
@@ -5234,7 +5099,7 @@
       "id": "hp-floating-candles",
       "type": "product",
       "title": "Harry Potter Floating Candle String Lights",
-      "price": "",
+      "price": "$23.99",
       "tags": [
         "Home",
         "Quirky"
@@ -5257,7 +5122,7 @@
       "imgs": [
         "images/HarryPotterFloatingCandleStringLights.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=harry+potter+floating+candle+lights",
+      "url": "https://amzn.to/4vFBbM2",
       "recommendation": {
         "subreddit": "r/HarryPotterBooks",
         "username": "u/PearofGenes",
@@ -5374,7 +5239,7 @@
       "id": "hp-house-pajamas",
       "type": "product",
       "title": "Harry Potter House Pajamas",
-      "price": "",
+      "price": "$31.99",
       "tags": [
         "Lifestyle",
         "Wellness"
@@ -5397,7 +5262,7 @@
       "imgs": [
         "images/HarryPotterHousePajamas.jpg"
       ],
-      "url": "https://www.amazon.com/s?k=harry+potter+house+pajamas",
+      "url": "https://amzn.to/4vCBqaB",
       "recommendation": {
         "subreddit": "r/harrypotter",
         "username": "u/flowers2107",
