@@ -320,7 +320,7 @@
       ],
       "emoji": "👜",
       "imgs": [
-        "images/Tag8GenuineBluetooth.jpg"
+        "images/SmartWallet.jpg"
       ],
       "url": "https://www.amazon.in/tag8-Bluetooth-Handcrafted-Rich-Brown/dp/B0DBQ7L5TN/",
       "recommendation": {
@@ -755,7 +755,7 @@
       ],
       "emoji": "🥤",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/StanleyInsulatedTumbler.jpg"
       ],
       "url": "https://www.amazon.com/s?k=Stanley+Insulated+Tumbler",
       "recommendation": {
@@ -968,7 +968,7 @@
       ],
       "emoji": "🧂",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/Bug-A-SaltBugKillingSaltGun.jpg"
       ],
       "url": "https://www.amazon.com/s?k=Bug-A-Salt+Salt+Gun",
       "recommendation": {
@@ -1183,7 +1183,7 @@
       ],
       "emoji": "✨",
       "imgs": [
-        "images/PersonalizedConstellationStar.jpg"
+        "images/ConstellationStarMap.jpg"
       ],
       "url": "https://amzn.to/4dUOUam",
       "recommendation": {
@@ -1620,7 +1620,7 @@
       ],
       "emoji": "🍷",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/YetiInsulatedWineTumblerSet.jpg"
       ],
       "url": "https://www.amazon.com/s?k=Yeti+Wine+Tumbler+Set",
       "recommendation": {
@@ -2015,7 +2015,7 @@
       ],
       "emoji": "🔋",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/SolarPowerBank.jpg"
       ],
       "url": "https://amzn.to/4oyTPmF",
       "recommendation": {
@@ -2666,7 +2666,7 @@
       ],
       "emoji": "🪆",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/LionelMessiBobbleheadFigure.jpg"
       ],
       "url": "https://www.amazon.com/s?k=Messi+Bobblehead+Figure",
       "recommendation": {
@@ -2699,7 +2699,7 @@
       ],
       "emoji": "⚽",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/NikeFlightMatchQualitySoccerBall.jpg"
       ],
       "url": "https://www.amazon.com/s?k=Nike+Flight+Match+Soccer+Ball",
       "recommendation": {
@@ -2731,7 +2731,7 @@
       ],
       "emoji": "🛡️",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/PersonalizedSoccerShinGuards.jpg"
       ],
       "url": "https://www.amazon.com/s?k=Personalized+Soccer+Shin+Guards",
       "recommendation": {
@@ -3019,7 +3019,7 @@
       ],
       "emoji": "💪",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/BasketballShootingArmSleeve.jpg"
       ],
       "url": "https://www.amazon.com/s?k=Basketball+Shooting+Arm+Sleeve",
       "recommendation": {
@@ -3084,7 +3084,7 @@
       ],
       "emoji": "🃏",
       "imgs": [
-        "TODO_ADD_IMAGE_URL"
+        "images/BasketballTradingCards.jpg"
       ],
       "url": "https://www.amazon.com/s?k=James+Harden+Basketball+Trading+Cards",
       "recommendation": {
@@ -4451,7 +4451,9 @@
         "christmas"
       ],
       "emoji": "🎸",
-      "imgs": [],
+      "imgs": [
+        "images/PersonalizedGuitarPicks.jpg"
+      ],
       "url": "https://www.amazon.com/s?k=personalized+guitar+picks",
       "recommendation": {
         "subreddit": "r/musicians",
@@ -4577,7 +4579,9 @@
         "christmas"
       ],
       "emoji": "⏱️",
-      "imgs": [],
+      "imgs": [
+        "images/MechanicalPendulumMetronome.jpg"
+      ],
       "url": "https://www.amazon.com/s?k=mechanical+pendulum+metronome",
       "recommendation": {
         "subreddit": "r/musicians",
@@ -4607,7 +4611,9 @@
         "christmas"
       ],
       "emoji": "🎵",
-      "imgs": [],
+      "imgs": [
+        "images/Harmonica.jpg"
+      ],
       "url": "https://www.amazon.com/s?k=harmonica+hohner",
       "recommendation": {
         "subreddit": "r/musicians",
@@ -4636,7 +4642,9 @@
         "christmas"
       ],
       "emoji": "🎹",
-      "imgs": [],
+      "imgs": [
+        "images/PianoKeyCleaner.jpg"
+      ],
       "url": "https://www.amazon.com/Piano-Cleaner-Preserve-Plastic-Wooden/dp/B0D21QX1HK",
       "recommendation": {
         "subreddit": "r/musicians",
@@ -5009,7 +5017,9 @@
         "christmas"
       ],
       "emoji": "🥢",
-      "imgs": [],
+      "imgs": [
+        "images/FingerChopsticksforGaming.jpg"
+      ],
       "url": "https://www.amazon.com/s?k=finger+chopsticks+gaming+snack",
       "recommendation": {
         "subreddit": "r/gamers",
@@ -5156,7 +5166,9 @@
         "halloween"
       ],
       "emoji": "📜",
-      "imgs": [],
+      "imgs": [
+        "images/PersonalizedHogwartsAcceptanceLetter.jpg"
+      ],
       "url": "https://www.etsy.com/search?q=hogwarts+acceptance+letter+personalized",
       "recommendation": {
         "subreddit": "r/Gifts",
@@ -5224,7 +5236,9 @@
         "christmas"
       ],
       "emoji": "🗺️",
-      "imgs": [],
+      "imgs": [
+        "images/Marauder'sMapWoodenJigsawPuzzle.jpg"
+      ],
       "url": "https://www.amazon.com/s?k=marauders+map+jigsaw+puzzle",
       "recommendation": {
         "subreddit": "r/harrypotter",
